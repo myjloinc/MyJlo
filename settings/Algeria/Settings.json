@@ -559,6 +559,25 @@
         "thumbnail_url": "https://getfblite.com/wp-content/uploads/2017/08/messenger-lite-2.png"
       },
 
+      "User_Community_Support":
+      {
+        "is_override" : false,
+        "is_live_support" : false,
+        "tg_messenger_uri": "https://t.me/joinchat/",
+        "tg_messenger_id": "JOQ_XRbkuW3hZbj1N-YLmQ",
+        "is_system_browser": true,
+        "live_support_url": "",
+        "banner_url": "http://www.sixboxes.com/_customelements/uploadedResources/085624_community.jpg",
+        "website_url": "",
+        "progress_downloading_message": "Downloading",
+        "progress_install_message": "Installing",
+        "application_package_id": "org.telegram.messenger",
+        "full_title": "USer Community",
+        "application_download_url": "",
+        "description": "For User Community,\n\nYou have to install this app after that you will be touch with user group",
+        "thumbnail_url": "http://www.arenawp.com/wp-content/uploads/mo/thumb-monochrome-round-user-group-icon-vector.jpg"
+      },
+
       "Feedback_Support":
       {
         "is_override" : false,
