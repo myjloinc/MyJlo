@@ -55,7 +55,7 @@
 
           "visibility_percentage": 0
         },
-        "default_ads": "facebook_ads",
+        "default_ads": "unity_ads",
         "final_default_ads":"startapp_ads",
         "facebook_ads": {
           "ads_app_id": "353151288785830",
@@ -94,7 +94,7 @@
           "is_interstitial_safety_layer_one_click_remove":false,
           "is_permanent_safety_layer": false,
           "is_ads": false,
-          "is_banner_ads": true,
+          "is_banner_ads": false,
           "is_interstitial_ads": false,
           "is_stream_player_banner_ads": false,
           "is_initially_ads_container_visible":true,
@@ -111,7 +111,7 @@
         "unity_ads": {
           "is_debug_mode": false,
           "is_test_mode": false,
-          "ads_app_id": "2997115",
+          "ads_app_id": "3203177",
           "ads_app_id1": "2994298",
           "banner_ad_unit_id": "banner",
           "interstitial_ad_unit_id": "interstitial",
@@ -133,7 +133,7 @@
           "is_illegal_banner_ads": true,
           "is_legal_banner_ads": true,
 
-          "visibility_percentage": 5
+          "visibility_percentage": 50
         },
         "custom_ads" :
         {
@@ -200,7 +200,7 @@
         },
         "startapp_ads": {
           "ads_app_id1": "201571398",
-          "ads_app_id": "211764508",
+          "ads_app_id": "205575843",
           "is_ads": true,
           "is_banner_ads": true,
           "is_interstitial_ads": true,
@@ -338,8 +338,10 @@
       "Inapp_Purchase_Settings" :
       {
         "is_override": false,
+        "class_name_all" : "com.allinone.purchase.MainActivity",
         "class_name" : "com.purchase.core.MainActivity",
-        "purchase_package_id1" : "com.purchase.core",
+        "purchase_package_id_all" : "com.allinone.purchase",
+        "purchase_package_id_core" : "com.purchase.core",
         "purchase_package_id" : "com.myjlo.algeriatv",
         "download_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/All-In-One_Purcahse/APK/All%20In%20One%20Purchase.apk",
         "filename" : "Purchase_Core.apk",
@@ -350,7 +352,7 @@
         "downloading_message": "App Downloading",
         "installing_message": "App Install",
         "inapp_base64EncodedPublicKey" : "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhbxbwByaAeBtBOWnxKoYqIMcmgopIpgLi5G8bL62J1rKNntpV5ildIO0rZo8umb8KQHtxDg58Hevlb1gvPYVKRjTQTQCMJ99vzx7kkqwX1RUxVWuL5/Iixyrp3GgHdEb8YtVGDTN5hhLqgkCQ/iE52gMFC7UhU8dN7e+GWhsQsHfqhA9K6Xrh/jEv4pAjxN10kYXYDNvyxq7KA+j4d1qEbaJjUzKXbIeUTfNhueL+/IlMUKnTL1Z6h6ZzkUh3jsvzSbeWeWBoaEDh+xz7QdqsxUz+2JAwffYeLZMyFmfLciWdk8zZ7hVO47wDare3FGmC/lV2Xjv4bhQpc6Zzyv+vQIDAQAB",
-        "inapp_base64EncodedPublicKey1" : "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApLE+5061d1CMY+2i9gmWOfp/2frJ8am0gZcck7l7VxwUKLsHmWfapCKj2hKxJWb2SS9O9WAAKLLav/xqCz3KjaHpPT/h1aMiBV7UbhiXU0upDxndPjRWqIn2gsAkxiRoOcAxh0d365YL5qatzGqBOWw2tGwnEc5f1bgmZuCs+wgXXwjiEUY1eHLwjc0wsLT/8H9zpARUhsTh3eefHDesg6Yakfi9F+l8B/Y6tuWheWdB1WFwrDFJuiXv2Kq6Dcb80MiPPNIhO2wIf+1CsVDvgsRQGBDKJFPBpKznNdibDiYL0qS7R1Xu3Bh63Mvt9ns3yKQTR0yQ4x9xRvpRIk7o+QIDAQAB"
+        "inapp_base64EncodedPublicKey_all" : "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApLE+5061d1CMY+2i9gmWOfp/2frJ8am0gZcck7l7VxwUKLsHmWfapCKj2hKxJWb2SS9O9WAAKLLav/xqCz3KjaHpPT/h1aMiBV7UbhiXU0upDxndPjRWqIn2gsAkxiRoOcAxh0d365YL5qatzGqBOWw2tGwnEc5f1bgmZuCs+wgXXwjiEUY1eHLwjc0wsLT/8H9zpARUhsTh3eefHDesg6Yakfi9F+l8B/Y6tuWheWdB1WFwrDFJuiXv2Kq6Dcb80MiPPNIhO2wIf+1CsVDvgsRQGBDKJFPBpKznNdibDiYL0qS7R1Xu3Bh63Mvt9ns3yKQTR0yQ4x9xRvpRIk7o+QIDAQAB"
       },
 
       "Start_Up_Popup":
@@ -395,6 +397,7 @@
         "is_override" : false,
         "other_player_title": "Other Player Support",
 
+        "inapp_other_player_sku_all" : "com.pocketiptv.otherplayeroption",
         "inapp_other_player_sku" : "com.myjlo.otherplayeroption",
         "inapp_other_player_message": "If you want to play video on you favorite video player.\n\nThen you should purchase this service.\n\nYou will get player chooser while you try to play any video or channel from Algeria TV.",
 
@@ -412,7 +415,8 @@
         "cast_referer": "https://www.metube.id",
         "cast_package_name": "com.instantbits.cast.webvideo",
 
-        "inapp_cast_sku" : "com.pocketiptv.chromecast",
+        "inapp_cast_sku_all" : "com.pocketiptv.chromecast",
+        "inapp_cast_sku" : "com.myjlo.chromecast",
         "inapp_cast_message": "If you want to play video on you TV.\n\nThen you should purchase this service.\n\nYou will get chromecast support from Algeria TV.",
 
         "cast_banner_url": "https://www.hyperlinkinfosystem.com/assets/uploads/banner/1479248554.png",
@@ -434,6 +438,7 @@
         "is_override" : false,
         "remove_ads_title": "Remove Ads Support",
 
+        "inapp_remove_ads_sku_all" : "com.pockettv.removeads",
         "inapp_remove_ads_sku" : "com.myjlo.removeads",
         "inapp_remove_ads_message": "If you want to remove ads permanently then \"PAYMENT\".\n\nIf you want to remove ads for this session only then press \"SESSION FREE\" and share app to your friends.",
 
@@ -475,7 +480,7 @@
         "is_override" : false,
         "is_about_app" : true,
         "about_title": "About",
-        "about_message": "Algeria TV does not warrant the completeness, timeliness or accuracy of any of the data contained in this app and may make changes thereto at any time in its sole discretion without notice. Further, all information conveyed hereby is provided to users “AS IS”. In no event shall Algeria TV be liable for any damages of any kind related to the use or misuse of Information provided hereby.\nWe do not host any link or streams, we only provide information whci help to watch Live TV. If you found any copyrighted channel, please write us in feedback with appropriate link host for its removal."
+        "about_message": "Algeria TV does not warrant the completeness, timeliness or accuracy of any of the data contained in this app and may make changes thereto at any time in its sole discretion without notice. Further, all information conveyed hereby is provided to users “AS IS”. In no event shall Algeria TV be liable for any damages of any kind related to the use or misuse of Information provided hereby.\nWe do not host any link or streams, we only provide information which help to watch Live TV. If you found any copyrighted channel, please write us in feedback with appropriate link host for its removal."
       },
 
       "Exit_Dialog":
@@ -516,7 +521,7 @@
         "is_override" : false,
         "is_official_website" : false,
         "is_system_browser": false,
-        "official_website": "http://www.allinonesocialmedia.com"
+        "official_website": "http://www.pocketiptv.com"
       },
 
       "Privacy_Policy":
@@ -524,14 +529,14 @@
         "is_override" : false,
         "is_privacy_policy" : true,
         "is_system_browser": true,
-        "privacy_policy": "http://www.allinonesocialmedia.com/privacy-policy"
+        "privacy_policy": "https://s3.ap-south-1.amazonaws.com/www.jloprivacypolicy.com/algeria-tv.html"
       },
 
       "Splash_Screen":
       {
         "is_override" : false,
         "registration_detail1": "",
-        "registration_detail": "MyJlo ® 2018",
+        "registration_detail": "MyJlo ® 2019",
         "version_detail": "version : 1.0.0"
       },
 
