@@ -389,7 +389,9 @@
         "is_remove_ads_support":true,
         "is_remove_ads_session_free_support":false,
 
-        "is_purchase_restore_support":true
+        "is_purchase_restore_support":true,
+
+        "is_original_thumb_icon":true
       },
 
       "Other_Player_Support":
