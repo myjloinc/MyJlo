@@ -443,8 +443,8 @@
 
         "inapp_remove_ads_sku_all" : "com.pockettv.removeads",
         "inapp_remove_ads_sku" : "com.myjlo.removeads",
-        "inapp_remove_ads_message": "If you want to remove ads permanently then \"PAYMENT\".\n\nIf you want to remove ads for this session only then press \"SESSION FREE\" and share app to your friends.",
-
+        "inapp_remove_ads_message1": "If you want to remove ads permanently then \"PAYMENT\".\n\nIf you want to remove ads for this session only then press \"SESSION FREE\" and share app to your friends.",
+        "inapp_remove_ads_message": "If you want to remove ads permanently then \"PAYMENT\".",
         "remove_ads_banner_url": "https://ads-blocker.com/wp-content/uploads/2015/02/ads-blocker-logo.png",
 
         "success_remove_ads_message": "Congratulations!\nNow Algeria TV is ADS FREE."
