@@ -51,14 +51,6 @@
             "satellite_url": "https://astra.ses/channels/b4u-music-uk",
             "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/b4u_music_in.png"
           },
-          "sub_7": {
-            "id": 7,
-            "mode": "satellite",
-            "name": "B4U Music",
-            "sub_name": "",
-            "satellite_url": "https://astra.ses/channels/b4u-music-uk-0",
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/b4u_music_in.png"
-          },
           "sub_9": {
             "id": 9,
             "mode": "satellite",
