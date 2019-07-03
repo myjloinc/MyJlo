@@ -19,15 +19,7 @@
             "satellite_url": "https://astra.ses/channels/aaj-tak-uk",
             "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/aaj_tak_uk.png"
           },
-          "sub_1": {
-            "id": 1,
-            "mode": "satellite",
-            "name": "Aaj Tak",
-            "sub_name": "",
-            "satellite_url": "https://astra.ses/channels/aaj-tak-uk-0",
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/aaj_tak_uk.png"
-          },
-          "sub_2": {
+         "sub_2": {
             "id": 2,
             "mode": "satellite",
             "name": "Aastha",
@@ -51,14 +43,6 @@
             "satellite_url": "https://astra.ses/channels/b4u-movies-uk",
             "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/b4u_movies_in.png"
           },
-          "sub_5": {
-            "id": 5,
-            "mode": "satellite",
-            "name": "B4U Movies",
-            "sub_name": "",
-            "satellite_url": "https://astra.ses/channels/b4u-movies-uk-0",
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/b4u_movies_in.png"
-          },
           "sub_6": {
             "id": 6,
             "mode": "satellite",
@@ -75,14 +59,6 @@
             "satellite_url": "https://astra.ses/channels/b4u-music-uk-0",
             "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/b4u_music_in.png"
           },
-          "sub_8": {
-            "id": 8,
-            "mode": "satellite",
-            "name": "B4U Plus",
-            "sub_name": "",
-            "satellite_url": "https://astra.ses/channels/b4u-plus",
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/b4u-plus-in.png"
-          },
           "sub_9": {
             "id": 9,
             "mode": "satellite",
@@ -97,22 +73,6 @@
             "name": "Colors",
             "sub_name": "",
             "satellite_url": "https://astra.ses/channels/colors-0",
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/colors_in.png"
-          },
-          "sub_11": {
-            "id": 11,
-            "mode": "satellite",
-            "name": "Colors",
-            "sub_name": "",
-            "satellite_url": "https://astra.ses/channels/colors-1",
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/colors_in.png"
-          },
-          "sub_12": {
-            "id": 12,
-            "mode": "satellite",
-            "name": "Colors",
-            "sub_name": "",
-            "satellite_url": "https://astra.ses/channels/colors-2",
             "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/colors_in.png"
           },
           "sub_13": {
@@ -131,22 +91,6 @@
             "satellite_url": "https://astra.ses/channels/colors-rishtey-europe",
             "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/colors-rishtey-in.png"
           },
-          "sub_15": {
-            "id": 15,
-            "mode": "satellite",
-            "name": "Colors Rishtey Europe",
-            "sub_name": "",
-            "satellite_url": "https://astra.ses/channels/colors-rishtey-europe-0",
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/colors-rishtey-in.png"
-          },
-          "sub_16": {
-            "id": 16,
-            "mode": "satellite",
-            "name": "Colors Rishtey Europe",
-            "sub_name": "",
-            "satellite_url": "https://astra.ses/channels/colors-rishtey-europe-1",
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/colors-rishtey-in.png"
-          },
           "sub_17": {
             "id": 17,
             "mode": "satellite",
@@ -154,14 +98,6 @@
             "sub_name": "",
             "satellite_url": "https://astra.ses/channels/ndtv-24x7",
             "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/ndtv_24x7.png"
-          },
-          "sub_18": {
-            "id": 18,
-            "mode": "satellite",
-            "name": "News 18",
-            "sub_name": "",
-            "satellite_url": "https://astra.ses/channels/news-18-uk",
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/news_18_in.png"
           },
           "sub_19": {
             "id": 19,
@@ -193,14 +129,6 @@
             "name": "Set Asia",
             "sub_name": "",
             "satellite_url": "https://astra.ses/channels/set-asia-0",
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/set_asia.png"
-          },
-          "sub_23": {
-            "id": 23,
-            "mode": "satellite",
-            "name": "Set Asia",
-            "sub_name": "",
-            "satellite_url": "https://astra.ses/channels/set-asia-1",
             "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/set_asia.png"
           },
           "sub_24": {
@@ -345,14 +273,6 @@
             "name": "Zee",
             "sub_name": "",
             "satellite_url": "https://astra.ses/channels/zee-tv-uk-0",
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/zee-tv-in.png"
-          },
-          "sub_42": {
-            "id": 42,
-            "mode": "satellite",
-            "name": "Zee",
-            "sub_name": "",
-            "satellite_url": "https://astra.ses/channels/zee-tv-uk-2",
             "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/zee-tv-in.png"
           }
         }
