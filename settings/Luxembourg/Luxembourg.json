@@ -1,0 +1,546 @@
+{
+  "TV_Data": {
+    "Channel_List": {
+      "is_channel_list": true,
+      "is_override": true,
+      "thumb_width": 150,
+      "all_Channels_Tab_Name": "",
+      "main": {
+        "id": 1,
+        "name": "Luxembourg",
+        "sub_name": "channels",
+        "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/Country/Luxembourg.png",
+        "sub": {
+          "sub_0": {
+            "id": 0,
+            "mode": "satellite",
+            "name": "Astra Promo",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/astra-promo-2",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/channels-default.svg"
+          },
+          "sub_1": {
+            "id": 1,
+            "mode": "satellite",
+            "name": "Astra Promo",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/astra-promo",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/channels-default.svg"
+          },
+          "sub_2": {
+            "id": 2,
+            "mode": "satellite",
+            "name": "Chamber",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/chamber-tv-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/chambre_des_deputes.png"
+          },
+          "sub_3": {
+            "id": 3,
+            "mode": "satellite",
+            "name": "Radio 1007",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-1007",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio_1007.png"
+          },
+          "sub_4": {
+            "id": 4,
+            "mode": "satellite",
+            "name": "Rtl",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rtl-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rtl_tele_letzebuerg.png"
+          },
+          "sub_5": {
+            "id": 5,
+            "mode": "satellite",
+            "name": "Rtl 9",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rtl-9",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rtl9.png"
+          },
+          "sub_6": {
+            "id": 6,
+            "mode": "satellite",
+            "name": "Rtl Radio",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rtl-radio",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rtl_radio_lu.png"
+          },
+          "sub_7": {
+            "id": 7,
+            "mode": "satellite",
+            "name": "Rtl Radio Letzebuerg",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rtl-radio-letzebuerg",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rtl_radio_lu_letzebuerg.png"
+          },
+          "sub_8": {
+            "id": 8,
+            "mode": "satellite",
+            "name": "Ses Promo",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/ses-promo",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/channels-default.svg"
+          },
+          "sub_9": {
+            "id": 9,
+            "mode": "satellite",
+            "name": "Ses Ultra Demo Channel",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/ses-ultra-hd-demo-channel",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/ses_uhd_demo_lu.png"
+          },
+          "sub_10": {
+            "id": 10,
+            "mode": "satellite",
+            "name": "Ses Ultra Demo Channel",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/ses-ultra-hd-demo-channel-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/ses_uhd_demo_lu.png"
+          },
+          "sub_11": {
+            "id": 11,
+            "mode": "satellite",
+            "name": "Uhd 1",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/uhd-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/uhd_1_lu.png"
+          },
+          "sub_124": {
+            "id": 124,
+            "mode": "satellite",
+            "name": "Heimatkanal",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/heimatkanal",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/heimatkanal_de.png"
+          },
+          "sub_125": {
+            "id": 125,
+            "mode": "satellite",
+            "name": "Heiss Und Sexy",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/heiss-und-sexy-tv",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/channels-default.svg"
+          },
+          "sub_126": {
+            "id": 126,
+            "mode": "satellite",
+            "name": "Hgtv Deutschland Promo",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/hgtv-deutschland-promo",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/channels-default.svg"
+          },
+          "sub_127": {
+            "id": 127,
+            "mode": "satellite",
+            "name": "History Deutschland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/history-hd-deutschland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/history_us.png"
+          },
+          "sub_128": {
+            "id": 128,
+            "mode": "satellite",
+            "name": "Hit Radio Ffh",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/hit-radio-ffh",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/hit_radio_ffh_de.png"
+          },
+          "sub_129": {
+            "id": 129,
+            "mode": "satellite",
+            "name": "Hope Channel Deutsch",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/hope-channel-deutsch",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/hope_channel_de.png"
+          },
+          "sub_130": {
+            "id": 130,
+            "mode": "satellite",
+            "name": "1",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/hr-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/hr1-de.png"
+          },
+          "sub_131": {
+            "id": 131,
+            "mode": "satellite",
+            "name": "2 Kultur",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/hr-2-kultur",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/hr2-kultur-de.png"
+          },
+          "sub_132": {
+            "id": 132,
+            "mode": "satellite",
+            "name": "2 Kultur",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/hr-2-kultur-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/hr2-kultur-de.png"
+          },
+          "sub_133": {
+            "id": 133,
+            "mode": "satellite",
+            "name": "3",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/hr-3",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/hr3-de.png"
+          },
+          "sub_134": {
+            "id": 134,
+            "mode": "satellite",
+            "name": "4",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/hr-4",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/hr4-de.png"
+          },
+          "sub_135": {
+            "id": 135,
+            "mode": "satellite",
+            "name": "Fernsehen",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/hr-fernsehen",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/hr_fernsehen_de.png"
+          },
+          "sub_136": {
+            "id": 136,
+            "mode": "satellite",
+            "name": "Fernsehen",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/hr-fernsehen-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/hr_fernsehen_de.png"
+          },
+          "sub_137": {
+            "id": 137,
+            "mode": "satellite",
+            "name": "Info",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/hr-info",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/hr-info-de.png"
+          },
+          "sub_138": {
+            "id": 138,
+            "mode": "satellite",
+            "name": "Hse 24",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/hse-24",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/hse_24.png"
+          },
+          "sub_139": {
+            "id": 139,
+            "mode": "satellite",
+            "name": "Hse 24",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/hse-24-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/hse_24.png"
+          },
+          "sub_140": {
+            "id": 140,
+            "mode": "satellite",
+            "name": "Hse 24 Extra",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/hse-24-extra",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/hse_24_extra.png"
+          },
+          "sub_141": {
+            "id": 141,
+            "mode": "satellite",
+            "name": "Hse 24 Extra",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/hse-24-extra-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/hse_24_extra.png"
+          },
+          "sub_142": {
+            "id": 142,
+            "mode": "satellite",
+            "name": "Hse 24 Trend",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/hse-24-trend",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/hse_24_trend.png"
+          },
+          "sub_143": {
+            "id": 143,
+            "mode": "satellite",
+            "name": "Inforadio",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/inforadio",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rbb_de_info_radio.png"
+          },
+          "sub_144": {
+            "id": 144,
+            "mode": "satellite",
+            "name": "Intv",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/intv-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/intv_de.png"
+          },
+          "sub_145": {
+            "id": 145,
+            "mode": "satellite",
+            "name": "Isar",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/isar-tv",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/isar_tv_de.png"
+          },
+          "sub_146": {
+            "id": 146,
+            "mode": "satellite",
+            "name": "Jam New Music Radio",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/jam-fm-new-music-radio",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/jam_fm_de.png"
+          },
+          "sub_147": {
+            "id": 147,
+            "mode": "satellite",
+            "name": "Jukebox",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/jukebox",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/jukebox_de.png"
+          },
+          "sub_148": {
+            "id": 148,
+            "mode": "satellite",
+            "name": "Junior",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/junior-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/junior_tv_de.png"
+          },
+          "sub_149": {
+            "id": 149,
+            "mode": "satellite",
+            "name": "Juwelo",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/juwelo",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/juwelo_tv_de.png"
+          },
+          "sub_150": {
+            "id": 150,
+            "mode": "satellite",
+            "name": "Juwelo",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/juwelo-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/juwelo_tv_de.png"
+          },
+          "sub_151": {
+            "id": 151,
+            "mode": "satellite",
+            "name": "Kabel Eins Austria",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/kabel-eins-austria",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/kabel_eins_at.png"
+          },
+          "sub_152": {
+            "id": 152,
+            "mode": "satellite",
+            "name": "Kabel Eins Classics",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/kabel-eins-classics",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/kabel_eins_classics.png"
+          },
+          "sub_153": {
+            "id": 153,
+            "mode": "satellite",
+            "name": "Kabel Eins Deutschland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/kabel-eins-deutschland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/kabel_eins_de.png"
+          },
+          "sub_154": {
+            "id": 154,
+            "mode": "satellite",
+            "name": "Kabel Eins Deutschland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/kabel-eins-deutschland-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/kabel_eins_de.png"
+          },
+          "sub_155": {
+            "id": 155,
+            "mode": "satellite",
+            "name": "Kabel Eins Deutschland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/kabel-eins-deutschland-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/kabel_eins_de.png"
+          },
+          "sub_156": {
+            "id": 156,
+            "mode": "satellite",
+            "name": "Kabel Eins Doku Austria",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/kabel-eins-doku-austria",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/kabel_eins_at_doku.png"
+          },
+          "sub_157": {
+            "id": 157,
+            "mode": "satellite",
+            "name": "Kabel Eins Doku Deutschland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/kabel-eins-doku-deutschland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/kabel_eins_de_doku.png"
+          },
+          "sub_158": {
+            "id": 158,
+            "mode": "satellite",
+            "name": "Kabel Eins Schweiz",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/kabel-eins-schweiz",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/kabel_eins_ch.png"
+          },
+          "sub_159": {
+            "id": 159,
+            "mode": "satellite",
+            "name": "Kika",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/kika",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/kika_de.png"
+          },
+          "sub_160": {
+            "id": 160,
+            "mode": "satellite",
+            "name": "Kika",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/kika-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/kika_de.png"
+          },
+          "sub_161": {
+            "id": 161,
+            "mode": "satellite",
+            "name": "Kinowelt",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/kinowelt-tv",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/kinowelt_tv.png"
+          },
+          "sub_162": {
+            "id": 162,
+            "mode": "satellite",
+            "name": "Kiraka",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/kiraka",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/wdr_kiraka.png"
+          },
+          "sub_163": {
+            "id": 163,
+            "mode": "satellite",
+            "name": "Klassik Radio",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/klassik-radio",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/klassik_radio_de.png"
+          },
+          "sub_164": {
+            "id": 164,
+            "mode": "satellite",
+            "name": "Kulturradio",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/kulturradio",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rbb_de_kultur_radio.png"
+          },
+          "sub_165": {
+            "id": 165,
+            "mode": "satellite",
+            "name": "",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/l-tv",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/l_tv_de.png"
+          },
+          "sub_166": {
+            "id": 166,
+            "mode": "satellite",
+            "name": "Life Channel",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/life-channel",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/life_channel_ch.png"
+          },
+          "sub_167": {
+            "id": 167,
+            "mode": "satellite",
+            "name": "Lokal Portal",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/lokal-tv-portal-340",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/lokal_tv_de.png"
+          },
+          "sub_168": {
+            "id": 168,
+            "mode": "satellite",
+            "name": "Main",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/main-tv",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/main_tv_de.png"
+          },
+          "sub_169": {
+            "id": 169,
+            "mode": "satellite",
+            "name": "Mdr Aktuell",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/mdr-aktuell",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/mdr_aktuell_de.png"
+          },
+          "sub_170": {
+            "id": 170,
+            "mode": "satellite",
+            "name": "Mdr Fernsehen Sachsen",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/mdr-fernsehen-sachsen",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/mdr_fernsehen_sachsen.png"
+          },
+          "sub_171": {
+            "id": 171,
+            "mode": "satellite",
+            "name": "Mdr Fernsehen Sachsen",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/mdr-fernsehen-sachsen-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/mdr_fernsehen_sachsen.png"
+          },
+          "sub_172": {
+            "id": 172,
+            "mode": "satellite",
+            "name": "Mdr Fernsehen Sachsenanhalt",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/mdr-fernsehen-sachsen-anhalt",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/mdr_fernsehen_sachsen_anhalt.png"
+          },
+          "sub_173": {
+            "id": 173,
+            "mode": "satellite",
+            "name": "Mdr Fernsehen Sachsenanhalt",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/mdr-fernsehen-sachsen-anhalt-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/mdr_fernsehen_sachsen_anhalt.png"
+          },
+          "sub_174": {
+            "id": 174,
+            "mode": "satellite",
+            "name": "Mdr Fernsehen Thuringen",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/mdr-fernsehen-thuringen",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/mdr_fernsehen_thuringen.png"
+          },
+          "sub_175": {
+            "id": 175,
+            "mode": "satellite",
+            "name": "Mdr Fernsehen Thuringen",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/mdr-fernsehen-thuringen-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/mdr_fernsehen_thuringen.png"
+          },
+          "sub_176": {
+            "id": 176,
+            "mode": "satellite",
+            "name": "Mdr Jump",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/mdr-jump",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/mdr_jump.png"
+          },
+          "sub_177": {
+            "id": 177,
+            "mode": "satellite",
+            "name": "Mdr Klassik",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/mdr-klassik",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/mdr_klassik.png"
+          }
+        }
+      }
+    }
+  }
+}

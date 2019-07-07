@@ -1,0 +1,746 @@
+{
+  "TV_Data": {
+    "Channel_List": {
+      "is_channel_list": true,
+      "is_override": true,
+      "thumb_width": 150,
+      "all_Channels_Tab_Name": "",
+      "main": {
+        "id": 65,
+        "name": "Austria",
+        "sub_name": "channels",
+        "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/Country/Austria.png",
+        "sub": {
+          "sub_0": {
+            "id": 0,
+            "mode": "satellite",
+            "name": "Atv",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/atv",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/atv_at.png"
+          },
+          "sub_1": {
+            "id": 1,
+            "mode": "satellite",
+            "name": "Atv",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/atv-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/atv_at.png"
+          },
+          "sub_2": {
+            "id": 2,
+            "mode": "satellite",
+            "name": "Atv 2",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/atv-2",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/atv2_at.png"
+          },
+          "sub_3": {
+            "id": 3,
+            "mode": "satellite",
+            "name": "Comedy Central Austria",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/comedy-central-austria",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/comedy-central-deutschland-us-de.png"
+          },
+          "sub_4": {
+            "id": 4,
+            "mode": "satellite",
+            "name": "Dmax Austria",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/dmax-austria",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/dmax_at.png"
+          },
+          "sub_5": {
+            "id": 5,
+            "mode": "satellite",
+            "name": "Gotv",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/gotv",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/go_tv_at.png"
+          },
+          "sub_6": {
+            "id": 6,
+            "mode": "satellite",
+            "name": "Hitradio",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/hitradio-o3",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/orf_hitradio_o3_tv.png"
+          },
+          "sub_7": {
+            "id": 7,
+            "mode": "satellite",
+            "name": "Hitradio",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/hitradio-o3-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/orf_hitradio_o3_tv.png"
+          },
+          "sub_8": {
+            "id": 8,
+            "mode": "satellite",
+            "name": "1 Innviertel",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/ht-1-innviertel",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/ht1_innviertel.png"
+          },
+          "sub_9": {
+            "id": 9,
+            "mode": "satellite",
+            "name": "Kabel Eins Austria",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/kabel-eins-austria",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/kabel_eins_at.png"
+          },
+          "sub_10": {
+            "id": 10,
+            "mode": "satellite",
+            "name": "Kabel Eins Doku Austria",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/kabel-eins-doku-austria",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/kabel_eins_at_doku.png"
+          },
+          "sub_11": {
+            "id": 11,
+            "mode": "satellite",
+            "name": "1",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/lt-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/lt_1_at.png"
+          },
+          "sub_12": {
+            "id": 12,
+            "mode": "satellite",
+            "name": "Melodie Express",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/melodie-express",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/melodie_express_at.png"
+          },
+          "sub_13": {
+            "id": 13,
+            "mode": "satellite",
+            "name": "Melodie",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/melodie-tv",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/melodie_tv_at.png"
+          },
+          "sub_14": {
+            "id": 14,
+            "mode": "satellite",
+            "name": "Ntv Austria",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/n-tv-austria",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/n-tv-de.png"
+          },
+          "sub_15": {
+            "id": 15,
+            "mode": "satellite",
+            "name": "N24 Doku Austria",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/n24-doku-austria",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/n24-doku-austria-de-at.png"
+          },
+          "sub_16": {
+            "id": 16,
+            "mode": "satellite",
+            "name": "Nickelodeon Austria",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/nickelodeon-austria",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/nick_us_at.png"
+          },
+          "sub_17": {
+            "id": 17,
+            "mode": "satellite",
+            "name": "Nitro Austria",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/nitro-austria",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/nitro_de_austria.png"
+          },
+          "sub_18": {
+            "id": 18,
+            "mode": "satellite",
+            "name": "",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/o1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/orf_radio_oesterreich1.png"
+          },
+          "sub_19": {
+            "id": 19,
+            "mode": "satellite",
+            "name": "Oe24",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/oe24-tv",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/oe_24_tv_at.png"
+          },
+          "sub_20": {
+            "id": 20,
+            "mode": "satellite",
+            "name": "Orf 2",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/orf-2",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/orf_2_at.png"
+          },
+          "sub_21": {
+            "id": 21,
+            "mode": "satellite",
+            "name": "Orf 2",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/orf-2-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/orf_2_at.png"
+          },
+          "sub_22": {
+            "id": 22,
+            "mode": "satellite",
+            "name": "Orf 2",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/orf-2-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/orf_2_at.png"
+          },
+          "sub_23": {
+            "id": 23,
+            "mode": "satellite",
+            "name": "Orf 2 Burgenland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/orf-2-burgenland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/orf_2_at.png"
+          },
+          "sub_24": {
+            "id": 24,
+            "mode": "satellite",
+            "name": "Orf 2 Burgenland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/orf-2-burgenland-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/orf_2_at.png"
+          },
+          "sub_25": {
+            "id": 25,
+            "mode": "satellite",
+            "name": "Orf 2 Europe",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/orf-2-europe",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/orf_2_at.png"
+          },
+          "sub_26": {
+            "id": 26,
+            "mode": "satellite",
+            "name": "Orf 2 Karnten",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/orf-2-karnten",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/orf_2_at.png"
+          },
+          "sub_27": {
+            "id": 27,
+            "mode": "satellite",
+            "name": "Orf 2 Karnten",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/orf-2-karnten-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/orf_2_at.png"
+          },
+          "sub_28": {
+            "id": 28,
+            "mode": "satellite",
+            "name": "Orf 2 Niederosterreich",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/orf-2-niederosterreich",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/orf_2_at.png"
+          },
+          "sub_29": {
+            "id": 29,
+            "mode": "satellite",
+            "name": "Orf 2 Niederosterreich",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/orf-2-niederosterreich-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/orf_2_at.png"
+          },
+          "sub_30": {
+            "id": 30,
+            "mode": "satellite",
+            "name": "Orf 2 Oberosterreich",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/orf-2-oberosterreich",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/orf_2_at.png"
+          },
+          "sub_31": {
+            "id": 31,
+            "mode": "satellite",
+            "name": "Orf 2 Oberosterreich",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/orf-2-oberosterreich-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/orf_2_at.png"
+          },
+          "sub_32": {
+            "id": 32,
+            "mode": "satellite",
+            "name": "Orf 2 Salzburg",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/orf-2-salzburg",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/orf_2_at.png"
+          },
+          "sub_33": {
+            "id": 33,
+            "mode": "satellite",
+            "name": "Orf 2 Salzburg",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/orf-2-salzburg-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/orf_2_at.png"
+          },
+          "sub_34": {
+            "id": 34,
+            "mode": "satellite",
+            "name": "Orf 2 Steiermark",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/orf-2-steiermark",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/orf_2_at.png"
+          },
+          "sub_35": {
+            "id": 35,
+            "mode": "satellite",
+            "name": "Orf 2 Steiermark",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/orf-2-steiermark-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/orf_2_at.png"
+          },
+          "sub_36": {
+            "id": 36,
+            "mode": "satellite",
+            "name": "Orf 2 Tirol",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/orf-2-tirol",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/orf_2_at.png"
+          },
+          "sub_37": {
+            "id": 37,
+            "mode": "satellite",
+            "name": "Orf 2 Tirol",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/orf-2-tirol-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/orf_2_at.png"
+          },
+          "sub_38": {
+            "id": 38,
+            "mode": "satellite",
+            "name": "Orf 2 Vorarlberg",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/orf-2-vorarlberg",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/orf_2_at.png"
+          },
+          "sub_39": {
+            "id": 39,
+            "mode": "satellite",
+            "name": "Orf 2 Vorarlberg",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/orf-2-vorarlberg-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/orf_2_at.png"
+          },
+          "sub_40": {
+            "id": 40,
+            "mode": "satellite",
+            "name": "Orf 2 Wien",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/orf-2-wien",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/orf_2_at.png"
+          },
+          "sub_41": {
+            "id": 41,
+            "mode": "satellite",
+            "name": "Orf Eins",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/orf-eins",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/orf_eins.png"
+          },
+          "sub_42": {
+            "id": 42,
+            "mode": "satellite",
+            "name": "Orf Eins",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/orf-eins-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/orf_eins.png"
+          },
+          "sub_43": {
+            "id": 43,
+            "mode": "satellite",
+            "name": "Orf Iii",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/orf-iii",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/orf_3_at.png"
+          },
+          "sub_44": {
+            "id": 44,
+            "mode": "satellite",
+            "name": "Orf Iii",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/orf-iii-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/orf_3_at.png"
+          },
+          "sub_45": {
+            "id": 45,
+            "mode": "satellite",
+            "name": "Orf Sport",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/orf-sport",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/orf_sport_plus.png"
+          },
+          "sub_46": {
+            "id": 46,
+            "mode": "satellite",
+            "name": "Orf Sport",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/orf-sport-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/orf_sport_plus.png"
+          },
+          "sub_47": {
+            "id": 47,
+            "mode": "satellite",
+            "name": "Prosieben Austria",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/prosieben-austria",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/pro_sieben_at.png"
+          },
+          "sub_48": {
+            "id": 48,
+            "mode": "satellite",
+            "name": "Prosieben Austria",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/prosieben-austria-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/pro_sieben_at.png"
+          },
+          "sub_49": {
+            "id": 49,
+            "mode": "satellite",
+            "name": "Prosieben Maxx Austria",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/prosieben-maxx-austria",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/pro_sieben_maxx_at.png"
+          },
+          "sub_50": {
+            "id": 50,
+            "mode": "satellite",
+            "name": "Puls 4",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/puls-4",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/puls_4_at.png"
+          },
+          "sub_51": {
+            "id": 51,
+            "mode": "satellite",
+            "name": "Puls 4",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/puls-4-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/puls_4_at.png"
+          },
+          "sub_52": {
+            "id": 52,
+            "mode": "satellite",
+            "name": "",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/r9",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/r_9_at.png"
+          },
+          "sub_53": {
+            "id": 53,
+            "mode": "satellite",
+            "name": "Radio Burgenland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-burgenland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/orf_radio_burgenland.png"
+          },
+          "sub_54": {
+            "id": 54,
+            "mode": "satellite",
+            "name": "Radio 4",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-fm-4",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/orf_fm4.png"
+          },
+          "sub_55": {
+            "id": 55,
+            "mode": "satellite",
+            "name": "Radio Karnten",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-karnten",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/orf_radio_kaernten.png"
+          },
+          "sub_56": {
+            "id": 56,
+            "mode": "satellite",
+            "name": "Radio Maria Osterreich",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-maria-osterreich",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio_maria_international.png"
+          },
+          "sub_57": {
+            "id": 57,
+            "mode": "satellite",
+            "name": "Radio Niederosterreich",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-niederosterreich",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/orf_radio_niederoesterreich.png"
+          },
+          "sub_58": {
+            "id": 58,
+            "mode": "satellite",
+            "name": "Radio Oberosterreich",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-oberosterreich",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/orf_radio_oberoesterreich.png"
+          },
+          "sub_59": {
+            "id": 59,
+            "mode": "satellite",
+            "name": "Radio Osttirol",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-osttirol",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio_osttirol.png"
+          },
+          "sub_60": {
+            "id": 60,
+            "mode": "satellite",
+            "name": "Radio Pos Osterreich",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-pos-osterreich",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio_pos_de.png"
+          },
+          "sub_61": {
+            "id": 61,
+            "mode": "satellite",
+            "name": "Radio Salzburg",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-salzburg",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/orf_radio_salzburg.png"
+          },
+          "sub_62": {
+            "id": 62,
+            "mode": "satellite",
+            "name": "Radio Steiermark",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-steiermark",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/orf_radio_steiermark.png"
+          },
+          "sub_63": {
+            "id": 63,
+            "mode": "satellite",
+            "name": "Radio Tirol",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-tirol",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/orf_radio_tirol.png"
+          },
+          "sub_64": {
+            "id": 64,
+            "mode": "satellite",
+            "name": "Radio Tirol",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-u1-tirol",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/u1_radio_tirol.png"
+          },
+          "sub_65": {
+            "id": 65,
+            "mode": "satellite",
+            "name": "Radio Vorarlberg",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-vorarlberg",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/orf_radio_vorarlberg.png"
+          },
+          "sub_66": {
+            "id": 66,
+            "mode": "satellite",
+            "name": "Radio Wien",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-wien",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/orf_radio_wien.png"
+          },
+          "sub_67": {
+            "id": 67,
+            "mode": "satellite",
+            "name": "Rtl 2 Austria",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rtl-2-austria",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rtl2_at.png"
+          },
+          "sub_68": {
+            "id": 68,
+            "mode": "satellite",
+            "name": "Rtl 2 Austria",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rtl-2-austria-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rtl2_at.png"
+          },
+          "sub_69": {
+            "id": 69,
+            "mode": "satellite",
+            "name": "Rtl Austria",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rtl-austria",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rtl_at.png"
+          },
+          "sub_70": {
+            "id": 70,
+            "mode": "satellite",
+            "name": "Rtl Austria",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rtl-austria-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rtl_at.png"
+          },
+          "sub_71": {
+            "id": 71,
+            "mode": "satellite",
+            "name": "Rtl Plus Osterreich",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rtl-plus-osterreich",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rtl_plus_de.png"
+          },
+          "sub_72": {
+            "id": 72,
+            "mode": "satellite",
+            "name": "Sat 1 Gold Osterreich",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sat-1-gold-osterreich",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sat1_at_gold.png"
+          },
+          "sub_73": {
+            "id": 73,
+            "mode": "satellite",
+            "name": "Sat 1 Osterreich",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sat-1-osterreich",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sat1_at.png"
+          },
+          "sub_74": {
+            "id": 74,
+            "mode": "satellite",
+            "name": "Sat 1 Osterreich",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sat-1-osterreich-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sat1_at.png"
+          },
+          "sub_75": {
+            "id": 75,
+            "mode": "satellite",
+            "name": "Schau",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/schau-tv",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/schau-tv-at.png"
+          },
+          "sub_76": {
+            "id": 76,
+            "mode": "satellite",
+            "name": "Servus Deutschland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/servus-tv-deutschland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/servus_tv_de.png"
+          },
+          "sub_77": {
+            "id": 77,
+            "mode": "satellite",
+            "name": "Servus Deutschland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/servus-tv-deutschland-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/servus_tv_de.png"
+          },
+          "sub_78": {
+            "id": 78,
+            "mode": "satellite",
+            "name": "Servus Osterreich",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/servus-tv-osterreich",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/servus_tv_at.png"
+          },
+          "sub_79": {
+            "id": 79,
+            "mode": "satellite",
+            "name": "Servus Osterreich",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/servus-tv-osterreich-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/servus_tv_at.png"
+          },
+          "sub_80": {
+            "id": 80,
+            "mode": "satellite",
+            "name": "Sixx Austria",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sixx-austria",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sixx_at.png"
+          },
+          "sub_81": {
+            "id": 81,
+            "mode": "satellite",
+            "name": "Sky Sport Austria",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sport-austria",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky_de_sport_austria.png"
+          },
+          "sub_82": {
+            "id": 82,
+            "mode": "satellite",
+            "name": "Sky Sport Austria",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sport-austria-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky_de_sport_austria.png"
+          },
+          "sub_83": {
+            "id": 83,
+            "mode": "satellite",
+            "name": "Super Rtl Austria",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/super-rtl-austria",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/super-rtl-de.png"
+          },
+          "sub_84": {
+            "id": 84,
+            "mode": "satellite",
+            "name": "Tlc Austria",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tlc-austria",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tlc_uk.png"
+          },
+          "sub_85": {
+            "id": 85,
+            "mode": "satellite",
+            "name": "1 Oberosterreich",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-1-oberosterreich",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tv-1-oberosterreich-at.png"
+          },
+          "sub_86": {
+            "id": 86,
+            "mode": "satellite",
+            "name": "Vox Austria",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/vox-austria",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/vox_at.png"
+          },
+          "sub_87": {
+            "id": 87,
+            "mode": "satellite",
+            "name": "Vox Austria",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/vox-austria-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/vox_at.png"
+          },
+          "sub_88": {
+            "id": 88,
+            "mode": "satellite",
+            "name": "Welle 1",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/welle-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/welle-1-at.png"
+          },
+          "sub_89": {
+            "id": 89,
+            "mode": "satellite",
+            "name": "Welle 1 Ausserfern",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/welle-1-ausserfern",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/welle-1-at.png"
+          },
+          "sub_90": {
+            "id": 90,
+            "mode": "satellite",
+            "name": "Welle 1 Oberland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/welle-1-oberland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/welle-1-at.png"
+          }
+        }
+      }
+    }
+  }
+}

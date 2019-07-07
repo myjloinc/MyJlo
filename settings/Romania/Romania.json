@@ -1,0 +1,586 @@
+{
+  "TV_Data": {
+    "Channel_List": {
+      "is_channel_list": true,
+      "is_override": true,
+      "thumb_width": 150,
+      "all_Channels_Tab_Name": "",
+      "main": {
+        "id": 18,
+        "name": "Romania",
+        "sub_name": "channels",
+        "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/Country/Romania.png",
+        "sub": {
+          "sub_0": {
+            "id": 0,
+            "mode": "satellite",
+            "name": "Amc Romania",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/amc-romania",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/amc-us.png"
+          },
+          "sub_1": {
+            "id": 1,
+            "mode": "satellite",
+            "name": "Antena 1",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/antena-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/antena1_ro.png"
+          },
+          "sub_2": {
+            "id": 2,
+            "mode": "satellite",
+            "name": "Antena 3",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/antena-3",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/antena3_ro.png"
+          },
+          "sub_3": {
+            "id": 3,
+            "mode": "satellite",
+            "name": "Antena International",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/antena-international",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/antena_international.png"
+          },
+          "sub_4": {
+            "id": 4,
+            "mode": "satellite",
+            "name": "Antena Stars",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/antena-stars",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/antena_stars_ro.png"
+          },
+          "sub_5": {
+            "id": 5,
+            "mode": "satellite",
+            "name": "Axn Romania",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/axn-romania",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/axn_global.png"
+          },
+          "sub_6": {
+            "id": 6,
+            "mode": "satellite",
+            "name": "Axn Spin Romania",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/axn-spin-romania",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/axn-spin-us.png"
+          },
+          "sub_7": {
+            "id": 7,
+            "mode": "satellite",
+            "name": "",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/b1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/b1-ro.png"
+          },
+          "sub_8": {
+            "id": 8,
+            "mode": "satellite",
+            "name": "Bbc Earth Romania",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bbc-earth-romania",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bbc_earth_uk.png"
+          },
+          "sub_9": {
+            "id": 9,
+            "mode": "satellite",
+            "name": "Bbc Earth Romania",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bbc-earth-romania",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bbc_earth_uk.png"
+          },
+          "sub_10": {
+            "id": 10,
+            "mode": "satellite",
+            "name": "Bbc Earth Romania",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bbc-earth-romania-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bbc_earth_uk.png"
+          },
+          "sub_11": {
+            "id": 11,
+            "mode": "satellite",
+            "name": "Bollywood",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bollywood-tv",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bollywood_tv_ro.png"
+          },
+          "sub_12": {
+            "id": 12,
+            "mode": "satellite",
+            "name": "Comedy Central Romania",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/comedy-central-romania",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/comedy-central-deutschland-us-de.png"
+          },
+          "sub_13": {
+            "id": 13,
+            "mode": "satellite",
+            "name": "Digi 24",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/digi-24",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/dig-24-ro.png"
+          },
+          "sub_14": {
+            "id": 14,
+            "mode": "satellite",
+            "name": "Discovery Channel Romania",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/discovery-channel-romania",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/discovery_global_us.png"
+          },
+          "sub_15": {
+            "id": 15,
+            "mode": "satellite",
+            "name": "Disney Channel Romania",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/disney-channel-romania",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/disney_channel_global.png"
+          },
+          "sub_16": {
+            "id": 16,
+            "mode": "satellite",
+            "name": "Disney Junior Romania Bulgaria",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/disney-junior-romania-bulgaria",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/disney_junior_us.png"
+          },
+          "sub_17": {
+            "id": 17,
+            "mode": "satellite",
+            "name": "Diva Romania",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/diva-romania-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/diva_global.png"
+          },
+          "sub_18": {
+            "id": 18,
+            "mode": "satellite",
+            "name": "Diva Romania",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/diva-romania-2",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/diva_global.png"
+          },
+          "sub_19": {
+            "id": 19,
+            "mode": "satellite",
+            "name": "Erdely",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/erdely-tv-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/erdely_tv.png"
+          },
+          "sub_20": {
+            "id": 20,
+            "mode": "satellite",
+            "name": "Etno",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/etno-tv",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/etno_tv.png"
+          },
+          "sub_21": {
+            "id": 21,
+            "mode": "satellite",
+            "name": "Etno",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/etno-tv-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/etno_tv.png"
+          },
+          "sub_22": {
+            "id": 22,
+            "mode": "satellite",
+            "name": "Favorit",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/favorit-tv",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/favorit_tv_ro.png"
+          },
+          "sub_23": {
+            "id": 23,
+            "mode": "satellite",
+            "name": "Favorit",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/favorit-tv-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/favorit_tv_ro.png"
+          },
+          "sub_24": {
+            "id": 24,
+            "mode": "satellite",
+            "name": "Film Cafe Romania",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/film-cafe-romania",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/film_cafe_hu.png"
+          },
+          "sub_25": {
+            "id": 25,
+            "mode": "satellite",
+            "name": "Filmbox Extra Romania",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/filmbox-extra-hd-romania",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/filmbox_extra_pl_hd.png"
+          },
+          "sub_26": {
+            "id": 26,
+            "mode": "satellite",
+            "name": "Happy Channel",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/happy-channel",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/happy_channel_ro.png"
+          },
+          "sub_27": {
+            "id": 27,
+            "mode": "satellite",
+            "name": "Hbo Romania",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/hbo-romania",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/hbo_ro.png"
+          },
+          "sub_28": {
+            "id": 28,
+            "mode": "satellite",
+            "name": "Kanal Romania",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/kanal-d-romania",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/kanal_d_ro.png"
+          },
+          "sub_29": {
+            "id": 29,
+            "mode": "satellite",
+            "name": "Kiss",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/kiss-tv",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/kiss_tv_ro.png"
+          },
+          "sub_30": {
+            "id": 30,
+            "mode": "satellite",
+            "name": "Lookplus",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/lookplus",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/lookplus-ro.png"
+          },
+          "sub_31": {
+            "id": 31,
+            "mode": "satellite",
+            "name": "Looksport",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/looksport",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/looksport-ro.png"
+          },
+          "sub_32": {
+            "id": 32,
+            "mode": "satellite",
+            "name": "Minimax Romania",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/minimax-romania",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/minimax_ro.png"
+          },
+          "sub_33": {
+            "id": 33,
+            "mode": "satellite",
+            "name": "Minimax Romania",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/minimax-romania-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/minimax_ro.png"
+          },
+          "sub_34": {
+            "id": 34,
+            "mode": "satellite",
+            "name": "National 24 Plus",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/national-24-plus",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/national_24_plus.png"
+          },
+          "sub_35": {
+            "id": 35,
+            "mode": "satellite",
+            "name": "National Geographic Romania",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/national-geographic-romania-hd",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/nat_geo_us_hd.png"
+          },
+          "sub_36": {
+            "id": 36,
+            "mode": "satellite",
+            "name": "National",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/national-tv",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/ntv_ro.png"
+          },
+          "sub_37": {
+            "id": 37,
+            "mode": "satellite",
+            "name": "Neptun",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/neptun-tv",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/neptun_tv_ro.png"
+          },
+          "sub_38": {
+            "id": 38,
+            "mode": "satellite",
+            "name": "Orange Romania Promo",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/orange-romania-promo",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/channels-default.svg"
+          },
+          "sub_39": {
+            "id": 39,
+            "mode": "satellite",
+            "name": "Paramount Channel Romania",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/paramount-channel-romania",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/paramount_channel_us.png"
+          },
+          "sub_40": {
+            "id": 40,
+            "mode": "satellite",
+            "name": "Prima",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/prima-tv",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/prima_tv_ro.png"
+          },
+          "sub_41": {
+            "id": 41,
+            "mode": "satellite",
+            "name": "Pro 2",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/pro-2",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/pro-2-ro.png"
+          },
+          "sub_42": {
+            "id": 42,
+            "mode": "satellite",
+            "name": "Pro 2",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/pro-2-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/pro-2-ro.png"
+          },
+          "sub_43": {
+            "id": 43,
+            "mode": "satellite",
+            "name": "Pro Cinema",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/pro-cinema",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/pro-cinema-ro.png"
+          },
+          "sub_44": {
+            "id": 44,
+            "mode": "satellite",
+            "name": "Pro Cinema",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/pro-cinema-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/pro-cinema-ro.png"
+          },
+          "sub_45": {
+            "id": 45,
+            "mode": "satellite",
+            "name": "Pro Gold",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/pro-gold",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/pro-gold-ro.png"
+          },
+          "sub_46": {
+            "id": 46,
+            "mode": "satellite",
+            "name": "Pro Gold",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/pro-gold-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/pro-gold-ro.png"
+          },
+          "sub_47": {
+            "id": 47,
+            "mode": "satellite",
+            "name": "Pro",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/pro-tv",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/pro-tv-ro.png"
+          },
+          "sub_48": {
+            "id": 48,
+            "mode": "satellite",
+            "name": "Pro",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/pro-tv-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/pro-tv-ro.png"
+          },
+          "sub_49": {
+            "id": 49,
+            "mode": "satellite",
+            "name": "Pro International",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/pro-tv-international",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/pro-tv-international-ro.png"
+          },
+          "sub_50": {
+            "id": 50,
+            "mode": "satellite",
+            "name": "Pro International",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/pro-tv-international-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/pro-tv-international-ro.png"
+          },
+          "sub_51": {
+            "id": 51,
+            "mode": "satellite",
+            "name": "Pro International",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/pro-tv-international-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/pro-tv-international-ro.png"
+          },
+          "sub_52": {
+            "id": 52,
+            "mode": "satellite",
+            "name": "Pro",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/pro-x",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/pro-x-ro.png"
+          },
+          "sub_53": {
+            "id": 53,
+            "mode": "satellite",
+            "name": "Pro",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/pro-x-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/pro-x-ro.png"
+          },
+          "sub_54": {
+            "id": 54,
+            "mode": "satellite",
+            "name": "Realitatea",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/realitatea-tv",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/realitatea_tv.png"
+          },
+          "sub_55": {
+            "id": 55,
+            "mode": "satellite",
+            "name": "Realitatea",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/realitatea-tv-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/realitatea_tv.png"
+          },
+          "sub_56": {
+            "id": 56,
+            "mode": "satellite",
+            "name": "Romania",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/romania-tv",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/romania_tv_ro.png"
+          },
+          "sub_57": {
+            "id": 57,
+            "mode": "satellite",
+            "name": "Speranta",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/speranta-tv",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/speranta_tv.png"
+          },
+          "sub_58": {
+            "id": 58,
+            "mode": "satellite",
+            "name": "Taraf",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/taraf-tv",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/taraf_tv.png"
+          },
+          "sub_59": {
+            "id": 59,
+            "mode": "satellite",
+            "name": "Taraf",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/taraf-tv-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/taraf_tv.png"
+          },
+          "sub_60": {
+            "id": 60,
+            "mode": "satellite",
+            "name": "Travel Mix",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/travel-mix",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/travel_mix.png"
+          },
+          "sub_61": {
+            "id": 61,
+            "mode": "satellite",
+            "name": "Trinitas",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/trinitas-tv",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/trinitas-tv-ro.png"
+          },
+          "sub_62": {
+            "id": 62,
+            "mode": "satellite",
+            "name": "Trinitas",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/trinitas-tv-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/trinitas-tv-ro.png"
+          },
+          "sub_63": {
+            "id": 63,
+            "mode": "satellite",
+            "name": "Paprika Romania",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-paprika-romania",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tv_paprika_hu.png"
+          },
+          "sub_64": {
+            "id": 64,
+            "mode": "satellite",
+            "name": "Tvr 1",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tvr-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tvr-1-ro.png"
+          },
+          "sub_65": {
+            "id": 65,
+            "mode": "satellite",
+            "name": "Tvr 2",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tvr-2",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tvr-2-ro.png"
+          },
+          "sub_66": {
+            "id": 66,
+            "mode": "satellite",
+            "name": "Tvr 3",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tvr-3",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tvr-3-ro.png"
+          },
+          "sub_67": {
+            "id": 67,
+            "mode": "satellite",
+            "name": "Tvr",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tvr-hd",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tvr_hd.png"
+          },
+          "sub_68": {
+            "id": 68,
+            "mode": "satellite",
+            "name": "Tvr International",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tvr-international",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tvr-international-ro.png"
+          },
+          "sub_69": {
+            "id": 69,
+            "mode": "satellite",
+            "name": "Vtv",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/vtv-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/vtv_ro.png"
+          },
+          "sub_70": {
+            "id": 70,
+            "mode": "satellite",
+            "name": "",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/zu-tv",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/zu_tv_ro.png"
+          }
+        }
+      }
+    }
+  }
+}

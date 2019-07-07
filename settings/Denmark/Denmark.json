@@ -1,0 +1,322 @@
+{
+  "TV_Data": {
+    "Channel_List": {
+      "is_channel_list": true,
+      "is_override": true,
+      "thumb_width": 150,
+      "all_Channels_Tab_Name": "",
+      "main": {
+        "id": 32,
+        "name": "Denmark",
+        "sub_name": "channels",
+        "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/Country/Denmark.png",
+        "sub": {
+          "sub_0": {
+            "id": 0,
+            "mode": "satellite",
+            "name": "6 Eren",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/6eren",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/0-9/6_eren_dk.png"
+          },
+          "sub_1": {
+            "id": 1,
+            "mode": "satellite",
+            "name": "Canal 9",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/canal-9",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/canal9_dk.png"
+          },
+          "sub_2": {
+            "id": 2,
+            "mode": "satellite",
+            "name": "Disney Channel Danmark",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/disney-channel-danmark",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/disney_channel_global.png"
+          },
+          "sub_3": {
+            "id": 3,
+            "mode": "satellite",
+            "name": "4",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/dk-4",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/dk_4.png"
+          },
+          "sub_4": {
+            "id": 4,
+            "mode": "satellite",
+            "name": "1",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/dr-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/dr1-dk.png"
+          },
+          "sub_5": {
+            "id": 5,
+            "mode": "satellite",
+            "name": "2",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/dr-2",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/dr2-dk.png"
+          },
+          "sub_6": {
+            "id": 6,
+            "mode": "satellite",
+            "name": "3",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/dr-3",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/dr3-dk.png"
+          },
+          "sub_7": {
+            "id": 7,
+            "mode": "satellite",
+            "name": "",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/dr-k",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/dr-k-dk.png"
+          },
+          "sub_8": {
+            "id": 8,
+            "mode": "satellite",
+            "name": "",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/dr-p1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/dr-p1-dk.png"
+          },
+          "sub_9": {
+            "id": 9,
+            "mode": "satellite",
+            "name": "",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/dr-p2",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/dr-p2-dk.png"
+          },
+          "sub_10": {
+            "id": 10,
+            "mode": "satellite",
+            "name": "",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/dr-p3",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/dr-p3-dk.png"
+          },
+          "sub_11": {
+            "id": 11,
+            "mode": "satellite",
+            "name": "Ramasjang",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/dr-ramasjang",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/dr-ramasjang-dk.png"
+          },
+          "sub_12": {
+            "id": 12,
+            "mode": "satellite",
+            "name": "Ultra",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/dr-ultra",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/dr-ultra-dk.png"
+          },
+          "sub_13": {
+            "id": 13,
+            "mode": "satellite",
+            "name": "Eurosport 2 Danmark",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/eurosport-2-danmark",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/eurosport_fr_2.png"
+          },
+          "sub_14": {
+            "id": 14,
+            "mode": "satellite",
+            "name": "Kanal 4",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/kanal-4",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/kanal_4_dk.png"
+          },
+          "sub_15": {
+            "id": 15,
+            "mode": "satellite",
+            "name": "Kanal 5",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/kanal-5",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/kanal_5_dk.png"
+          },
+          "sub_16": {
+            "id": 16,
+            "mode": "satellite",
+            "name": "National Geographic Danmark",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/national-geographic-danmark",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/nat_geo_us.png"
+          },
+          "sub_17": {
+            "id": 17,
+            "mode": "satellite",
+            "name": "Nickelodeon Danmark",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/nickelodeon-danmark",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/nickelodeon_us.png"
+          },
+          "sub_18": {
+            "id": 18,
+            "mode": "satellite",
+            "name": "Paramount Network Danmark",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/paramount-network-danmark",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/paramount-network-us.png"
+          },
+          "sub_19": {
+            "id": 19,
+            "mode": "satellite",
+            "name": "2 Bornholm",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-2-bornholm",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tv2_bornholm.png"
+          },
+          "sub_20": {
+            "id": 20,
+            "mode": "satellite",
+            "name": "2 Charlie",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-2-charlie",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tv2_charlie_dk.png"
+          },
+          "sub_21": {
+            "id": 21,
+            "mode": "satellite",
+            "name": "2 Fri",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-2-fri",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tv2_fri_dk.png"
+          },
+          "sub_22": {
+            "id": 22,
+            "mode": "satellite",
+            "name": "2 Fyn",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-2-fyn",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tv2_fyn_dk.png"
+          },
+          "sub_23": {
+            "id": 23,
+            "mode": "satellite",
+            "name": "2 Lorry",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-2-lorry",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tv2_lorry_dk.png"
+          },
+          "sub_24": {
+            "id": 24,
+            "mode": "satellite",
+            "name": "2 Midtvest",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-2-midtvest",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tv2_midt_vest_dk.png"
+          },
+          "sub_25": {
+            "id": 25,
+            "mode": "satellite",
+            "name": "2 News",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-2-news",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tv2_news_dk.png"
+          },
+          "sub_26": {
+            "id": 26,
+            "mode": "satellite",
+            "name": "2 Nord",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-2-nord",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tv2_nord.png"
+          },
+          "sub_27": {
+            "id": 27,
+            "mode": "satellite",
+            "name": "2 Ost",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-2-ost",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tv2_ost_dk.png"
+          },
+          "sub_28": {
+            "id": 28,
+            "mode": "satellite",
+            "name": "2 Ostjylland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-2-ostjylland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tv2_ostjylland.png"
+          },
+          "sub_29": {
+            "id": 29,
+            "mode": "satellite",
+            "name": "2 Sport",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-2-sport",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tv2_sport_dk.png"
+          },
+          "sub_30": {
+            "id": 30,
+            "mode": "satellite",
+            "name": "2 Syd",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-2-syd",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tv2_syd_dk.png"
+          },
+          "sub_31": {
+            "id": 31,
+            "mode": "satellite",
+            "name": "2 Zulu",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-2-zulu",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tv2_zulu_dk.png"
+          },
+          "sub_32": {
+            "id": 32,
+            "mode": "satellite",
+            "name": "3 Danmark",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-3-danmark",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_tv3_dk.png"
+          },
+          "sub_33": {
+            "id": 33,
+            "mode": "satellite",
+            "name": "3 Max",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-3-max",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tv3-max-dk.png"
+          },
+          "sub_34": {
+            "id": 34,
+            "mode": "satellite",
+            "name": "3 Puls",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-3-puls",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_tv3_puls_dk.png"
+          },
+          "sub_35": {
+            "id": 35,
+            "mode": "satellite",
+            "name": "3 Sport",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-3-sport",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tv3-sport-dk.png"
+          },
+          "sub_36": {
+            "id": 36,
+            "mode": "satellite",
+            "name": "3",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-3-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_tv3_plus_dk.png"
+          },
+          "sub_37": {
+            "id": 37,
+            "mode": "satellite",
+            "name": "3",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-3-2",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_tv3_plus_dk.png"
+          }
+        }
+      }
+    }
+  }
+}

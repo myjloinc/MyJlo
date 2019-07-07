@@ -1,0 +1,1242 @@
+{
+  "TV_Data": {
+    "Channel_List": {
+      "is_channel_list": true,
+      "is_override": true,
+      "thumb_width": 150,
+      "all_Channels_Tab_Name": "",
+      "main": {
+        "id": 36,
+        "name": "Sweden",
+        "sub_name": "channels",
+        "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/Country/Sweden.png",
+        "sub": {
+          "sub_0": {
+            "id": 0,
+            "mode": "satellite",
+            "name": "Atg Live",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/atg-live",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/atg_live.png"
+          },
+          "sub_1": {
+            "id": 1,
+            "mode": "satellite",
+            "name": "Bandit Classics",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bandit-classics",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bandit_rock_se.png"
+          },
+          "sub_2": {
+            "id": 2,
+            "mode": "satellite",
+            "name": "Bandit Rock 1063",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bandit-rock-106-3",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bandit_rock_se.png"
+          },
+          "sub_3": {
+            "id": 3,
+            "mode": "satellite",
+            "name": "Barnkanalen",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/barnkanalen",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/svt_barnkanalen.png"
+          },
+          "sub_4": {
+            "id": 4,
+            "mode": "satellite",
+            "name": "More Fotboll",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/c-more-fotboll-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/c_more_se_fotboll_hd.png"
+          },
+          "sub_5": {
+            "id": 5,
+            "mode": "satellite",
+            "name": "More Golf Sverige",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/c-more-golf-sverige-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/c_more_se_golf_hd.png"
+          },
+          "sub_6": {
+            "id": 6,
+            "mode": "satellite",
+            "name": "More Hockey",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/c-more-hockey-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/c_more_se_hockey_hd.png"
+          },
+          "sub_7": {
+            "id": 7,
+            "mode": "satellite",
+            "name": "More Live",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/c-more-live",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/c_more_se_live_1.png"
+          },
+          "sub_8": {
+            "id": 8,
+            "mode": "satellite",
+            "name": "More Live",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/c-more-live-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/c_more_se_live_1.png"
+          },
+          "sub_9": {
+            "id": 9,
+            "mode": "satellite",
+            "name": "Discovery Channel Sweden",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/discovery-channel-sweden",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/discovery_global_us.png"
+          },
+          "sub_10": {
+            "id": 10,
+            "mode": "satellite",
+            "name": "Discovery Channel Sweden",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/discovery-channel-sweden-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/discovery_global_us.png"
+          },
+          "sub_11": {
+            "id": 11,
+            "mode": "satellite",
+            "name": "Epic Drama",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/epic-drama",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/epic-drama-se.png"
+          },
+          "sub_12": {
+            "id": 12,
+            "mode": "satellite",
+            "name": "Epic Drama",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/epic-drama-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/epic-drama-se.png"
+          },
+          "sub_13": {
+            "id": 13,
+            "mode": "satellite",
+            "name": "Epic Drama",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/epic-drama-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/epic-drama-se.png"
+          },
+          "sub_14": {
+            "id": 14,
+            "mode": "satellite",
+            "name": "Epic Drama",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/epic-drama-3",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/epic-drama-se.png"
+          },
+          "sub_15": {
+            "id": 15,
+            "mode": "satellite",
+            "name": "Fox Sverige",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/fox-sverige",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/fox_global.png"
+          },
+          "sub_16": {
+            "id": 16,
+            "mode": "satellite",
+            "name": "History Sverige",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/history-sverige",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/history_us.png"
+          },
+          "sub_17": {
+            "id": 17,
+            "mode": "satellite",
+            "name": "Investigation Discovery Sverige",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/investigation-discovery-sverige",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/investigation_discovery_us.png"
+          },
+          "sub_18": {
+            "id": 18,
+            "mode": "satellite",
+            "name": "Kanal 10 Sverige",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/kanal-10-sverige",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/kanal10_se.png"
+          },
+          "sub_19": {
+            "id": 19,
+            "mode": "satellite",
+            "name": "Kanal 11",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/kanal-11",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/kanal_11_se.png"
+          },
+          "sub_20": {
+            "id": 20,
+            "mode": "satellite",
+            "name": "Kanal 5",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/kanal-5-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/kanal_5_se.png"
+          },
+          "sub_21": {
+            "id": 21,
+            "mode": "satellite",
+            "name": "Kanal 75 International",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/kanal-75-international",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/kanal75_se.png"
+          },
+          "sub_22": {
+            "id": 22,
+            "mode": "satellite",
+            "name": "Kanal 9",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/kanal-9",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/kanal9_se.png"
+          },
+          "sub_23": {
+            "id": 23,
+            "mode": "satellite",
+            "name": "Kunskapskanalen",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/kunskapskanalen",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/kunskapskanalen-se.png"
+          },
+          "sub_24": {
+            "id": 24,
+            "mode": "satellite",
+            "name": "Lugna Favoriter",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/lugna-favoriter",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/lugna_favoriter_se.png"
+          },
+          "sub_25": {
+            "id": 25,
+            "mode": "satellite",
+            "name": "Mtv Nordic",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/mtv-nordic",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/mtv_us.png"
+          },
+          "sub_26": {
+            "id": 26,
+            "mode": "satellite",
+            "name": "Nickelodeon Sverige",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/nickelodeon-sverige",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/nickelodeon_us.png"
+          },
+          "sub_27": {
+            "id": 27,
+            "mode": "satellite",
+            "name": "Paramount Network Sverige",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/paramount-network-sverige",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/paramount-network-us.png"
+          },
+          "sub_28": {
+            "id": 28,
+            "mode": "satellite",
+            "name": "Power Club",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/power-club",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/power_club_se.png"
+          },
+          "sub_29": {
+            "id": 29,
+            "mode": "satellite",
+            "name": "Power Hit Radio",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/power-hit-radio",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/power_hit_radio_se.png"
+          },
+          "sub_30": {
+            "id": 30,
+            "mode": "satellite",
+            "name": "Rix",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rix-fm",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rix_fm_se.png"
+          },
+          "sub_31": {
+            "id": 31,
+            "mode": "satellite",
+            "name": "Sjuan",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sjuan",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sjuan-se.png"
+          },
+          "sub_32": {
+            "id": 32,
+            "mode": "satellite",
+            "name": "Sportkanalen",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sportkanalen",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sportkanalen-se.png"
+          },
+          "sub_33": {
+            "id": 33,
+            "mode": "satellite",
+            "name": "Star 90",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/star-90s",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/star_90s_se.png"
+          },
+          "sub_34": {
+            "id": 34,
+            "mode": "satellite",
+            "name": "Svenska Favoriter",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/svenska-favoriter",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/svenska_favoriter_se.png"
+          },
+          "sub_35": {
+            "id": 35,
+            "mode": "satellite",
+            "name": "Svt 1",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/svt-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/svt_1.png"
+          },
+          "sub_36": {
+            "id": 36,
+            "mode": "satellite",
+            "name": "Svt 1",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/svt-1-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/svt_1.png"
+          },
+          "sub_37": {
+            "id": 37,
+            "mode": "satellite",
+            "name": "Svt 1",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/svt-1-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/svt_1.png"
+          },
+          "sub_38": {
+            "id": 38,
+            "mode": "satellite",
+            "name": "Svt 2",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/svt-2",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/svt_2.png"
+          },
+          "sub_39": {
+            "id": 39,
+            "mode": "satellite",
+            "name": "Svt 2",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/svt-2-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/svt_2.png"
+          },
+          "sub_40": {
+            "id": 40,
+            "mode": "satellite",
+            "name": "Svt 2",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/svt-2-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/svt_2.png"
+          },
+          "sub_41": {
+            "id": 41,
+            "mode": "satellite",
+            "name": "Svt 24",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/svt-24",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/svt_24.png"
+          },
+          "sub_42": {
+            "id": 42,
+            "mode": "satellite",
+            "name": "Svt Dalarna",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/svt-dalarna",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/svt_se_regionalt.png"
+          },
+          "sub_43": {
+            "id": 43,
+            "mode": "satellite",
+            "name": "Svt Norrbotten",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/svt-norrbotten",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/svt_se_regionalt.png"
+          },
+          "sub_44": {
+            "id": 44,
+            "mode": "satellite",
+            "name": "Svt Skane",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/svt-skane",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/svt_se_regionalt.png"
+          },
+          "sub_45": {
+            "id": 45,
+            "mode": "satellite",
+            "name": "Svt Smaland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/svt-smaland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/svt_se_regionalt.png"
+          },
+          "sub_46": {
+            "id": 46,
+            "mode": "satellite",
+            "name": "Svt Varmland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/svt-varmland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/svt_se_regionalt.png"
+          },
+          "sub_47": {
+            "id": 47,
+            "mode": "satellite",
+            "name": "Svt Vast",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/svt-vast",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/svt_se_regionalt.png"
+          },
+          "sub_48": {
+            "id": 48,
+            "mode": "satellite",
+            "name": "Svt Vasterbotten",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/svt-vasterbotten",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/svt_se_regionalt.png"
+          },
+          "sub_49": {
+            "id": 49,
+            "mode": "satellite",
+            "name": "Svt Vasternorrland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/svt-vasternorrland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/svt_se_regionalt.png"
+          },
+          "sub_50": {
+            "id": 50,
+            "mode": "satellite",
+            "name": "Tbn Nordic",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tbn-nordic",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tbn-nordic-us-se.png"
+          },
+          "sub_51": {
+            "id": 51,
+            "mode": "satellite",
+            "name": "10",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-10",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tv_10_se.png"
+          },
+          "sub_52": {
+            "id": 52,
+            "mode": "satellite",
+            "name": "1000 Action",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-1000-action",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_tv1000_action.png"
+          },
+          "sub_53": {
+            "id": 53,
+            "mode": "satellite",
+            "name": "1000 Action",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-1000-action-2",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_tv1000_action.png"
+          },
+          "sub_54": {
+            "id": 54,
+            "mode": "satellite",
+            "name": "1000 Action",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-1000-action-3",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_tv1000_action.png"
+          },
+          "sub_55": {
+            "id": 55,
+            "mode": "satellite",
+            "name": "1000 Action",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-1000-action-4",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_tv1000_action.png"
+          },
+          "sub_56": {
+            "id": 56,
+            "mode": "satellite",
+            "name": "1000 Balkan",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-1000-balkan",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_tv1000_balkan.png"
+          },
+          "sub_57": {
+            "id": 57,
+            "mode": "satellite",
+            "name": "1000 Balkan",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-1000-balkan-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_tv1000_balkan.png"
+          },
+          "sub_58": {
+            "id": 58,
+            "mode": "satellite",
+            "name": "1000 East",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-1000-east",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_tv1000_east.png"
+          },
+          "sub_59": {
+            "id": 59,
+            "mode": "satellite",
+            "name": "1000 East",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-1000-east-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_tv1000_east.png"
+          },
+          "sub_60": {
+            "id": 60,
+            "mode": "satellite",
+            "name": "1000 East",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-1000-east-2",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_tv1000_east.png"
+          },
+          "sub_61": {
+            "id": 61,
+            "mode": "satellite",
+            "name": "1000 East",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-1000-east-3",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_tv1000_east.png"
+          },
+          "sub_62": {
+            "id": 62,
+            "mode": "satellite",
+            "name": "1000 East",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-1000-east-4",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_tv1000_east.png"
+          },
+          "sub_63": {
+            "id": 63,
+            "mode": "satellite",
+            "name": "1000 Premium",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-1000-premium-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tv-1000-premium-se.png"
+          },
+          "sub_64": {
+            "id": 64,
+            "mode": "satellite",
+            "name": "1000 Premium",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-1000-premium",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tv-1000-premium-se.png"
+          },
+          "sub_65": {
+            "id": 65,
+            "mode": "satellite",
+            "name": "1000 Russkoe Kino",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-1000-russkoe-kino",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_tv1000_russkoe_kino.png"
+          },
+          "sub_66": {
+            "id": 66,
+            "mode": "satellite",
+            "name": "1000 Russkoe Kino",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-1000-russkoe-kino-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_tv1000_russkoe_kino.png"
+          },
+          "sub_67": {
+            "id": 67,
+            "mode": "satellite",
+            "name": "1000 Russkoe Kino",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-1000-russkoe-kino-2",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_tv1000_russkoe_kino.png"
+          },
+          "sub_68": {
+            "id": 68,
+            "mode": "satellite",
+            "name": "1000 Russkoe Kino",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-1000-russkoe-kino-3",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_tv1000_russkoe_kino.png"
+          },
+          "sub_69": {
+            "id": 69,
+            "mode": "satellite",
+            "name": "1000 Russkoe Kino",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-1000-russkoe-kino-4",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_tv1000_russkoe_kino.png"
+          },
+          "sub_70": {
+            "id": 70,
+            "mode": "satellite",
+            "name": "12",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-12",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tv-12-se.png"
+          },
+          "sub_71": {
+            "id": 71,
+            "mode": "satellite",
+            "name": "12",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-12-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tv-12-se.png"
+          },
+          "sub_72": {
+            "id": 72,
+            "mode": "satellite",
+            "name": "3 Sport",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-3-sport-hd",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_tv3_se_sport_hd.png"
+          },
+          "sub_73": {
+            "id": 73,
+            "mode": "satellite",
+            "name": "3 Sverige",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-3-sverige",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_tv3_se.png"
+          },
+          "sub_74": {
+            "id": 74,
+            "mode": "satellite",
+            "name": "4",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-4-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tv4.png"
+          },
+          "sub_75": {
+            "id": 75,
+            "mode": "satellite",
+            "name": "4 Fakta",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-4-fakta",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tv4_fakta_se.png"
+          },
+          "sub_76": {
+            "id": 76,
+            "mode": "satellite",
+            "name": "4 Film",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-4-film",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tv4_film.png"
+          },
+          "sub_77": {
+            "id": 77,
+            "mode": "satellite",
+            "name": "4 Guld",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-4-guld",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tv4_guld.png"
+          },
+          "sub_78": {
+            "id": 78,
+            "mode": "satellite",
+            "name": "6 Sverige",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-6-sverige",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_tv6_se.png"
+          },
+          "sub_79": {
+            "id": 79,
+            "mode": "satellite",
+            "name": "8 Sverige",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-8-sverige",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_tv8_se.png"
+          },
+          "sub_80": {
+            "id": 80,
+            "mode": "satellite",
+            "name": "Vision Sverige",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-vision-sverige",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tv_vision_sverige_no.png"
+          },
+          "sub_81": {
+            "id": 81,
+            "mode": "satellite",
+            "name": "Viasat Classic",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/viasat-classic",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_music_classic.png"
+          },
+          "sub_82": {
+            "id": 82,
+            "mode": "satellite",
+            "name": "Viasat Explore",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/viasat-explore",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_explore.png"
+          },
+          "sub_83": {
+            "id": 83,
+            "mode": "satellite",
+            "name": "Viasat Explore",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/viasat-explore-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_explore.png"
+          },
+          "sub_84": {
+            "id": 84,
+            "mode": "satellite",
+            "name": "Viasat Explore",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/viasat-explore-2",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_explore.png"
+          },
+          "sub_85": {
+            "id": 85,
+            "mode": "satellite",
+            "name": "Viasat Explore East",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/viasat-explore-east",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_explore_east.png"
+          },
+          "sub_86": {
+            "id": 86,
+            "mode": "satellite",
+            "name": "Viasat Explore East",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/viasat-explore-east-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_explore_east.png"
+          },
+          "sub_87": {
+            "id": 87,
+            "mode": "satellite",
+            "name": "Viasat Explore East",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/viasat-explore-east-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_explore_east.png"
+          },
+          "sub_88": {
+            "id": 88,
+            "mode": "satellite",
+            "name": "Viasat Explore East",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/viasat-explore-east-2",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_explore_east.png"
+          },
+          "sub_89": {
+            "id": 89,
+            "mode": "satellite",
+            "name": "Viasat Explore East",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/viasat-explore-east-3",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_explore_east.png"
+          },
+          "sub_90": {
+            "id": 90,
+            "mode": "satellite",
+            "name": "Viasat Explore East",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/viasat-explore-east-4",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_explore_east.png"
+          },
+          "sub_91": {
+            "id": 91,
+            "mode": "satellite",
+            "name": "Viasat Film Action",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/viasat-film-action",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_film_action.png"
+          },
+          "sub_92": {
+            "id": 92,
+            "mode": "satellite",
+            "name": "Viasat Film Family",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/viasat-film-family",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_film_family.png"
+          },
+          "sub_93": {
+            "id": 93,
+            "mode": "satellite",
+            "name": "Viasat Film Hits",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/viasat-film-hits",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_film_hits.png"
+          },
+          "sub_94": {
+            "id": 94,
+            "mode": "satellite",
+            "name": "Viasat Film Premiere",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/viasat-film-premiere",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_film_premiere.png"
+          },
+          "sub_95": {
+            "id": 95,
+            "mode": "satellite",
+            "name": "Viasat Film Premiere",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/viasat-film-premiere-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_film_premiere.png"
+          },
+          "sub_96": {
+            "id": 96,
+            "mode": "satellite",
+            "name": "Viasat Fotboll",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/viasat-fotboll",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_fotboll.png"
+          },
+          "sub_97": {
+            "id": 97,
+            "mode": "satellite",
+            "name": "Viasat Golf",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/viasat-golf",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_golf.png"
+          },
+          "sub_98": {
+            "id": 98,
+            "mode": "satellite",
+            "name": "Viasat Golf",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/viasat-golf-2",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_golf.png"
+          },
+          "sub_99": {
+            "id": 99,
+            "mode": "satellite",
+            "name": "Viasat History",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/viasat-history",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_history.png"
+          },
+          "sub_100": {
+            "id": 100,
+            "mode": "satellite",
+            "name": "Viasat History",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/viasat-history-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_history.png"
+          },
+          "sub_101": {
+            "id": 101,
+            "mode": "satellite",
+            "name": "Viasat History",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/viasat-history-3",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_history.png"
+          },
+          "sub_102": {
+            "id": 102,
+            "mode": "satellite",
+            "name": "Viasat History",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/viasat-history-4",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_history.png"
+          },
+          "sub_103": {
+            "id": 103,
+            "mode": "satellite",
+            "name": "Viasat History",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/viasat-history-5",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_history.png"
+          },
+          "sub_104": {
+            "id": 104,
+            "mode": "satellite",
+            "name": "Viasat History",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/viasat-history-6",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_history.png"
+          },
+          "sub_105": {
+            "id": 105,
+            "mode": "satellite",
+            "name": "Viasat History",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/viasat-history-7",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_history.png"
+          },
+          "sub_106": {
+            "id": 106,
+            "mode": "satellite",
+            "name": "Viasat History",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/viasat-history-hd",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_history_hd.png"
+          },
+          "sub_107": {
+            "id": 107,
+            "mode": "satellite",
+            "name": "Viasat History",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/viasat-history-hd-2",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_history_hd.png"
+          },
+          "sub_108": {
+            "id": 108,
+            "mode": "satellite",
+            "name": "Viasat History",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/viasat-history-hd-3",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_history_hd.png"
+          },
+          "sub_109": {
+            "id": 109,
+            "mode": "satellite",
+            "name": "Viasat History",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/viasat-history-hd-5",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_history_hd.png"
+          },
+          "sub_110": {
+            "id": 110,
+            "mode": "satellite",
+            "name": "Viasat History",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/viasat-history-hd-6",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_history_hd.png"
+          },
+          "sub_111": {
+            "id": 111,
+            "mode": "satellite",
+            "name": "Viasat History",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/viasat-history-hd-7",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_history_hd.png"
+          },
+          "sub_112": {
+            "id": 112,
+            "mode": "satellite",
+            "name": "Viasat Hockey",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/viasat-hockey",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_hockey_se.png"
+          },
+          "sub_113": {
+            "id": 113,
+            "mode": "satellite",
+            "name": "Viasat Motor",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/viasat-motor",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_motor.png"
+          },
+          "sub_114": {
+            "id": 114,
+            "mode": "satellite",
+            "name": "Viasat Nature East",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/viasat-nature-east",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_nature_east.png"
+          },
+          "sub_115": {
+            "id": 115,
+            "mode": "satellite",
+            "name": "Viasat Nature East",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/viasat-nature-east-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_nature_east.png"
+          },
+          "sub_116": {
+            "id": 116,
+            "mode": "satellite",
+            "name": "Viasat Nature East",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/viasat-nature-east-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_nature_east.png"
+          },
+          "sub_117": {
+            "id": 117,
+            "mode": "satellite",
+            "name": "Viasat Nature East",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/viasat-nature-east-3",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_nature_east.png"
+          },
+          "sub_118": {
+            "id": 118,
+            "mode": "satellite",
+            "name": "Viasat Nature East",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/viasat-nature-east-4",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_nature_east.png"
+          },
+          "sub_119": {
+            "id": 119,
+            "mode": "satellite",
+            "name": "Viasat Nature East",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/viasat-nature-east-5",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_nature_east.png"
+          },
+          "sub_120": {
+            "id": 120,
+            "mode": "satellite",
+            "name": "Viasat Nature East",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/viasat-nature-east-6",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_nature_east.png"
+          },
+          "sub_121": {
+            "id": 121,
+            "mode": "satellite",
+            "name": "Viasat Nature",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/viasat-nature-hd",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_nature_hd.png"
+          },
+          "sub_122": {
+            "id": 122,
+            "mode": "satellite",
+            "name": "Viasat Nature",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/viasat-nature-hd-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_nature_hd.png"
+          },
+          "sub_123": {
+            "id": 123,
+            "mode": "satellite",
+            "name": "Viasat Nature",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/viasat-nature-hd-2",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_nature_hd.png"
+          },
+          "sub_124": {
+            "id": 124,
+            "mode": "satellite",
+            "name": "Viasat Nature",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/viasat-nature-hd-3",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_nature_hd.png"
+          },
+          "sub_125": {
+            "id": 125,
+            "mode": "satellite",
+            "name": "Viasat Nature",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/viasat-nature-hd-4",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_nature_hd.png"
+          },
+          "sub_126": {
+            "id": 126,
+            "mode": "satellite",
+            "name": "Viasat Series",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/viasat-series",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_series.png"
+          },
+          "sub_127": {
+            "id": 127,
+            "mode": "satellite",
+            "name": "Viasat Sport East",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/viasat-sport-east",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_sport_se.png"
+          },
+          "sub_128": {
+            "id": 128,
+            "mode": "satellite",
+            "name": "Viasat Sport East",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/viasat-sport-east-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_sport_se.png"
+          },
+          "sub_129": {
+            "id": 129,
+            "mode": "satellite",
+            "name": "Viasat Sport East",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/viasat-sport-east-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_sport_se.png"
+          },
+          "sub_130": {
+            "id": 130,
+            "mode": "satellite",
+            "name": "Viasat Sport Premium",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/viasat-sport-premium",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_sport_se_premium.png"
+          },
+          "sub_131": {
+            "id": 131,
+            "mode": "satellite",
+            "name": "Viasat Sport Sverige",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/viasat-sport-sverige",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_sport_se.png"
+          },
+          "sub_132": {
+            "id": 132,
+            "mode": "satellite",
+            "name": "Viasat Ultra",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/viasat-ultra-hd-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_uhd.png"
+          },
+          "sub_133": {
+            "id": 133,
+            "mode": "satellite",
+            "name": "Viasat Urheilu",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/viasat-urheilu",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_urheilu_fi_hd.png"
+          },
+          "sub_134": {
+            "id": 134,
+            "mode": "satellite",
+            "name": "Viasat Urheilu",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/viasat-urheilu-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_urheilu_fi_hd.png"
+          },
+          "sub_135": {
+            "id": 135,
+            "mode": "satellite",
+            "name": "Viasat Xtra 1",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/viasat-xtra-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_xtra.png"
+          },
+          "sub_136": {
+            "id": 136,
+            "mode": "satellite",
+            "name": "Viasat Xtra 2",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/viasat-xtra-2",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_xtra.png"
+          },
+          "sub_137": {
+            "id": 137,
+            "mode": "satellite",
+            "name": "Viasat Xtra 3",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/viasat-xtra-3",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_xtra.png"
+          },
+          "sub_138": {
+            "id": 138,
+            "mode": "satellite",
+            "name": "Viasat Xtra 4",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/viasat-xtra-4",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_xtra.png"
+          },
+          "sub_139": {
+            "id": 139,
+            "mode": "satellite",
+            "name": "Viasat Xtra 5",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/viasat-xtra-5",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_xtra.png"
+          },
+          "sub_140": {
+            "id": 140,
+            "mode": "satellite",
+            "name": "Viasport",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/viasport",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasport-plus-se-no.png"
+          },
+          "sub_141": {
+            "id": 141,
+            "mode": "satellite",
+            "name": "Viasport 1",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/viasport-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasport-1-se-no.png"
+          },
+          "sub_142": {
+            "id": 142,
+            "mode": "satellite",
+            "name": "Viasport 2",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/viasport-2",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasport-2-se-no.png"
+          },
+          "sub_143": {
+            "id": 143,
+            "mode": "satellite",
+            "name": "Viasport 3",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/viasport-3",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasport-3-se-no.png"
+          },
+          "sub_144": {
+            "id": 144,
+            "mode": "satellite",
+            "name": "Vip Comedy",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/vip-comedy",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/vip-comedy-se.png"
+          },
+          "sub_145": {
+            "id": 145,
+            "mode": "satellite",
+            "name": "Vip Comedy",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/vip-comedy-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/vip-comedy-se.png"
+          },
+          "sub_146": {
+            "id": 146,
+            "mode": "satellite",
+            "name": "Vip Comedy",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/vip-comedy-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/vip-comedy-se.png"
+          },
+          "sub_147": {
+            "id": 147,
+            "mode": "satellite",
+            "name": "Vip Megahit",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/vip-megahit",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/vip-megahit-se.png"
+          },
+          "sub_148": {
+            "id": 148,
+            "mode": "satellite",
+            "name": "Vip Megahit",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/vip-megahit-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/vip-megahit-se.png"
+          },
+          "sub_149": {
+            "id": 149,
+            "mode": "satellite",
+            "name": "Vip Megahit",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/vip-megahit-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/vip-megahit-se.png"
+          },
+          "sub_150": {
+            "id": 150,
+            "mode": "satellite",
+            "name": "Vip Premiere",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/vip-premiere",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/vip-premiere-se.png"
+          },
+          "sub_151": {
+            "id": 151,
+            "mode": "satellite",
+            "name": "Vip Premiere",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/vip-premiere-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/vip-premiere-se.png"
+          },
+          "sub_152": {
+            "id": 152,
+            "mode": "satellite",
+            "name": "Vip Premiere",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/vip-premiere-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/vip-premiere-se.png"
+          }
+        }
+      }
+    }
+  }
+}

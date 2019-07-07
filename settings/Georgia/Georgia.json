@@ -1,0 +1,274 @@
+{
+  "TV_Data": {
+    "Channel_List": {
+      "is_channel_list": true,
+      "is_override": true,
+      "thumb_width": 150,
+      "all_Channels_Tab_Name": "",
+      "main": {
+        "id": 7,
+        "name": "Georgia",
+        "sub_name": "channels",
+        "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/Country/Georgia.png",
+        "sub": {
+          "sub_0": {
+            "id": 0,
+            "mode": "satellite",
+            "name": "1",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/1-tv",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/0-9/1tv-ge.png"
+          },
+          "sub_1": {
+            "id": 1,
+            "mode": "satellite",
+            "name": "2",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/2-tv",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/gpb_ge_2_tv.png"
+          },
+          "sub_2": {
+            "id": 2,
+            "mode": "satellite",
+            "name": "Abkhazia",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/abkhazia-hd",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/abkhazia_hd_ge.png"
+          },
+          "sub_3": {
+            "id": 3,
+            "mode": "satellite",
+            "name": "Ajara",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/ajara-tv",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/ajara_tv_ge.png"
+          },
+          "sub_4": {
+            "id": 4,
+            "mode": "satellite",
+            "name": "Chveni Magti",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/chveni-magti",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/chveni_magti_ge.png"
+          },
+          "sub_5": {
+            "id": 5,
+            "mode": "satellite",
+            "name": "Dardimandi",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/dardimandi",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/dardimandi_tv_ge.png"
+          },
+          "sub_6": {
+            "id": 6,
+            "mode": "satellite",
+            "name": "Enki Benki",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/enki-benki",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/enki_benki_ge.png"
+          },
+          "sub_7": {
+            "id": 7,
+            "mode": "satellite",
+            "name": "Ertsulovneba",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/ertsulovneba",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/ertsulovneba_tv_ge.png"
+          },
+          "sub_8": {
+            "id": 8,
+            "mode": "satellite",
+            "name": "Gds",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/gds-tv",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/gds_tv_ge.png"
+          },
+          "sub_9": {
+            "id": 9,
+            "mode": "satellite",
+            "name": "Gurjaani",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/gurjaani-tv",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/gurjaani_tv_ge.png"
+          },
+          "sub_10": {
+            "id": 10,
+            "mode": "satellite",
+            "name": "Iberia",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/iberia-tv",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/iberia_tv_ge.png"
+          },
+          "sub_11": {
+            "id": 11,
+            "mode": "satellite",
+            "name": "Imedi",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/imedi-tv",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/imedi_tv_ge.png"
+          },
+          "sub_12": {
+            "id": 12,
+            "mode": "satellite",
+            "name": "Kavkasia",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/kavkasia-tv",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/kavkasia_tv_ge.png"
+          },
+          "sub_13": {
+            "id": 13,
+            "mode": "satellite",
+            "name": "Maestro",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/maestro",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/maestro-ge.png"
+          },
+          "sub_14": {
+            "id": 14,
+            "mode": "satellite",
+            "name": "Magti Hiti",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/magti-hiti",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/magti_hiti_ge.png"
+          },
+          "sub_15": {
+            "id": 15,
+            "mode": "satellite",
+            "name": "Magti Kino",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/magti-kino",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/magti_kino_ge.png"
+          },
+          "sub_16": {
+            "id": 16,
+            "mode": "satellite",
+            "name": "Marao",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/marao-tv",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/marao_tv_ge.png"
+          },
+          "sub_17": {
+            "id": 17,
+            "mode": "satellite",
+            "name": "Mesame",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/mesame",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/mesame-ge.png"
+          },
+          "sub_18": {
+            "id": 18,
+            "mode": "satellite",
+            "name": "Obieqtivi",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/obieqtivi-tv",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/obieqtivi_tv_ge.png"
+          },
+          "sub_19": {
+            "id": 19,
+            "mode": "satellite",
+            "name": "Palitra News",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/palitra-news",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/palitra_tv_ge_news.png"
+          },
+          "sub_20": {
+            "id": 20,
+            "mode": "satellite",
+            "name": "Qartuli Arkhi",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/qartuli-arkhi",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/qartuli_arkhi_ge.png"
+          },
+          "sub_21": {
+            "id": 21,
+            "mode": "satellite",
+            "name": "Quality Channel",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/quality-channel",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/quality-channel-ge.png"
+          },
+          "sub_22": {
+            "id": 22,
+            "mode": "satellite",
+            "name": "Rioni",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rioni-tv",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rioni_tv_ge.png"
+          },
+          "sub_23": {
+            "id": 23,
+            "mode": "satellite",
+            "name": "Rugby",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rugby-tv",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rugby_tv_ge.png"
+          },
+          "sub_24": {
+            "id": 24,
+            "mode": "satellite",
+            "name": "Rustavi 2",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rustavi-2",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rustavi_2_ge.png"
+          },
+          "sub_25": {
+            "id": 25,
+            "mode": "satellite",
+            "name": "Saperavi",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/saperavi-tv-hd",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/saperavi_tv_hd_ge.png"
+          },
+          "sub_26": {
+            "id": 26,
+            "mode": "satellite",
+            "name": "Setanta Sports Georgia",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/setanta-sports-georgia-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/setanta_sports_ge_plus.png"
+          },
+          "sub_27": {
+            "id": 27,
+            "mode": "satellite",
+            "name": "Setanta Sports Georgia",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/setanta-sports-georgia",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/setanta_sports_ge.png"
+          },
+          "sub_28": {
+            "id": 28,
+            "mode": "satellite",
+            "name": "Setanta Sports Georgia",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/setanta-sports-georgia-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/setanta_sports_ge.png"
+          },
+          "sub_29": {
+            "id": 29,
+            "mode": "satellite",
+            "name": "Silk Universal",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/silk-universal",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/silk_universal_tv_ge.png"
+          },
+          "sub_30": {
+            "id": 30,
+            "mode": "satellite",
+            "name": "25",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-25",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tv-25-ge.png"
+          },
+          "sub_31": {
+            "id": 31,
+            "mode": "satellite",
+            "name": "Pirveli",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-pirveli",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tv-pirveli-ge.png"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,378 @@
+{
+  "TV_Data": {
+    "Channel_List": {
+      "is_channel_list": true,
+      "is_override": true,
+      "thumb_width": 150,
+      "all_Channels_Tab_Name": "",
+      "main": {
+        "id": 41,
+        "name": "Slovakia",
+        "sub_name": "channels",
+        "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/Country/Slovakia.png",
+        "sub": {
+          "sub_0": {
+            "id": 0,
+            "mode": "satellite",
+            "name": "Arena Sport 1",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/arena-sport-1-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/arena_sport_sk_1.png"
+          },
+          "sub_1": {
+            "id": 1,
+            "mode": "satellite",
+            "name": "Dajto",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/dajto",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/dajto_tv_sk.png"
+          },
+          "sub_2": {
+            "id": 2,
+            "mode": "satellite",
+            "name": "Duck",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/duck-tv-hd",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/duck_tv_sk_hd.png"
+          },
+          "sub_3": {
+            "id": 3,
+            "mode": "satellite",
+            "name": "Duck",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/duck-tv-sd",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/duck_tv_sk_sd.png"
+          },
+          "sub_4": {
+            "id": 4,
+            "mode": "satellite",
+            "name": "Duck",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/duck-tv-sd-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/duck_tv_sk_sd.png"
+          },
+          "sub_5": {
+            "id": 5,
+            "mode": "satellite",
+            "name": "Joj Cinema",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/joj-cinema",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/joj_tv_sk_cinema.png"
+          },
+          "sub_6": {
+            "id": 6,
+            "mode": "satellite",
+            "name": "Joj Cinema 1",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/joj-cinema-1-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/joj_tv_sk_cinema_plus1.png"
+          },
+          "sub_7": {
+            "id": 7,
+            "mode": "satellite",
+            "name": "Joj Family",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/joj-family",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/joj_tv_sk_family.png"
+          },
+          "sub_8": {
+            "id": 8,
+            "mode": "satellite",
+            "name": "Markiza International",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/markiza-international",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/markiza_tv_sk_international.png"
+          },
+          "sub_9": {
+            "id": 9,
+            "mode": "satellite",
+            "name": "Plus",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/plus-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/joj_tv_sk_plus.png"
+          },
+          "sub_10": {
+            "id": 10,
+            "mode": "satellite",
+            "name": "Radio 7",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-7",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio7_sk.png"
+          },
+          "sub_11": {
+            "id": 11,
+            "mode": "satellite",
+            "name": "Radio",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-fm",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rtv_sk_radio_fm.png"
+          },
+          "sub_12": {
+            "id": 12,
+            "mode": "satellite",
+            "name": "Radio Antena Rock",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-antena-rock",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio_antena_rock_sk.png"
+          },
+          "sub_13": {
+            "id": 13,
+            "mode": "satellite",
+            "name": "Radio Devin",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-devin",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rtv_sk_radio_devin.png"
+          },
+          "sub_14": {
+            "id": 14,
+            "mode": "satellite",
+            "name": "Radio Jazz",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-jazz",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio-jazz-sk.png"
+          },
+          "sub_15": {
+            "id": 15,
+            "mode": "satellite",
+            "name": "Radio Jemne Sever",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-jemne-sever",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio-jemne-sever-sk.png"
+          },
+          "sub_16": {
+            "id": 16,
+            "mode": "satellite",
+            "name": "Radio Jemne Vychod",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-jemne-vychod",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio-jemne-vychod-sk.png"
+          },
+          "sub_17": {
+            "id": 17,
+            "mode": "satellite",
+            "name": "Radio Jemne Zapad",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-jemne-zapad",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio-jemne-zapad-sk.png"
+          },
+          "sub_18": {
+            "id": 18,
+            "mode": "satellite",
+            "name": "Radio Junior",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-junior-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rtv_sk_radio_junior.png"
+          },
+          "sub_19": {
+            "id": 19,
+            "mode": "satellite",
+            "name": "Radio Litera",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-litera",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rtv_sk_radio_litera.png"
+          },
+          "sub_20": {
+            "id": 20,
+            "mode": "satellite",
+            "name": "Radio Lumen",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-lumen",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio_lumen_sk.png"
+          },
+          "sub_21": {
+            "id": 21,
+            "mode": "satellite",
+            "name": "Radio Patria",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-patria",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rtv_sk_radio_patria.png"
+          },
+          "sub_22": {
+            "id": 22,
+            "mode": "satellite",
+            "name": "Radio Pyramida",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-pyramida",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rtv_sk_radio_pyramida.png"
+          },
+          "sub_23": {
+            "id": 23,
+            "mode": "satellite",
+            "name": "Radio Regina Stred",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-regina-stred",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rtv_sk_radio_regina_banska_bystrica.png"
+          },
+          "sub_24": {
+            "id": 24,
+            "mode": "satellite",
+            "name": "Radio Regina Vychod",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-regina-vychod",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rtv_sk_radio_regina_kosice.png"
+          },
+          "sub_25": {
+            "id": 25,
+            "mode": "satellite",
+            "name": "Radio Regina Zapad",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-regina-zapad",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rtv_sk_radio_regina_bratislava.png"
+          },
+          "sub_26": {
+            "id": 26,
+            "mode": "satellite",
+            "name": "Radio Slovakia International",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-slovakia-international",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rtv_sk_radio_slovakia_international.png"
+          },
+          "sub_27": {
+            "id": 27,
+            "mode": "satellite",
+            "name": "Radio Slovensko",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-slovensko",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rtv_sk_radio_slovensko.png"
+          },
+          "sub_28": {
+            "id": 28,
+            "mode": "satellite",
+            "name": "Radio Vlna Stred",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-vlna-stred",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio-vlna-stred-sk.png"
+          },
+          "sub_29": {
+            "id": 29,
+            "mode": "satellite",
+            "name": "Radio Vlna Vychod",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-vlna-vychod",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio-vlna-vychod-sk.png"
+          },
+          "sub_30": {
+            "id": 30,
+            "mode": "satellite",
+            "name": "Radio Vlna Zapad",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-vlna-zapad",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio-vlna-zapad-sk.png"
+          },
+          "sub_31": {
+            "id": 31,
+            "mode": "satellite",
+            "name": "Rik",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rik",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rik_tv_sk.png"
+          },
+          "sub_32": {
+            "id": 32,
+            "mode": "satellite",
+            "name": "Rtvs 1",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rtvs-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rtv_sk_1.png"
+          },
+          "sub_33": {
+            "id": 33,
+            "mode": "satellite",
+            "name": "Rtvs 2",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rtvs-2",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rtv_sk_2.png"
+          },
+          "sub_34": {
+            "id": 34,
+            "mode": "satellite",
+            "name": "Senzi",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/senzi",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/senzi_tv_sk.png"
+          },
+          "sub_35": {
+            "id": 35,
+            "mode": "satellite",
+            "name": "Skylink 7",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/skylink-7",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/skylink-7-sk.png"
+          },
+          "sub_36": {
+            "id": 36,
+            "mode": "satellite",
+            "name": "3",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/ta-3",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/ta_3_sk.png"
+          },
+          "sub_37": {
+            "id": 37,
+            "mode": "satellite",
+            "name": "Doma",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-doma-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/doma_tv_sk.png"
+          },
+          "sub_38": {
+            "id": 38,
+            "mode": "satellite",
+            "name": "Joj",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-joj",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/joj_tv_sk.png"
+          },
+          "sub_39": {
+            "id": 39,
+            "mode": "satellite",
+            "name": "Joj 1",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-joj-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/joj_tv_sk_plus1.png"
+          },
+          "sub_40": {
+            "id": 40,
+            "mode": "satellite",
+            "name": "Lux",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-lux",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/lux_televizia_sk.png"
+          },
+          "sub_41": {
+            "id": 41,
+            "mode": "satellite",
+            "name": "Markiza",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-markiza-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/markiza_tv_sk.png"
+          },
+          "sub_42": {
+            "id": 42,
+            "mode": "satellite",
+            "name": "Markiza 1",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-markiza-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tv-markiza-plus-1-sk.png"
+          },
+          "sub_43": {
+            "id": 43,
+            "mode": "satellite",
+            "name": "Osem",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-osem",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tv-osem-sk.png"
+          },
+          "sub_44": {
+            "id": 44,
+            "mode": "satellite",
+            "name": "Wau",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/wau-tv",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/wau_tv_sk.png"
+          }
+        }
+      }
+    }
+  }
+}

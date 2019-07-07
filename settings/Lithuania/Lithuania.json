@@ -1,0 +1,506 @@
+{
+  "TV_Data": {
+    "Channel_List": {
+      "is_channel_list": true,
+      "is_override": true,
+      "thumb_width": 150,
+      "all_Channels_Tab_Name": "",
+      "main": {
+        "id": 0,
+        "name": "Lithuania",
+        "sub_name": "channels",
+        "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/Country/Lithuania.png",
+        "sub": {
+          "sub_0": {
+            "id": 0,
+            "mode": "satellite",
+            "name": "Baltijos",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/baltijos-tv-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/baltijos-tv-lt.png"
+          },
+          "sub_1": {
+            "id": 1,
+            "mode": "satellite",
+            "name": "Lietuvos Rytas",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/lietuvos-rytas-tv-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/lietuvos_rytas_tv.png"
+          },
+          "sub_2": {
+            "id": 2,
+            "mode": "satellite",
+            "name": "Lnk",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/lnk-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/lnk_lt.png"
+          },
+          "sub_3": {
+            "id": 3,
+            "mode": "satellite",
+            "name": "Lrt Lituanica",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/lrt-lituanica",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/lrt_lt_lituanica.png"
+          },
+          "sub_4": {
+            "id": 4,
+            "mode": "satellite",
+            "name": "Lrt Lituanica",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/lrt-lituanica-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/lrt_lt_lituanica.png"
+          },
+          "sub_5": {
+            "id": 5,
+            "mode": "satellite",
+            "name": "Lrt",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/lrt-tv-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/lrt_lt_televizija.png"
+          },
+          "sub_6": {
+            "id": 6,
+            "mode": "satellite",
+            "name": "1",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-1-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tv1-lt.png"
+          },
+          "sub_7": {
+            "id": 7,
+            "mode": "satellite",
+            "name": "3 Lietuva",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-3-lietuva",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_tv3_lt.png"
+          },
+          "sub_8": {
+            "id": 8,
+            "mode": "satellite",
+            "name": "3 Lietuva",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-3-lietuva-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_tv3_lt.png"
+          },
+          "sub_9": {
+            "id": 9,
+            "mode": "satellite",
+            "name": "6 Lietuva",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-6-lietuva-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tv6-lietuva-lt.png"
+          },
+          "sub_10": {
+            "id": 10,
+            "mode": "satellite",
+            "name": "8 Lietuva",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-8-lietuva-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tv8-lietuva-lt.png"
+          },
+          "sub_117": {
+            "id": 117,
+            "mode": "satellite",
+            "name": "Betfred 1",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/betfred-tv-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/betfred_tv.png"
+          },
+          "sub_118": {
+            "id": 118,
+            "mode": "satellite",
+            "name": "Betfred 2",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/betfred-tv-2",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/betfred_tv.png"
+          },
+          "sub_119": {
+            "id": 119,
+            "mode": "satellite",
+            "name": "Betfred 3",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/betfred-tv-3",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/betfred_tv.png"
+          },
+          "sub_120": {
+            "id": 120,
+            "mode": "satellite",
+            "name": "Bible Global",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bible-tv-global",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bible-tv-global-uk.png"
+          },
+          "sub_121": {
+            "id": 121,
+            "mode": "satellite",
+            "name": "Blaze",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/blaze-uk",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/blaze_uk.png"
+          },
+          "sub_122": {
+            "id": 122,
+            "mode": "satellite",
+            "name": "Bloomberg",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bloomberg-tv-uk-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bloomberg_tv_us.png"
+          },
+          "sub_123": {
+            "id": 123,
+            "mode": "satellite",
+            "name": "Boomerang",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/boomerang-uk",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/boomerang_global.png"
+          },
+          "sub_124": {
+            "id": 124,
+            "mode": "satellite",
+            "name": "Boomerang",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/boomerang-uk-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/boomerang_global.png"
+          },
+          "sub_125": {
+            "id": 125,
+            "mode": "satellite",
+            "name": "Boomerang 1",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/boomerang-uk-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/boomerang_global.png"
+          },
+          "sub_126": {
+            "id": 126,
+            "mode": "satellite",
+            "name": "Box Hits",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/box-hits-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/box_hits_uk.png"
+          },
+          "sub_127": {
+            "id": 127,
+            "mode": "satellite",
+            "name": "Box Nation",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/box-nation",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/box_nation_uk.png"
+          },
+          "sub_128": {
+            "id": 128,
+            "mode": "satellite",
+            "name": "Box Upfront",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/box-upfront-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/box_upfront_uk.png"
+          },
+          "sub_129": {
+            "id": 129,
+            "mode": "satellite",
+            "name": "Brit Asia",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/brit-asia-tv",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/brit_asia_tv.png"
+          },
+          "sub_130": {
+            "id": 130,
+            "mode": "satellite",
+            "name": "British Eurosport 1",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/british-eurosport-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/british_eurosport_1.png"
+          },
+          "sub_131": {
+            "id": 131,
+            "mode": "satellite",
+            "name": "British Eurosport 1",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/british-eurosport-1-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/british_eurosport_1.png"
+          },
+          "sub_132": {
+            "id": 132,
+            "mode": "satellite",
+            "name": "British Eurosport 2",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/british-eurosport-2",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/british_eurosport_2.png"
+          },
+          "sub_133": {
+            "id": 133,
+            "mode": "satellite",
+            "name": "British Eurosport 2",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/british-eurosport-2-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/british_eurosport_2.png"
+          },
+          "sub_134": {
+            "id": 134,
+            "mode": "satellite",
+            "name": "British Muslim",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/british-muslim-tv",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/british_muslim_tv_uk.png"
+          },
+          "sub_135": {
+            "id": 135,
+            "mode": "satellite",
+            "name": "Sport 1",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bt-sport-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bt_sport_uk_1.png"
+          },
+          "sub_136": {
+            "id": 136,
+            "mode": "satellite",
+            "name": "Sport 1",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bt-sport-1-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bt_sport_uk_1.png"
+          },
+          "sub_137": {
+            "id": 137,
+            "mode": "satellite",
+            "name": "Sport 1 Pubs",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bt-sport-1-pubs",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bt_sport_uk_1_in_pubs.png"
+          },
+          "sub_138": {
+            "id": 138,
+            "mode": "satellite",
+            "name": "Sport 2",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bt-sport-2",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bt_sport_uk_2.png"
+          },
+          "sub_139": {
+            "id": 139,
+            "mode": "satellite",
+            "name": "Sport 2",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bt-sport-2-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bt_sport_uk_2.png"
+          },
+          "sub_140": {
+            "id": 140,
+            "mode": "satellite",
+            "name": "Sport 3",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bt-sport-3",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bt_sport_uk_3.png"
+          },
+          "sub_141": {
+            "id": 141,
+            "mode": "satellite",
+            "name": "Sport 3",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bt-sport-3-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bt_sport_uk_3.png"
+          },
+          "sub_142": {
+            "id": 142,
+            "mode": "satellite",
+            "name": "Sport Espn",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bt-sport-espn-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bt_sport_uk_espn.png"
+          },
+          "sub_143": {
+            "id": 143,
+            "mode": "satellite",
+            "name": "Sport Espn",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bt-sport-espn",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bt_sport_uk_espn.png"
+          },
+          "sub_144": {
+            "id": 144,
+            "mode": "satellite",
+            "name": "Sport Extra 1",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bt-sport-extra-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bt_sport_uk_extra_1.png"
+          },
+          "sub_145": {
+            "id": 145,
+            "mode": "satellite",
+            "name": "Sport Extra 2",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bt-sport-extra-2",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bt_sport_uk_extra_2.png"
+          },
+          "sub_146": {
+            "id": 146,
+            "mode": "satellite",
+            "name": "Sport Extra 3",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bt-sport-extra-3",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bt_sport_uk_extra_3.png"
+          },
+          "sub_147": {
+            "id": 147,
+            "mode": "satellite",
+            "name": "Sport Extra 4",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bt-sport-extra-4",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bt_sport_uk_extra_4.png"
+          },
+          "sub_148": {
+            "id": 148,
+            "mode": "satellite",
+            "name": "Sport Extra 5",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bt-sport-extra-5",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bt_sport_uk_extra_5.png"
+          },
+          "sub_149": {
+            "id": 149,
+            "mode": "satellite",
+            "name": "Sport Extra 6",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bt-sport-extra-6",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bt_sport_uk_extra_6.png"
+          },
+          "sub_150": {
+            "id": 150,
+            "mode": "satellite",
+            "name": "Sport Mosaic",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bt-sport-mosaic",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bt_sport_uk_showcase.png"
+          },
+          "sub_151": {
+            "id": 151,
+            "mode": "satellite",
+            "name": "Sport Mosaic",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bt-sport-mosaic-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bt_sport_uk_showcase.png"
+          },
+          "sub_152": {
+            "id": 152,
+            "mode": "satellite",
+            "name": "Capital London",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/capital-fm-london",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/capital_fm_london.png"
+          },
+          "sub_153": {
+            "id": 153,
+            "mode": "satellite",
+            "name": "Capital Xtra",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/capital-xtra",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/capital_xtra_uk.png"
+          },
+          "sub_154": {
+            "id": 154,
+            "mode": "satellite",
+            "name": "Cartoon Network",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/cartoon-network-uk",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/cartoon_network_global.png"
+          },
+          "sub_155": {
+            "id": 155,
+            "mode": "satellite",
+            "name": "Cartoon Network",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/cartoon-network-uk-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/cartoon_network_global.png"
+          },
+          "sub_156": {
+            "id": 156,
+            "mode": "satellite",
+            "name": "Cartoon Network 1",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/cartoon-network-uk-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/cartoon_network_global.png"
+          },
+          "sub_157": {
+            "id": 157,
+            "mode": "satellite",
+            "name": "Cartoonito",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/cartoonito-uk-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/cartoonito_us.png"
+          },
+          "sub_158": {
+            "id": 158,
+            "mode": "satellite",
+            "name": "Cbbc",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/cbbc",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bbc_cbbc.png"
+          },
+          "sub_159": {
+            "id": 159,
+            "mode": "satellite",
+            "name": "Cbbc",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/cbbc-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bbc_cbbc.png"
+          },
+          "sub_160": {
+            "id": 160,
+            "mode": "satellite",
+            "name": "Cbeebies",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/cbeebies-uk",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bbc_cbeebies_uk.png"
+          },
+          "sub_161": {
+            "id": 161,
+            "mode": "satellite",
+            "name": "Cbeebies",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/cbeebies-uk-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bbc_cbeebies_uk.png"
+          },
+          "sub_162": {
+            "id": 162,
+            "mode": "satellite",
+            "name": "Cbs Drama",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/cbs-drama-uk",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/cbs_drama_uk.png"
+          },
+          "sub_163": {
+            "id": 163,
+            "mode": "satellite",
+            "name": "Cbs Justice",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/cbs-justice",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/cbs-justice-us-uk.png"
+          },
+          "sub_164": {
+            "id": 164,
+            "mode": "satellite",
+            "name": "Cbs Reality",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/cbs-reality-uk",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/cbs_reality_uk.png"
+          },
+          "sub_165": {
+            "id": 165,
+            "mode": "satellite",
+            "name": "Cbs Reality 1",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/cbs-reality-uk-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/cbs_reality_uk_plus1.png"
+          },
+          "sub_166": {
+            "id": 166,
+            "mode": "satellite",
+            "name": "Challenge Ireland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/challenge-ireland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/challenge_tv_ie.png"
+          }
+        }
+      }
+    }
+  }
+}

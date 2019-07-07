@@ -1,0 +1,666 @@
+{
+  "TV_Data": {
+    "Channel_List": {
+      "is_channel_list": true,
+      "is_override": true,
+      "thumb_width": 150,
+      "all_Channels_Tab_Name": "",
+      "main": {
+        "id": 31,
+        "name": "Armenia",
+        "sub_name": "channels",
+        "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/Country/Armenia.png",
+        "sub": {
+          "sub_0": {
+            "id": 0,
+            "mode": "satellite",
+            "name": "Armenia Satellite",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/armenia-tv-satellite",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/armenia_tv_am.png"
+          },
+          "sub_541": {
+            "id": 541,
+            "mode": "satellite",
+            "name": "Sky Demand 3",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-on-demand-hd-3-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky_uk_anytime_hd3.png"
+          },
+          "sub_542": {
+            "id": 542,
+            "mode": "satellite",
+            "name": "Sky One Ireland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-one-ireland-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky-one-uk.png"
+          },
+          "sub_543": {
+            "id": 543,
+            "mode": "satellite",
+            "name": "Sky One Ireland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-one-ireland-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky-one-uk.png"
+          },
+          "sub_544": {
+            "id": 544,
+            "mode": "satellite",
+            "name": "Sky One",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-one-uk",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky-one-uk.png"
+          },
+          "sub_545": {
+            "id": 545,
+            "mode": "satellite",
+            "name": "Sky One",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-one-uk-2",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky-one-uk.png"
+          },
+          "sub_546": {
+            "id": 546,
+            "mode": "satellite",
+            "name": "Sky One 1",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-one-uk-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky-one-uk.png"
+          },
+          "sub_547": {
+            "id": 547,
+            "mode": "satellite",
+            "name": "Sky Sports Action",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sports-action",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky_uk_sports_action.png"
+          },
+          "sub_548": {
+            "id": 548,
+            "mode": "satellite",
+            "name": "Sky Sports Action",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sports-action-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky_uk_sports_action.png"
+          },
+          "sub_549": {
+            "id": 549,
+            "mode": "satellite",
+            "name": "Sky Sports Active 1",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sports-active-lo-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky_uk_sports_active.png"
+          },
+          "sub_550": {
+            "id": 550,
+            "mode": "satellite",
+            "name": "Sky Sports Active 2",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sports-active-lo-2",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky_uk_sports_active.png"
+          },
+          "sub_551": {
+            "id": 551,
+            "mode": "satellite",
+            "name": "Sky Sports Active 3",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sports-active-lo-3",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky_uk_sports_active.png"
+          },
+          "sub_552": {
+            "id": 552,
+            "mode": "satellite",
+            "name": "Sky Sports Active 4",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sports-active-lo-4",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky_uk_sports_active.png"
+          },
+          "sub_553": {
+            "id": 553,
+            "mode": "satellite",
+            "name": "Sky Sports Active 5",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sports-active-lo-5",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky_uk_sports_active.png"
+          },
+          "sub_554": {
+            "id": 554,
+            "mode": "satellite",
+            "name": "Sky Sports Active 6",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sports-active-lo-6",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky_uk_sports_active.png"
+          },
+          "sub_555": {
+            "id": 555,
+            "mode": "satellite",
+            "name": "Sky Sports Active 7",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sports-active-lo-7",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky_uk_sports_active.png"
+          },
+          "sub_556": {
+            "id": 556,
+            "mode": "satellite",
+            "name": "Sky Sports Active 8",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sports-active-lo-8",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky_uk_sports_active.png"
+          },
+          "sub_557": {
+            "id": 557,
+            "mode": "satellite",
+            "name": "Sky Sports Active 9",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sports-active-lo-9",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky_uk_sports_active.png"
+          },
+          "sub_558": {
+            "id": 558,
+            "mode": "satellite",
+            "name": "Sky Sports Arena Ireland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sports-arena-ireland-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/channels-default.svg"
+          },
+          "sub_559": {
+            "id": 559,
+            "mode": "satellite",
+            "name": "Sky Sports Arena",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sports-arena-uk",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky_uk_sports_arena.png"
+          },
+          "sub_560": {
+            "id": 560,
+            "mode": "satellite",
+            "name": "Sky Sports Arena",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sports-arena-uk-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky_uk_sports_arena.png"
+          },
+          "sub_561": {
+            "id": 561,
+            "mode": "satellite",
+            "name": "Sky Sports Box Office",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sports-box-office-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky-sports-box-office-uk.png"
+          },
+          "sub_562": {
+            "id": 562,
+            "mode": "satellite",
+            "name": "Sky Sports Cricket",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sports-cricket",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky_uk_sports_cricket.png"
+          },
+          "sub_563": {
+            "id": 563,
+            "mode": "satellite",
+            "name": "Sky Sports Cricket",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sports-cricket-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky_uk_sports_cricket.png"
+          },
+          "sub_564": {
+            "id": 564,
+            "mode": "satellite",
+            "name": "Sky Sports",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sports-f1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky_uk_sports_f1.png"
+          },
+          "sub_565": {
+            "id": 565,
+            "mode": "satellite",
+            "name": "Sky Sports",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sports-f1-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky_uk_sports_f1.png"
+          },
+          "sub_566": {
+            "id": 566,
+            "mode": "satellite",
+            "name": "Sky Sports Football Ireland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sports-football-ireland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky_uk_sports_football.png"
+          },
+          "sub_567": {
+            "id": 567,
+            "mode": "satellite",
+            "name": "Sky Sports Football",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sports-football-uk",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky_uk_sports_football.png"
+          },
+          "sub_568": {
+            "id": 568,
+            "mode": "satellite",
+            "name": "Sky Sports Football",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sports-football-uk-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky_uk_sports_football.png"
+          },
+          "sub_569": {
+            "id": 569,
+            "mode": "satellite",
+            "name": "Sky Sports Golf Ireland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sports-golf-ireland-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/channels-default.svg"
+          },
+          "sub_570": {
+            "id": 570,
+            "mode": "satellite",
+            "name": "Sky Sports Golf",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sports-golf-uk",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky_uk_sports_golf.png"
+          },
+          "sub_571": {
+            "id": 571,
+            "mode": "satellite",
+            "name": "Sky Sports Golf",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sports-golf-uk-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky_uk_sports_golf.png"
+          },
+          "sub_572": {
+            "id": 572,
+            "mode": "satellite",
+            "name": "Sky Sports Main Event Pubs",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sports-main-event-pubs",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky_uk_sports_main_event_in_pubs.png"
+          },
+          "sub_573": {
+            "id": 573,
+            "mode": "satellite",
+            "name": "Sky Sports Main Event Ireland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sports-main-event-ireland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky_uk_sports_main_event_ie.png"
+          },
+          "sub_574": {
+            "id": 574,
+            "mode": "satellite",
+            "name": "Sky Sports Main Event Ireland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sports-main-event-ireland-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky_uk_sports_main_event_ie.png"
+          },
+          "sub_575": {
+            "id": 575,
+            "mode": "satellite",
+            "name": "Sky Sports Main Event",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sports-main-event-uk",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky_uk_sports_main_event.png"
+          },
+          "sub_576": {
+            "id": 576,
+            "mode": "satellite",
+            "name": "Sky Sports Main Event",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sports-main-event-uk-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky_uk_sports_main_event.png"
+          },
+          "sub_577": {
+            "id": 577,
+            "mode": "satellite",
+            "name": "Sky Sports Mix",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sports-mix",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky-sports-mix-uk.png"
+          },
+          "sub_578": {
+            "id": 578,
+            "mode": "satellite",
+            "name": "Sky Sports Mix",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sports-mix-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky-sports-mix-uk.png"
+          },
+          "sub_579": {
+            "id": 579,
+            "mode": "satellite",
+            "name": "Sky Sports News Pubs",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sports-news-pubs",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/skysportsnews.png"
+          },
+          "sub_580": {
+            "id": 580,
+            "mode": "satellite",
+            "name": "Sky Sports News Ireland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sports-news-ireland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/skysportsnews.png"
+          },
+          "sub_581": {
+            "id": 581,
+            "mode": "satellite",
+            "name": "Sky Sports News Ireland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sports-news-ireland-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/skysportsnews.png"
+          },
+          "sub_582": {
+            "id": 582,
+            "mode": "satellite",
+            "name": "Sky Sports News",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sports-news-uk",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/skysportsnews.png"
+          },
+          "sub_583": {
+            "id": 583,
+            "mode": "satellite",
+            "name": "Sky Sports News",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sports-news-uk-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/skysportsnews.png"
+          },
+          "sub_584": {
+            "id": 584,
+            "mode": "satellite",
+            "name": "Sky Sports Premier League Ireland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sports-premier-league-ireland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky_uk_sports_premier_league_ie.png"
+          },
+          "sub_585": {
+            "id": 585,
+            "mode": "satellite",
+            "name": "Sky Sports Premier League Ireland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sports-premier-league-ireland-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky_uk_sports_premier_league_ie.png"
+          },
+          "sub_586": {
+            "id": 586,
+            "mode": "satellite",
+            "name": "Sky Sports Premier League",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sports-premier-league-uk",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky_uk_sports_premier_league.png"
+          },
+          "sub_587": {
+            "id": 587,
+            "mode": "satellite",
+            "name": "Sky Sports Premier League",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sports-premier-league-uk-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky_uk_sports_premier_league.png"
+          },
+          "sub_588": {
+            "id": 588,
+            "mode": "satellite",
+            "name": "Sky Sports Racing Ireland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sports-racing-ireland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/at_the_races_ie.png"
+          },
+          "sub_589": {
+            "id": 589,
+            "mode": "satellite",
+            "name": "Sky Sports Racing",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sports-racing-uk-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky-sports-racing-uk.png"
+          },
+          "sub_590": {
+            "id": 590,
+            "mode": "satellite",
+            "name": "Sky Sports Racing",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sports-racing-uk",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky-sports-racing-uk.png"
+          },
+          "sub_591": {
+            "id": 591,
+            "mode": "satellite",
+            "name": "Sky Two Ireland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-two-ireland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky-two-uk.png"
+          },
+          "sub_592": {
+            "id": 592,
+            "mode": "satellite",
+            "name": "Sky Two",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-two-uk",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky-two-uk.png"
+          },
+          "sub_593": {
+            "id": 593,
+            "mode": "satellite",
+            "name": "Sky Uhd 1",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-uhd-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky_uk_uhd_1.png"
+          },
+          "sub_594": {
+            "id": 594,
+            "mode": "satellite",
+            "name": "Sky Uhd 2",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-uhd-2",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky_uk_uhd_2.png"
+          },
+          "sub_595": {
+            "id": 595,
+            "mode": "satellite",
+            "name": "Sky Witness Ireland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-witness-ireland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky-witness-uk.png"
+          },
+          "sub_596": {
+            "id": 596,
+            "mode": "satellite",
+            "name": "Sky Witness Ireland 1",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-witness-ireland-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky-witness-uk.png"
+          },
+          "sub_597": {
+            "id": 597,
+            "mode": "satellite",
+            "name": "Sky Witness",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-witness-uk-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky-witness-uk.png"
+          },
+          "sub_598": {
+            "id": 598,
+            "mode": "satellite",
+            "name": "Sky Witness",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-witness-uk",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky-witness-uk.png"
+          },
+          "sub_599": {
+            "id": 599,
+            "mode": "satellite",
+            "name": "Sky Witness 1",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-witness-uk-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky-witness-uk.png"
+          },
+          "sub_600": {
+            "id": 600,
+            "mode": "satellite",
+            "name": "Smithsonian Channel",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/smithsonian-channel-uk",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/smithsonian-channel-us.png"
+          },
+          "sub_601": {
+            "id": 601,
+            "mode": "satellite",
+            "name": "Smithsonian Channel",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/smithsonian-channel-uk-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/smithsonian-channel-us.png"
+          },
+          "sub_602": {
+            "id": 602,
+            "mode": "satellite",
+            "name": "Smooth Extra",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/smooth-extra",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/smooth_radio_uk_extra.png"
+          },
+          "sub_603": {
+            "id": 603,
+            "mode": "satellite",
+            "name": "Smooth Radio London",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/smooth-radio-london",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/smooth_radio_uk.png"
+          },
+          "sub_604": {
+            "id": 604,
+            "mode": "satellite",
+            "name": "Sony Crime Channel",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sony-crime-channel",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sony-crime-channel-in-uk.png"
+          },
+          "sub_605": {
+            "id": 605,
+            "mode": "satellite",
+            "name": "Sony Crime Channel 1",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sony-crime-channel-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sony-crime-channel-in-uk.png"
+          },
+          "sub_606": {
+            "id": 606,
+            "mode": "satellite",
+            "name": "Sony Max",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sony-max-uk",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sony_max_in.png"
+          },
+          "sub_607": {
+            "id": 607,
+            "mode": "satellite",
+            "name": "Sony Max",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sony-max-uk-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sony_max_in.png"
+          },
+          "sub_608": {
+            "id": 608,
+            "mode": "satellite",
+            "name": "Sony Max",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sony-max-uk-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sony_max_in.png"
+          },
+          "sub_609": {
+            "id": 609,
+            "mode": "satellite",
+            "name": "Sony Max",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sony-max-uk-2",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sony_max_in.png"
+          },
+          "sub_610": {
+            "id": 610,
+            "mode": "satellite",
+            "name": "Sony Movie Channel",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sony-movie-channel-uk-2",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sony_movie_channel_uk.png"
+          },
+          "sub_611": {
+            "id": 611,
+            "mode": "satellite",
+            "name": "Sony Movie Channel 1",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sony-movie-channel-uk-1-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sony_movie_channel_uk.png"
+          },
+          "sub_612": {
+            "id": 612,
+            "mode": "satellite",
+            "name": "Star Bharat",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/star-bharat-uk",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/star-bharat-hk.png"
+          },
+          "sub_613": {
+            "id": 613,
+            "mode": "satellite",
+            "name": "Star Gold",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/star-gold-uk",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/star_gold_hk.png"
+          },
+          "sub_614": {
+            "id": 614,
+            "mode": "satellite",
+            "name": "Star Gold",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/star-gold-uk-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/star_gold_hk.png"
+          },
+          "sub_615": {
+            "id": 615,
+            "mode": "satellite",
+            "name": "Star Plus",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/star-plus-uk",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/star-plus-hk.png"
+          },
+          "sub_616": {
+            "id": 616,
+            "mode": "satellite",
+            "name": "Star Plus",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/star-plus-uk-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/star-plus-hk.png"
+          },
+          "sub_617": {
+            "id": 617,
+            "mode": "satellite",
+            "name": "Starz",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/starz-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/starz_uk.png"
+          },
+          "sub_618": {
+            "id": 618,
+            "mode": "satellite",
+            "name": "Studio 66 1",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/studio-66-tv-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/studio-66-tv-uk.png"
+          },
+          "sub_619": {
+            "id": 619,
+            "mode": "satellite",
+            "name": "Studio 66 2",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/studio-66-tv-2",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/studio-66-tv-uk.png"
+          },
+          "sub_620": {
+            "id": 620,
+            "mode": "satellite",
+            "name": "Studio 66 3",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/studio-66-tv-3",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/studio-66-tv-uk.png"
+          }
+        }
+      }
+    }
+  }
+}

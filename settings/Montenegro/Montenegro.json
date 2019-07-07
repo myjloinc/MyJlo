@@ -1,0 +1,490 @@
+{
+  "TV_Data": {
+    "Channel_List": {
+      "is_channel_list": true,
+      "is_override": true,
+      "thumb_width": 150,
+      "all_Channels_Tab_Name": "",
+      "main": {
+        "id": 66,
+        "name": "Montenegro",
+        "sub_name": "channels",
+        "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/Country/Montenegro.png",
+        "sub": {
+          "sub_0": {
+            "id": 0,
+            "mode": "satellite",
+            "name": "Arena Sport 1 Crna Gora",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/arena-sport-1-crna-gora",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/arena-sport-1-rs.png"
+          },
+          "sub_1": {
+            "id": 1,
+            "mode": "satellite",
+            "name": "Arena Sport 5 Crna Gora",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/arena-sport-5-crna-gora",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/arena-sport-5-rs.png"
+          },
+          "sub_2": {
+            "id": 2,
+            "mode": "satellite",
+            "name": "Pink",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/pink-m",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/pink_rs.png"
+          },
+          "sub_3": {
+            "id": 3,
+            "mode": "satellite",
+            "name": "Prva Crna Gora",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/prva-tv-crna-gora",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/prva_rs_crna_gora.png"
+          },
+          "sub_4": {
+            "id": 4,
+            "mode": "satellite",
+            "name": "Budva",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-budva",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tv-budva-me.png"
+          },
+          "sub_5": {
+            "id": 5,
+            "mode": "satellite",
+            "name": "Niksic",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-niksic",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tv-niksic-me.png"
+          },
+          "sub_6": {
+            "id": 6,
+            "mode": "satellite",
+            "name": "Pljevlja",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-pljevlja",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tv-pljevlja-me.png"
+          },
+          "sub_7": {
+            "id": 7,
+            "mode": "satellite",
+            "name": "Vijesti",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-vijesti",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tv_vijesti_me.png"
+          },
+          "sub_8": {
+            "id": 8,
+            "mode": "satellite",
+            "name": "Tvcg 1",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tvcg-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/crne_gore_tv_1.png"
+          },
+          "sub_9": {
+            "id": 9,
+            "mode": "satellite",
+            "name": "Tvcg 2",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tvcg-2",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/crne_gore_tv_2.png"
+          },
+          "sub_180": {
+            "id": 180,
+            "mode": "satellite",
+            "name": "Mdr Sachsen",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/mdr-sachsen",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/mdr_radio_de_sachsen.png"
+          },
+          "sub_181": {
+            "id": 181,
+            "mode": "satellite",
+            "name": "Mdr Sachsenanhalt",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/mdr-sachsen-anhalt",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/mdr_radio_de_sachsen_anhalt.png"
+          },
+          "sub_182": {
+            "id": 182,
+            "mode": "satellite",
+            "name": "Mdr Sputnik",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/mdr-sputnik",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/mdr_sputnik.png"
+          },
+          "sub_183": {
+            "id": 183,
+            "mode": "satellite",
+            "name": "Mdr Thuringen",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/mdr-thuringen",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/mdr_radio_de_thueringen.png"
+          },
+          "sub_184": {
+            "id": 184,
+            "mode": "satellite",
+            "name": "Media Broadcast Satellite Promo",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/media-broadcast-satellite-promo-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/channels-default.svg"
+          },
+          "sub_185": {
+            "id": 185,
+            "mode": "satellite",
+            "name": "Mein Shop",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/mein-tv-shop",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/mein_tv_shop.png"
+          },
+          "sub_186": {
+            "id": 186,
+            "mode": "satellite",
+            "name": "Motorvision",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/motorvision-tv",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/motorvision_tv_de.png"
+          },
+          "sub_187": {
+            "id": 187,
+            "mode": "satellite",
+            "name": "Motorvision",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/motorvision-tv-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/motorvision_tv_de.png"
+          },
+          "sub_188": {
+            "id": 188,
+            "mode": "satellite",
+            "name": "Motorvision",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/motorvision-tv-2",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/motorvision_tv_de.png"
+          },
+          "sub_189": {
+            "id": 189,
+            "mode": "satellite",
+            "name": "Mtv Germany",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/mtv-germany",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/mtv_us.png"
+          },
+          "sub_190": {
+            "id": 190,
+            "mode": "satellite",
+            "name": "Mtv Germany 1",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/mtv-germany-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/mtv-germany-plus-1-us-de.png"
+          },
+          "sub_191": {
+            "id": 191,
+            "mode": "satellite",
+            "name": "Mtv Germany",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/mtv-germany-hd",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/mtv_us_hd.png"
+          },
+          "sub_192": {
+            "id": 192,
+            "mode": "satellite",
+            "name": "Mtv Germany",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/mtv-germany-hd-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/mtv_us_hd.png"
+          },
+          "sub_193": {
+            "id": 193,
+            "mode": "satellite",
+            "name": "Munchen",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/munchen-tv",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/muenchen_tv.png"
+          },
+          "sub_194": {
+            "id": 194,
+            "mode": "satellite",
+            "name": "Dirty Mobile",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/my-dirty-mobile",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/my_dirty_mobile.png"
+          },
+          "sub_195": {
+            "id": 195,
+            "mode": "satellite",
+            "name": "Njoy",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/n-joy",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/n_joy_de.png"
+          },
+          "sub_196": {
+            "id": 196,
+            "mode": "satellite",
+            "name": "Ntv",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/n-tv",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/n-tv-de.png"
+          },
+          "sub_197": {
+            "id": 197,
+            "mode": "satellite",
+            "name": "Ntv",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/n-tv-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/n-tv-de.png"
+          },
+          "sub_198": {
+            "id": 198,
+            "mode": "satellite",
+            "name": "Ntv Austria",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/n-tv-austria",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/n-tv-de.png"
+          },
+          "sub_199": {
+            "id": 199,
+            "mode": "satellite",
+            "name": "N24 Doku",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/n24-doku",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/n24_de_doku.png"
+          },
+          "sub_200": {
+            "id": 200,
+            "mode": "satellite",
+            "name": "N24 Doku Austria",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/n24-doku-austria",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/n24-doku-austria-de-at.png"
+          },
+          "sub_201": {
+            "id": 201,
+            "mode": "satellite",
+            "name": "Nat Geo Wild Deutschland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/nat-geo-wild-deutschland-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/nat_geo_wild_us.png"
+          },
+          "sub_202": {
+            "id": 202,
+            "mode": "satellite",
+            "name": "National Geographic Deutschland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/national-geographic-deutschland-hd",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/nat_geo_us_hd.png"
+          },
+          "sub_203": {
+            "id": 203,
+            "mode": "satellite",
+            "name": "Ndr 1 Niedersachsen",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/ndr-1-niedersachsen",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/ndr1_niedersachsen.png"
+          },
+          "sub_204": {
+            "id": 204,
+            "mode": "satellite",
+            "name": "Ndr 1 Radio",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/ndr-1-radio-mv",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/ndr1_radio_mv.png"
+          },
+          "sub_205": {
+            "id": 205,
+            "mode": "satellite",
+            "name": "Ndr 1 Welle Nord",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/ndr-1-welle-nord",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/ndr1_welle_nord.png"
+          },
+          "sub_206": {
+            "id": 206,
+            "mode": "satellite",
+            "name": "Ndr 2",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/ndr-2",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/ndr2.png"
+          },
+          "sub_207": {
+            "id": 207,
+            "mode": "satellite",
+            "name": "Ndr 903",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/ndr-903",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/ndr_903.png"
+          },
+          "sub_208": {
+            "id": 208,
+            "mode": "satellite",
+            "name": "Ndr Blue",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/ndr-blue",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/ndr_blue.png"
+          },
+          "sub_209": {
+            "id": 209,
+            "mode": "satellite",
+            "name": "Ndr Fernsehen Hamburg",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/ndr-fernsehen-hamburg",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/ndr_fernsehen_hh.png"
+          },
+          "sub_210": {
+            "id": 210,
+            "mode": "satellite",
+            "name": "Ndr Fernsehen Hamburg",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/ndr-fernsehen-hamburg-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/ndr_fernsehen_hh.png"
+          },
+          "sub_211": {
+            "id": 211,
+            "mode": "satellite",
+            "name": "Ndr Fernsehen Mecklenburgvorpommern",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/ndr-fernsehen-mecklenburg-vorpommern",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/ndr_fernsehen_mv.png"
+          },
+          "sub_212": {
+            "id": 212,
+            "mode": "satellite",
+            "name": "Ndr Fernsehen Mecklenburgvorpommern",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/ndr-fernsehen-mecklenburg-vorpommern-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/ndr_fernsehen_mv.png"
+          },
+          "sub_213": {
+            "id": 213,
+            "mode": "satellite",
+            "name": "Ndr Fernsehen Niedersachsen",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/ndr-fernsehen-niedersachsen",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/ndr_fernsehen_nds.png"
+          },
+          "sub_214": {
+            "id": 214,
+            "mode": "satellite",
+            "name": "Ndr Fernsehen Niedersachsen",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/ndr-fernsehen-niedersachsen-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/ndr_fernsehen_nds.png"
+          },
+          "sub_215": {
+            "id": 215,
+            "mode": "satellite",
+            "name": "Ndr Fernsehen Schleswigholstein",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/ndr-fernsehen-schleswig-holstein",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/ndr_fernsehen_sh.png"
+          },
+          "sub_216": {
+            "id": 216,
+            "mode": "satellite",
+            "name": "Ndr Fernsehen Schleswigholstein",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/ndr-fernsehen-schleswig-holstein-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/ndr_fernsehen_sh.png"
+          },
+          "sub_217": {
+            "id": 217,
+            "mode": "satellite",
+            "name": "Ndr Info",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/ndr-info",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/ndr_info.png"
+          },
+          "sub_218": {
+            "id": 218,
+            "mode": "satellite",
+            "name": "Ndr Info Spezial",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/ndr-info-spezial",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/ndr_info_spezial.png"
+          },
+          "sub_219": {
+            "id": 219,
+            "mode": "satellite",
+            "name": "Ndr Kultur",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/ndr-kultur",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/ndr_kultur.png"
+          },
+          "sub_220": {
+            "id": 220,
+            "mode": "satellite",
+            "name": "Ndr Plus",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/ndr-plus",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/ndr_plus.png"
+          },
+          "sub_221": {
+            "id": 221,
+            "mode": "satellite",
+            "name": "Nicer Dicer",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/nicer-dicer-tv",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/nicer-dicer-tv-de.png"
+          },
+          "sub_222": {
+            "id": 222,
+            "mode": "satellite",
+            "name": "Nickelodeon Deutschland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/nickelodeon-deutschland-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/nick_us_de.png"
+          },
+          "sub_223": {
+            "id": 223,
+            "mode": "satellite",
+            "name": "Nicktoons Deutschland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/nicktoons-deutschland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/nick_toons_us.png"
+          },
+          "sub_224": {
+            "id": 224,
+            "mode": "satellite",
+            "name": "Nitro Austria",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/nitro-austria",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/nitro_de_austria.png"
+          },
+          "sub_225": {
+            "id": 225,
+            "mode": "satellite",
+            "name": "Nitro Deutschland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/nitro-deutschland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/nitro_de.png"
+          },
+          "sub_226": {
+            "id": 226,
+            "mode": "satellite",
+            "name": "Nitro Deutschland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/nitro-deutschland-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/nitro_de.png"
+          },
+          "sub_227": {
+            "id": 227,
+            "mode": "satellite",
+            "name": "Oberpfalz",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/oberpfalz-tv",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/oberpfalz_tv_de.png"
+          },
+          "sub_228": {
+            "id": 228,
+            "mode": "satellite",
+            "name": "One",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/one",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/ard_one.png"
+          }
+        }
+      }
+    }
+  }
+}

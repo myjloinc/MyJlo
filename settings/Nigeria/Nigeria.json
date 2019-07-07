@@ -1,0 +1,442 @@
+{
+  "TV_Data": {
+    "Channel_List": {
+      "is_channel_list": true,
+      "is_override": true,
+      "thumb_width": 150,
+      "all_Channels_Tab_Name": "",
+      "main": {
+        "id": 34,
+        "name": "Nigeria",
+        "sub_name": "channels",
+        "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/Country/Nigeria.png",
+        "sub": {
+          "sub_0": {
+            "id": 0,
+            "mode": "satellite",
+            "name": "1960 Bet Dog Racing",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/1960-bet-dog-racing",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/0-9/1960_bet_ng.png"
+          },
+          "sub_1": {
+            "id": 1,
+            "mode": "satellite",
+            "name": "1960 Bet Keno",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/1960-bet-keno",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/0-9/1960_bet_ng.png"
+          },
+          "sub_2": {
+            "id": 2,
+            "mode": "satellite",
+            "name": "1960 Bet Racing",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/1960-bet-racing",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/0-9/1960_bet_ng.png"
+          },
+          "sub_3": {
+            "id": 3,
+            "mode": "satellite",
+            "name": "1960 Bet Virtual Football League",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/1960-bet-virtual-football-league",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/0-9/1960_bet_ng.png"
+          },
+          "sub_4": {
+            "id": 4,
+            "mode": "satellite",
+            "name": "Ait International",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/ait-international",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/ait_international.png"
+          },
+          "sub_5": {
+            "id": 5,
+            "mode": "satellite",
+            "name": "Channels 24",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/channels-24",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/channels_tv_ng_24.png"
+          },
+          "sub_6": {
+            "id": 6,
+            "mode": "satellite",
+            "name": "Dunamis",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/dunamis-tv",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/dunamis_tv_ng.png"
+          },
+          "sub_7": {
+            "id": 7,
+            "mode": "satellite",
+            "name": "Gibet Bingo",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/gibet-bingo",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/gibet-cw.png"
+          },
+          "sub_8": {
+            "id": 8,
+            "mode": "satellite",
+            "name": "Gibet Dog Racing",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/gibet-dog-racing",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/gibet-cw.png"
+          },
+          "sub_9": {
+            "id": 9,
+            "mode": "satellite",
+            "name": "Gibet Epl",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/gibet-epl",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/gibet-cw.png"
+          },
+          "sub_10": {
+            "id": 10,
+            "mode": "satellite",
+            "name": "Gibet Keno",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/gibet-keno",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/gibet-cw.png"
+          },
+          "sub_11": {
+            "id": 11,
+            "mode": "satellite",
+            "name": "Gibet Liga",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/gibet-la-liga",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/gibet-cw.png"
+          },
+          "sub_12": {
+            "id": 12,
+            "mode": "satellite",
+            "name": "Rok Sky",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rok-sky-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rok_ng.png"
+          },
+          "sub_13": {
+            "id": 13,
+            "mode": "satellite",
+            "name": "Rok Sky 1",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rok-sky-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rok_ng.png"
+          },
+          "sub_14": {
+            "id": 14,
+            "mode": "satellite",
+            "name": "Surebet 247 Dog Racing",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/surebet-247-dog-racing",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/surebet-247-ng.png"
+          },
+          "sub_15": {
+            "id": 15,
+            "mode": "satellite",
+            "name": "Surebet 247 Horse Racing",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/surebet-247-horse-racing",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/surebet-247-ng.png"
+          },
+          "sub_16": {
+            "id": 16,
+            "mode": "satellite",
+            "name": "Surebet 247 Keno",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/surebet-247-keno",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/surebet-247-ng.png"
+          },
+          "sub_17": {
+            "id": 17,
+            "mode": "satellite",
+            "name": "Surebet 247 Num Games",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/surebet-247-num-games",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/surebet-247-ng.png"
+          },
+          "sub_18": {
+            "id": 18,
+            "mode": "satellite",
+            "name": "Surebet 247 Racing",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/surebet-247-racing",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/surebet-247-ng.png"
+          },
+          "sub_19": {
+            "id": 19,
+            "mode": "satellite",
+            "name": "Surebet 247 Virtual Game",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/surebet-247-virtual-game",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/surebet-247-ng.png"
+          },
+          "sub_20": {
+            "id": 20,
+            "mode": "satellite",
+            "name": "Tvc News",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tvc-news",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tvc-news-ng.png"
+          },
+          "sub_162": {
+            "id": 162,
+            "mode": "satellite",
+            "name": "Kiraka",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/kiraka",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/wdr_kiraka.png"
+          },
+          "sub_163": {
+            "id": 163,
+            "mode": "satellite",
+            "name": "Klassik Radio",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/klassik-radio",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/klassik_radio_de.png"
+          },
+          "sub_164": {
+            "id": 164,
+            "mode": "satellite",
+            "name": "Kulturradio",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/kulturradio",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rbb_de_kultur_radio.png"
+          },
+          "sub_165": {
+            "id": 165,
+            "mode": "satellite",
+            "name": "",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/l-tv",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/l_tv_de.png"
+          },
+          "sub_166": {
+            "id": 166,
+            "mode": "satellite",
+            "name": "Life Channel",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/life-channel",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/life_channel_ch.png"
+          },
+          "sub_167": {
+            "id": 167,
+            "mode": "satellite",
+            "name": "Lokal Portal",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/lokal-tv-portal-340",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/lokal_tv_de.png"
+          },
+          "sub_168": {
+            "id": 168,
+            "mode": "satellite",
+            "name": "Main",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/main-tv",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/main_tv_de.png"
+          },
+          "sub_169": {
+            "id": 169,
+            "mode": "satellite",
+            "name": "Mdr Aktuell",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/mdr-aktuell",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/mdr_aktuell_de.png"
+          },
+          "sub_170": {
+            "id": 170,
+            "mode": "satellite",
+            "name": "Mdr Fernsehen Sachsen",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/mdr-fernsehen-sachsen",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/mdr_fernsehen_sachsen.png"
+          },
+          "sub_171": {
+            "id": 171,
+            "mode": "satellite",
+            "name": "Mdr Fernsehen Sachsen",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/mdr-fernsehen-sachsen-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/mdr_fernsehen_sachsen.png"
+          },
+          "sub_172": {
+            "id": 172,
+            "mode": "satellite",
+            "name": "Mdr Fernsehen Sachsenanhalt",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/mdr-fernsehen-sachsen-anhalt",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/mdr_fernsehen_sachsen_anhalt.png"
+          },
+          "sub_173": {
+            "id": 173,
+            "mode": "satellite",
+            "name": "Mdr Fernsehen Sachsenanhalt",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/mdr-fernsehen-sachsen-anhalt-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/mdr_fernsehen_sachsen_anhalt.png"
+          },
+          "sub_174": {
+            "id": 174,
+            "mode": "satellite",
+            "name": "Mdr Fernsehen Thuringen",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/mdr-fernsehen-thuringen",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/mdr_fernsehen_thuringen.png"
+          },
+          "sub_175": {
+            "id": 175,
+            "mode": "satellite",
+            "name": "Mdr Fernsehen Thuringen",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/mdr-fernsehen-thuringen-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/mdr_fernsehen_thuringen.png"
+          },
+          "sub_176": {
+            "id": 176,
+            "mode": "satellite",
+            "name": "Mdr Jump",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/mdr-jump",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/mdr_jump.png"
+          },
+          "sub_177": {
+            "id": 177,
+            "mode": "satellite",
+            "name": "Mdr Klassik",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/mdr-klassik",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/mdr_klassik.png"
+          },
+          "sub_178": {
+            "id": 178,
+            "mode": "satellite",
+            "name": "Mdr Kultur",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/mdr-kultur",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/mdr_kultur_de.png"
+          },
+          "sub_179": {
+            "id": 179,
+            "mode": "satellite",
+            "name": "Mdr Kultur",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/mdr-kultur-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/mdr_kultur_de.png"
+          },
+          "sub_180": {
+            "id": 180,
+            "mode": "satellite",
+            "name": "Mdr Sachsen",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/mdr-sachsen",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/mdr_radio_de_sachsen.png"
+          },
+          "sub_181": {
+            "id": 181,
+            "mode": "satellite",
+            "name": "Mdr Sachsenanhalt",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/mdr-sachsen-anhalt",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/mdr_radio_de_sachsen_anhalt.png"
+          },
+          "sub_182": {
+            "id": 182,
+            "mode": "satellite",
+            "name": "Mdr Sputnik",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/mdr-sputnik",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/mdr_sputnik.png"
+          },
+          "sub_183": {
+            "id": 183,
+            "mode": "satellite",
+            "name": "Mdr Thuringen",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/mdr-thuringen",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/mdr_radio_de_thueringen.png"
+          },
+          "sub_184": {
+            "id": 184,
+            "mode": "satellite",
+            "name": "Media Broadcast Satellite Promo",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/media-broadcast-satellite-promo-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/channels-default.svg"
+          },
+          "sub_185": {
+            "id": 185,
+            "mode": "satellite",
+            "name": "Mein Shop",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/mein-tv-shop",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/mein_tv_shop.png"
+          },
+          "sub_186": {
+            "id": 186,
+            "mode": "satellite",
+            "name": "Motorvision",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/motorvision-tv",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/motorvision_tv_de.png"
+          },
+          "sub_187": {
+            "id": 187,
+            "mode": "satellite",
+            "name": "Motorvision",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/motorvision-tv-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/motorvision_tv_de.png"
+          },
+          "sub_188": {
+            "id": 188,
+            "mode": "satellite",
+            "name": "Motorvision",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/motorvision-tv-2",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/motorvision_tv_de.png"
+          },
+          "sub_189": {
+            "id": 189,
+            "mode": "satellite",
+            "name": "Mtv Germany",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/mtv-germany",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/mtv_us.png"
+          },
+          "sub_190": {
+            "id": 190,
+            "mode": "satellite",
+            "name": "Mtv Germany 1",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/mtv-germany-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/mtv-germany-plus-1-us-de.png"
+          },
+          "sub_191": {
+            "id": 191,
+            "mode": "satellite",
+            "name": "Mtv Germany",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/mtv-germany-hd",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/mtv_us_hd.png"
+          },
+          "sub_192": {
+            "id": 192,
+            "mode": "satellite",
+            "name": "Mtv Germany",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/mtv-germany-hd-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/mtv_us_hd.png"
+          },
+          "sub_193": {
+            "id": 193,
+            "mode": "satellite",
+            "name": "Munchen",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/munchen-tv",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/muenchen_tv.png"
+          }
+        }
+      }
+    }
+  }
+}

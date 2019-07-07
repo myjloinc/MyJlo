@@ -1,0 +1,778 @@
+{
+  "TV_Data": {
+    "Channel_List": {
+      "is_channel_list": true,
+      "is_override": true,
+      "thumb_width": 150,
+      "all_Channels_Tab_Name": "",
+      "main": {
+        "id": 22,
+        "name": "Serbia",
+        "sub_name": "channels",
+        "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/Country/Serbia.png",
+        "sub": {
+          "sub_0": {
+            "id": 0,
+            "mode": "satellite",
+            "name": "Agro",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/agro-tv-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/agro-tv-rs.png"
+          },
+          "sub_1": {
+            "id": 1,
+            "mode": "satellite",
+            "name": "Arena Sport 1",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/arena-sport-1-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/arena-sport-1-rs.png"
+          },
+          "sub_2": {
+            "id": 2,
+            "mode": "satellite",
+            "name": "Arena Sport 1 Bih",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/arena-sport-1-bih",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/arena-sport-1-bih-rs-ba.png"
+          },
+          "sub_3": {
+            "id": 3,
+            "mode": "satellite",
+            "name": "Arena Sport 1 Crna Gora",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/arena-sport-1-crna-gora",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/arena-sport-1-rs.png"
+          },
+          "sub_4": {
+            "id": 4,
+            "mode": "satellite",
+            "name": "Arena Sport 2",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/arena-sport-2",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/arena-sport-2-rs.png"
+          },
+          "sub_5": {
+            "id": 5,
+            "mode": "satellite",
+            "name": "Arena Sport 3",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/arena-sport-3",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/arena-sport-3-rs.png"
+          },
+          "sub_6": {
+            "id": 6,
+            "mode": "satellite",
+            "name": "Arena Sport 4",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/arena-sport-4",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/arena-sport-4-rs.png"
+          },
+          "sub_7": {
+            "id": 7,
+            "mode": "satellite",
+            "name": "Arena Sport 5",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/arena-sport-5",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/arena-sport-5-rs.png"
+          },
+          "sub_8": {
+            "id": 8,
+            "mode": "satellite",
+            "name": "Arena Sport 5 Crna Gora",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/arena-sport-5-crna-gora",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/arena-sport-5-rs.png"
+          },
+          "sub_9": {
+            "id": 9,
+            "mode": "satellite",
+            "name": "Arena Sport Kosovo",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/arena-sport-kosovo",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/arena-sport-1-rs.png"
+          },
+          "sub_10": {
+            "id": 10,
+            "mode": "satellite",
+            "name": "",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/fm-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/as_fm.png"
+          },
+          "sub_11": {
+            "id": 11,
+            "mode": "satellite",
+            "name": "",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/b-tv",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/btv-rs.png"
+          },
+          "sub_12": {
+            "id": 12,
+            "mode": "satellite",
+            "name": "Balkan Hot 1",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/balkan-hot-1-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/balkan-hot-rs.png"
+          },
+          "sub_13": {
+            "id": 13,
+            "mode": "satellite",
+            "name": "Beograd 202",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/beograd-202-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/beograd-202-rs.png"
+          },
+          "sub_14": {
+            "id": 14,
+            "mode": "satellite",
+            "name": "",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bk-tv",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bktv-rs.png"
+          },
+          "sub_15": {
+            "id": 15,
+            "mode": "satellite",
+            "name": "Bravo Music",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bravo-music",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bravo-music-rs.png"
+          },
+          "sub_16": {
+            "id": 16,
+            "mode": "satellite",
+            "name": "Cinestar Action Srbija",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/cinestar-tv-action-srbija",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/cine_star_rs_action.png"
+          },
+          "sub_17": {
+            "id": 17,
+            "mode": "satellite",
+            "name": "Cinestar Srbija",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/cinestar-tv-srbija",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/cine_star_rs_tv.png"
+          },
+          "sub_18": {
+            "id": 18,
+            "mode": "satellite",
+            "name": "Cityplay",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/cityplay",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/cityplay-rs.png"
+          },
+          "sub_19": {
+            "id": 19,
+            "mode": "satellite",
+            "name": "Decija",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/decija-tv-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/decija-tv.png"
+          },
+          "sub_20": {
+            "id": 20,
+            "mode": "satellite",
+            "name": "Discovery Channel Srbija",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/discovery-channel-srbija-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/discovery_global_us.png"
+          },
+          "sub_21": {
+            "id": 21,
+            "mode": "satellite",
+            "name": "Sat",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/dm-sat",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/dm_sat_rs.png"
+          },
+          "sub_22": {
+            "id": 22,
+            "mode": "satellite",
+            "name": "Erotic",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/erotic",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/erotic-rs.png"
+          },
+          "sub_23": {
+            "id": 23,
+            "mode": "satellite",
+            "name": "Erotic 2",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/erotic-2",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/erotic-2-rs.png"
+          },
+          "sub_24": {
+            "id": 24,
+            "mode": "satellite",
+            "name": "Film Klub",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/film-klub-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/film-klub-rs.png"
+          },
+          "sub_25": {
+            "id": 25,
+            "mode": "satellite",
+            "name": "Film Klub Extra",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/film-klub-extra",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/film-klub-extra-rs.png"
+          },
+          "sub_26": {
+            "id": 26,
+            "mode": "satellite",
+            "name": "Happy",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/happy",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/happy_tv_rs.png"
+          },
+          "sub_27": {
+            "id": 27,
+            "mode": "satellite",
+            "name": "Kitchen",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/kitchen-tv-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/kitchentv.png"
+          },
+          "sub_28": {
+            "id": 28,
+            "mode": "satellite",
+            "name": "Lol",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/lol-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/pink-lol-rs.png"
+          },
+          "sub_29": {
+            "id": 29,
+            "mode": "satellite",
+            "name": "Minimax Serbia",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/minimax-serbia",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/minimax_rs.png"
+          },
+          "sub_30": {
+            "id": 30,
+            "mode": "satellite",
+            "name": "Mts Info",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/mts-info",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/channels-default.svg"
+          },
+          "sub_31": {
+            "id": 31,
+            "mode": "satellite",
+            "name": "National Geographic Srbija",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/national-geographic-srbija",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/nat_geo_us.png"
+          },
+          "sub_32": {
+            "id": 32,
+            "mode": "satellite",
+            "name": "Novosadska",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/novosadska-tv",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/novosadska-tv-rs.png"
+          },
+          "sub_33": {
+            "id": 33,
+            "mode": "satellite",
+            "name": "",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/o2-tv",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/o2tv-rs.png"
+          },
+          "sub_34": {
+            "id": 34,
+            "mode": "satellite",
+            "name": "Pannon",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/pannon-tv",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/pannon_rtv_rs.png"
+          },
+          "sub_35": {
+            "id": 35,
+            "mode": "satellite",
+            "name": "Pink 2",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/pink-2",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/pink_2_rs.png"
+          },
+          "sub_36": {
+            "id": 36,
+            "mode": "satellite",
+            "name": "Pink 3 Info",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/pink-3-info",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/pink_3_info_rs.png"
+          },
+          "sub_37": {
+            "id": 37,
+            "mode": "satellite",
+            "name": "Pink Action",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/pink-action",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/pink_action.png"
+          },
+          "sub_38": {
+            "id": 38,
+            "mode": "satellite",
+            "name": "Pink",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/pink-bh",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/pink_rs.png"
+          },
+          "sub_39": {
+            "id": 39,
+            "mode": "satellite",
+            "name": "Pink Comedy",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/pink-comedy",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/pink_comedy_rs.png"
+          },
+          "sub_40": {
+            "id": 40,
+            "mode": "satellite",
+            "name": "Pink Crime Mystery",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/pink-crime-mystery",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/pink_rs_crime_mystery.png"
+          },
+          "sub_41": {
+            "id": 41,
+            "mode": "satellite",
+            "name": "Pink Family",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/pink-family",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/pink_family.png"
+          },
+          "sub_42": {
+            "id": 42,
+            "mode": "satellite",
+            "name": "Pink Film",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/pink-film",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/pink_film.png"
+          },
+          "sub_43": {
+            "id": 43,
+            "mode": "satellite",
+            "name": "Pink Hits",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/pink-hits",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/pink_rs_hits.png"
+          },
+          "sub_44": {
+            "id": 44,
+            "mode": "satellite",
+            "name": "Pink Kids",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/pink-kids",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/pink_kids.png"
+          },
+          "sub_45": {
+            "id": 45,
+            "mode": "satellite",
+            "name": "Pink",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/pink-m",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/pink_rs.png"
+          },
+          "sub_46": {
+            "id": 46,
+            "mode": "satellite",
+            "name": "Pink Music",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/pink-music",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/pink_music.png"
+          },
+          "sub_47": {
+            "id": 47,
+            "mode": "satellite",
+            "name": "Pink Roll",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/pink-n-roll",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/pink_n_roll.png"
+          },
+          "sub_48": {
+            "id": 48,
+            "mode": "satellite",
+            "name": "Pink Premium",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/pink-premium",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/pink_premium_rs.png"
+          },
+          "sub_49": {
+            "id": 49,
+            "mode": "satellite",
+            "name": "Pink Reality",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/pink-reality-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/pink_reality_rs.png"
+          },
+          "sub_50": {
+            "id": 50,
+            "mode": "satellite",
+            "name": "Pink Romance",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/pink-romance",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/pink_rs.png"
+          },
+          "sub_51": {
+            "id": 51,
+            "mode": "satellite",
+            "name": "Pink Scifi Fantasy",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/pink-sci-fi-fantasy",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/pink_rs_scifi_fantasy.png"
+          },
+          "sub_52": {
+            "id": 52,
+            "mode": "satellite",
+            "name": "Pink Serije",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/pink-serije",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/pink-serije-rs.png"
+          },
+          "sub_53": {
+            "id": 53,
+            "mode": "satellite",
+            "name": "Pink Srbija",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/pink-srbija",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/pink_1_rs.png"
+          },
+          "sub_54": {
+            "id": 54,
+            "mode": "satellite",
+            "name": "Pink Super Kids",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/pink-super-kids",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/pink-super-kids-rs.png"
+          },
+          "sub_55": {
+            "id": 55,
+            "mode": "satellite",
+            "name": "Pink Thriller",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/pink-thriller",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/pink_rs_thriller.png"
+          },
+          "sub_56": {
+            "id": 56,
+            "mode": "satellite",
+            "name": "Pink Western",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/pink-western",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/pink_rs.png"
+          },
+          "sub_57": {
+            "id": 57,
+            "mode": "satellite",
+            "name": "Pink World Cinema",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/pink-world-cinema",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/pink-world-cinema-rs.png"
+          },
+          "sub_58": {
+            "id": 58,
+            "mode": "satellite",
+            "name": "Play",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/play-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/play-rs.png"
+          },
+          "sub_59": {
+            "id": 59,
+            "mode": "satellite",
+            "name": "Prva Files",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/prva-files",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/prva-files-rs.png"
+          },
+          "sub_60": {
+            "id": 60,
+            "mode": "satellite",
+            "name": "Prva Kick",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/prva-kick",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/prva-kick-rs.png"
+          },
+          "sub_61": {
+            "id": 61,
+            "mode": "satellite",
+            "name": "Prva Life",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/prva-life",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/prva-life-rs.png"
+          },
+          "sub_62": {
+            "id": 62,
+            "mode": "satellite",
+            "name": "Prva Max",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/prva-max",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/prva_rs_max.png"
+          },
+          "sub_63": {
+            "id": 63,
+            "mode": "satellite",
+            "name": "Prva Srpska",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/prva-srpska-tv",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/prva_rs.png"
+          },
+          "sub_64": {
+            "id": 64,
+            "mode": "satellite",
+            "name": "Prva Crna Gora",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/prva-tv-crna-gora",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/prva_rs_crna_gora.png"
+          },
+          "sub_65": {
+            "id": 65,
+            "mode": "satellite",
+            "name": "Prva World",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/prva-world",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/prva_rs_world.png"
+          },
+          "sub_66": {
+            "id": 66,
+            "mode": "satellite",
+            "name": "Radio Beograd 1",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-beograd-1-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio-beograd-1-rs.png"
+          },
+          "sub_67": {
+            "id": 67,
+            "mode": "satellite",
+            "name": "Radio Beograd 2",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-beograd-2-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio-beograd-2-rs.png"
+          },
+          "sub_68": {
+            "id": 68,
+            "mode": "satellite",
+            "name": "Radio Beograd 3",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-beograd-3-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio-beograd-3-rs.png"
+          },
+          "sub_69": {
+            "id": 69,
+            "mode": "satellite",
+            "name": "Rts 1",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rts-1-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rts_rs_1.png"
+          },
+          "sub_70": {
+            "id": 70,
+            "mode": "satellite",
+            "name": "Rts 2",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rts-2-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rts_rs_2.png"
+          },
+          "sub_71": {
+            "id": 71,
+            "mode": "satellite",
+            "name": "Rts 3",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rts-3",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rts_rs_3.png"
+          },
+          "sub_72": {
+            "id": 72,
+            "mode": "satellite",
+            "name": "Rts Drama",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rts-drama-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rts_rs.png"
+          },
+          "sub_73": {
+            "id": 73,
+            "mode": "satellite",
+            "name": "Rts Kolo",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rts-kolo-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rts_rs.png"
+          },
+          "sub_74": {
+            "id": 74,
+            "mode": "satellite",
+            "name": "Rts Muzika",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rts-muzika-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rts_rs.png"
+          },
+          "sub_75": {
+            "id": 75,
+            "mode": "satellite",
+            "name": "Rts Poletarac",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rts-poletarac-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rts_rs.png"
+          },
+          "sub_76": {
+            "id": 76,
+            "mode": "satellite",
+            "name": "Rts Svet",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rts-svet-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rts-svet-rs.png"
+          },
+          "sub_77": {
+            "id": 77,
+            "mode": "satellite",
+            "name": "Rts Trezor",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rts-trezor-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rts_rs.png"
+          },
+          "sub_78": {
+            "id": 78,
+            "mode": "satellite",
+            "name": "Rts Zivot",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rts-zivot-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rts_rs.png"
+          },
+          "sub_79": {
+            "id": 79,
+            "mode": "satellite",
+            "name": "Rtv 1",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rtv-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rtv_rs_1.png"
+          },
+          "sub_80": {
+            "id": 80,
+            "mode": "satellite",
+            "name": "Rtv 2",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rtv-2",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rtv_rs_2.png"
+          },
+          "sub_81": {
+            "id": 81,
+            "mode": "satellite",
+            "name": "Scifi Srbija",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/scifi-srbija-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/scifi-polska-us-pl.png"
+          },
+          "sub_82": {
+            "id": 82,
+            "mode": "satellite",
+            "name": "Sos Kanal Plus",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sos-kanal-plus",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sos-kanal-plus-rs.png"
+          },
+          "sub_83": {
+            "id": 83,
+            "mode": "satellite",
+            "name": "Star",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/star-tv-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/star-tv-rs.png"
+          },
+          "sub_84": {
+            "id": 84,
+            "mode": "satellite",
+            "name": "Studio",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/studio-b",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/studio_b.png"
+          },
+          "sub_85": {
+            "id": 85,
+            "mode": "satellite",
+            "name": "Superstar",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/superstar-tv",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/superstar-tv-rs.png"
+          },
+          "sub_86": {
+            "id": 86,
+            "mode": "satellite",
+            "name": "5",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-5-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tv5-rs.png"
+          },
+          "sub_87": {
+            "id": 87,
+            "mode": "satellite",
+            "name": "Belle Amie",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-belle-amie",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rtv_belle_amie.png"
+          },
+          "sub_88": {
+            "id": 88,
+            "mode": "satellite",
+            "name": "Galaksija 32",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-galaksija-32",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tv-galaksija-32-rs.png"
+          },
+          "sub_89": {
+            "id": 89,
+            "mode": "satellite",
+            "name": "Hram",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-hram",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tv_hram_rs.png"
+          },
+          "sub_90": {
+            "id": 90,
+            "mode": "satellite",
+            "name": "Jeka",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-jeka",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tv-jeka-rs.png"
+          },
+          "sub_91": {
+            "id": 91,
+            "mode": "satellite",
+            "name": "Most",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-most",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tv-most-rs.png"
+          },
+          "sub_92": {
+            "id": 92,
+            "mode": "satellite",
+            "name": "Palma Plus",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-palma-plus",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tv_palma_plus_rs.png"
+          },
+          "sub_93": {
+            "id": 93,
+            "mode": "satellite",
+            "name": "Vujic",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-vujic",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tv-vujic-rs.png"
+          },
+          "sub_94": {
+            "id": 94,
+            "mode": "satellite",
+            "name": "Zenska",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/zenska-tv-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/zenska-tv-rs.png"
+          }
+        }
+      }
+    }
+  }
+}

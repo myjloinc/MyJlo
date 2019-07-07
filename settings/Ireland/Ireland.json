@@ -1,0 +1,666 @@
+{
+  "TV_Data": {
+    "Channel_List": {
+      "is_channel_list": true,
+      "is_override": true,
+      "thumb_width": 150,
+      "all_Channels_Tab_Name": "",
+      "main": {
+        "id": 30,
+        "name": "Ireland",
+        "sub_name": "channels",
+        "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/Country/Ireland.png",
+        "sub": {
+          "sub_0": {
+            "id": 0,
+            "mode": "satellite",
+            "name": "Alibi Ireland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/alibi-ireland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/alibi_uktv_ie.png"
+          },
+          "sub_1": {
+            "id": 1,
+            "mode": "satellite",
+            "name": "Cbs Reality Ireland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/cbs-reality-ireland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/cbs_reality_uk.png"
+          },
+          "sub_2": {
+            "id": 2,
+            "mode": "satellite",
+            "name": "Challenge Ireland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/challenge-ireland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/challenge_tv_ie.png"
+          },
+          "sub_3": {
+            "id": 3,
+            "mode": "satellite",
+            "name": "Channel 4 Ireland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/channel-4-ireland-2",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/channel_4_uk.png"
+          },
+          "sub_4": {
+            "id": 4,
+            "mode": "satellite",
+            "name": "Channel 4 Ireland 1",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/channel-4-ireland-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/channel_4_uk_plus1.png"
+          },
+          "sub_5": {
+            "id": 5,
+            "mode": "satellite",
+            "name": "Comedy Central Extra Ireland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/comedy-central-extra-ireland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/comedy_central_extra_uk.png"
+          },
+          "sub_6": {
+            "id": 6,
+            "mode": "satellite",
+            "name": "Comedy Central Ireland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/comedy-central-ireland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/comedy_central_us.png"
+          },
+          "sub_7": {
+            "id": 7,
+            "mode": "satellite",
+            "name": "Comedy Central Ireland 1",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/comedy-central-ireland-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/comedy_central_us.png"
+          },
+          "sub_8": {
+            "id": 8,
+            "mode": "satellite",
+            "name": "Dave Ireland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/dave-ireland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/dave_uktv_ie.png"
+          },
+          "sub_9": {
+            "id": 9,
+            "mode": "satellite",
+            "name": "Discovery Channel Ireland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/discovery-channel-ireland-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/discovery_global_us.png"
+          },
+          "sub_10": {
+            "id": 10,
+            "mode": "satellite",
+            "name": "Drama Ireland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/drama-ireland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/drama_uktv_ie.png"
+          },
+          "sub_11": {
+            "id": 11,
+            "mode": "satellite",
+            "name": "Ireland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/e-ireland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/e_global_us.png"
+          },
+          "sub_12": {
+            "id": 12,
+            "mode": "satellite",
+            "name": "Ireland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/e4-ireland-2",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/e4-uk.png"
+          },
+          "sub_13": {
+            "id": 13,
+            "mode": "satellite",
+            "name": "Ireland 1",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/e4-ireland-1-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/e4-plus-1-uk.png"
+          },
+          "sub_14": {
+            "id": 14,
+            "mode": "satellite",
+            "name": "Eir Sport 1",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/eir-sport-1-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/eir_sport_ie_1.png"
+          },
+          "sub_15": {
+            "id": 15,
+            "mode": "satellite",
+            "name": "Ewtn Radio Britain Ireland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/ewtn-radio-britain-ireland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/ewtn_radio_global.png"
+          },
+          "sub_16": {
+            "id": 16,
+            "mode": "satellite",
+            "name": "Film 4 Ireland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/film-4-ireland-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/film-4-uk.png"
+          },
+          "sub_17": {
+            "id": 17,
+            "mode": "satellite",
+            "name": "Freesports Ireland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/freesports-ireland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/freesports-uk.png"
+          },
+          "sub_18": {
+            "id": 18,
+            "mode": "satellite",
+            "name": "Gold Ireland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/gold-ireland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/gold_uktv_ie.png"
+          },
+          "sub_19": {
+            "id": 19,
+            "mode": "satellite",
+            "name": "Investigation Discovery Ireland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/investigation-discovery-ireland-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/investigation_discovery_us.png"
+          },
+          "sub_20": {
+            "id": 20,
+            "mode": "satellite",
+            "name": "Investigation Discovery Ireland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/investigation-discovery-ireland-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/investigation_discovery_us.png"
+          },
+          "sub_21": {
+            "id": 21,
+            "mode": "satellite",
+            "name": "More 4 Ireland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/more-4-ireland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/more-4-uk.png"
+          },
+          "sub_22": {
+            "id": 22,
+            "mode": "satellite",
+            "name": "Mtv Ireland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/mtv-ireland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/mtv_us.png"
+          },
+          "sub_23": {
+            "id": 23,
+            "mode": "satellite",
+            "name": "Newstalk",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/newstalk",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/newstalk_ie.png"
+          },
+          "sub_24": {
+            "id": 24,
+            "mode": "satellite",
+            "name": "Nick Ireland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/nick-jr-ireland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/nick_jr_us.png"
+          },
+          "sub_25": {
+            "id": 25,
+            "mode": "satellite",
+            "name": "Nick Too Ireland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/nick-jr-too-ireland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/nick_jr_too_ie.png"
+          },
+          "sub_26": {
+            "id": 26,
+            "mode": "satellite",
+            "name": "Nickelodeon Ireland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/nickelodeon-ireland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/nickelodeon_us.png"
+          },
+          "sub_27": {
+            "id": 27,
+            "mode": "satellite",
+            "name": "Nicktoons Ireland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/nicktoons-ireland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/nick_toons_us.png"
+          },
+          "sub_28": {
+            "id": 28,
+            "mode": "satellite",
+            "name": "Oireachtas",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/oireachtas-tv-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/oireachtas_tv_ie.png"
+          },
+          "sub_29": {
+            "id": 29,
+            "mode": "satellite",
+            "name": "Pick Ireland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/pick-ireland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/pick_tv_ie.png"
+          },
+          "sub_30": {
+            "id": 30,
+            "mode": "satellite",
+            "name": "Premier Sports 1",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/premier-sports-1-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/premier-sports-1-ie.png"
+          },
+          "sub_31": {
+            "id": 31,
+            "mode": "satellite",
+            "name": "Premier Sports 2",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/premier-sports-2",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/premier-sports-2-ie.png"
+          },
+          "sub_32": {
+            "id": 32,
+            "mode": "satellite",
+            "name": "Really Ireland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/really-ireland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/really_uktv_ie.png"
+          },
+          "sub_33": {
+            "id": 33,
+            "mode": "satellite",
+            "name": "Rte 2",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rte-2",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rte_2_ie.png"
+          },
+          "sub_34": {
+            "id": 34,
+            "mode": "satellite",
+            "name": "Rte 2",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rte-2-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rte_2_ie.png"
+          },
+          "sub_35": {
+            "id": 35,
+            "mode": "satellite",
+            "name": "Rte 2 1",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rte-2-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rte_2_ie.png"
+          },
+          "sub_36": {
+            "id": 36,
+            "mode": "satellite",
+            "name": "Rte",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rte-jr-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rte_jr_tv.png"
+          },
+          "sub_37": {
+            "id": 37,
+            "mode": "satellite",
+            "name": "Rte Lyric",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rte-lyric-fm",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rte_lyric_fm.png"
+          },
+          "sub_38": {
+            "id": 38,
+            "mode": "satellite",
+            "name": "Rte News Now",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rte-news-now-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rte_news_now.png"
+          },
+          "sub_39": {
+            "id": 39,
+            "mode": "satellite",
+            "name": "Rte One",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rte-one",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rte_one.png"
+          },
+          "sub_40": {
+            "id": 40,
+            "mode": "satellite",
+            "name": "Rte One",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rte-one-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rte_one.png"
+          },
+          "sub_41": {
+            "id": 41,
+            "mode": "satellite",
+            "name": "Rte One 1",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rte-one-1-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rte_one_plus1.png"
+          },
+          "sub_42": {
+            "id": 42,
+            "mode": "satellite",
+            "name": "Rte Radio 1",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rte-radio-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rte_radio1.png"
+          },
+          "sub_43": {
+            "id": 43,
+            "mode": "satellite",
+            "name": "Rte Radio 2",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rte-radio-2-fm",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rte_radio2.png"
+          },
+          "sub_44": {
+            "id": 44,
+            "mode": "satellite",
+            "name": "Rte Raidio Gaeltachta",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rte-raidio-na-gaeltachta",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rte_raidio_nagaeltachta.png"
+          },
+          "sub_45": {
+            "id": 45,
+            "mode": "satellite",
+            "name": "Setanta Sports Evraziya",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/setanta-sports-evraziya-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/setanta_sports_eurasia_plus.png"
+          },
+          "sub_46": {
+            "id": 46,
+            "mode": "satellite",
+            "name": "Setanta Sports Evraziya",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/setanta-sports-evraziya-2",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/setanta_sports_eurasia_plus.png"
+          },
+          "sub_47": {
+            "id": 47,
+            "mode": "satellite",
+            "name": "Setanta Sports Georgia",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/setanta-sports-georgia-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/setanta_sports_ge_plus.png"
+          },
+          "sub_48": {
+            "id": 48,
+            "mode": "satellite",
+            "name": "Setanta Sports Evraziya",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/setanta-sports-evraziya",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/setanta_sports_eurasia.png"
+          },
+          "sub_49": {
+            "id": 49,
+            "mode": "satellite",
+            "name": "Setanta Sports Evraziya",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/setanta-sports-evraziya-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/setanta_sports_eurasia.png"
+          },
+          "sub_50": {
+            "id": 50,
+            "mode": "satellite",
+            "name": "Setanta Sports Evraziya",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/setanta-sports-evraziya-3",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/setanta_sports_eurasia.png"
+          },
+          "sub_51": {
+            "id": 51,
+            "mode": "satellite",
+            "name": "Setanta Sports Georgia",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/setanta-sports-georgia",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/setanta_sports_ge.png"
+          },
+          "sub_52": {
+            "id": 52,
+            "mode": "satellite",
+            "name": "Setanta Sports Georgia",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/setanta-sports-georgia-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/setanta_sports_ge.png"
+          },
+          "sub_53": {
+            "id": 53,
+            "mode": "satellite",
+            "name": "Sky Atlantic Ireland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-atlantic-ireland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky-atlantic-uk.png"
+          },
+          "sub_54": {
+            "id": 54,
+            "mode": "satellite",
+            "name": "Sky News Ireland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-news-ireland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky-news-uk.png"
+          },
+          "sub_55": {
+            "id": 55,
+            "mode": "satellite",
+            "name": "Sky News Ireland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-news-ireland-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky-news-uk.png"
+          },
+          "sub_56": {
+            "id": 56,
+            "mode": "satellite",
+            "name": "Sky One Ireland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-one-ireland-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky-one-uk.png"
+          },
+          "sub_57": {
+            "id": 57,
+            "mode": "satellite",
+            "name": "Sky One Ireland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-one-ireland-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky-one-uk.png"
+          },
+          "sub_58": {
+            "id": 58,
+            "mode": "satellite",
+            "name": "Sky Sports Football Ireland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sports-football-ireland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky_uk_sports_football.png"
+          },
+          "sub_59": {
+            "id": 59,
+            "mode": "satellite",
+            "name": "Sky Sports Main Event Ireland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sports-main-event-ireland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky_uk_sports_main_event_ie.png"
+          },
+          "sub_60": {
+            "id": 60,
+            "mode": "satellite",
+            "name": "Sky Sports Main Event Ireland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sports-main-event-ireland-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky_uk_sports_main_event_ie.png"
+          },
+          "sub_61": {
+            "id": 61,
+            "mode": "satellite",
+            "name": "Sky Sports News Ireland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sports-news-ireland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/skysportsnews.png"
+          },
+          "sub_62": {
+            "id": 62,
+            "mode": "satellite",
+            "name": "Sky Sports News Ireland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sports-news-ireland-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/skysportsnews.png"
+          },
+          "sub_63": {
+            "id": 63,
+            "mode": "satellite",
+            "name": "Sky Sports Premier League Ireland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sports-premier-league-ireland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky_uk_sports_premier_league_ie.png"
+          },
+          "sub_64": {
+            "id": 64,
+            "mode": "satellite",
+            "name": "Sky Sports Premier League Ireland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sports-premier-league-ireland-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky_uk_sports_premier_league_ie.png"
+          },
+          "sub_65": {
+            "id": 65,
+            "mode": "satellite",
+            "name": "Sky Sports Racing Ireland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sports-racing-ireland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/at_the_races_ie.png"
+          },
+          "sub_66": {
+            "id": 66,
+            "mode": "satellite",
+            "name": "Sky Two Ireland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-two-ireland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky-two-uk.png"
+          },
+          "sub_67": {
+            "id": 67,
+            "mode": "satellite",
+            "name": "Sky Witness Ireland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-witness-ireland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky-witness-uk.png"
+          },
+          "sub_68": {
+            "id": 68,
+            "mode": "satellite",
+            "name": "Sky Witness Ireland 1",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-witness-ireland-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky-witness-uk.png"
+          },
+          "sub_69": {
+            "id": 69,
+            "mode": "satellite",
+            "name": "4",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tg-4-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tg4.png"
+          },
+          "sub_70": {
+            "id": 70,
+            "mode": "satellite",
+            "name": "4",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tg-4-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tg4.png"
+          },
+          "sub_71": {
+            "id": 71,
+            "mode": "satellite",
+            "name": "Tlc Ireland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tlc-ireland-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tlc_ie.png"
+          },
+          "sub_72": {
+            "id": 72,
+            "mode": "satellite",
+            "name": "Ucb Ireland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/ucb-ireland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/ucb-ireland-uk.png"
+          },
+          "sub_73": {
+            "id": 73,
+            "mode": "satellite",
+            "name": "Universal Ireland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/universal-tv-ireland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/universal_channel_global.png"
+          },
+          "sub_74": {
+            "id": 74,
+            "mode": "satellite",
+            "name": "Virgin Media One",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/virgin-media-one",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/virgin-media-one-ie.png"
+          },
+          "sub_75": {
+            "id": 75,
+            "mode": "satellite",
+            "name": "Virgin Media One",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/virgin-media-one-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/virgin-media-one-ie.png"
+          },
+          "sub_76": {
+            "id": 76,
+            "mode": "satellite",
+            "name": "Virgin Media One 1",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/virgin-media-one-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/virgin-media-one-ie.png"
+          },
+          "sub_77": {
+            "id": 77,
+            "mode": "satellite",
+            "name": "Virgin Media Three",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/virgin-media-three",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/virgin-media-three-ie.png"
+          },
+          "sub_78": {
+            "id": 78,
+            "mode": "satellite",
+            "name": "Virgin Media Two",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/virgin-media-two",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/virgin-media-two-ie.png"
+          },
+          "sub_79": {
+            "id": 79,
+            "mode": "satellite",
+            "name": "Virgin Media Two",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/virgin-media-two-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/virgin-media-two-ie.png"
+          },
+          "sub_80": {
+            "id": 80,
+            "mode": "satellite",
+            "name": "Ireland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/w-ireland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/w_uktv_uk.png"
+          }
+        }
+      }
+    }
+  }
+}

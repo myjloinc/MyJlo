@@ -1,0 +1,690 @@
+{
+  "TV_Data": {
+    "Channel_List": {
+      "is_channel_list": true,
+      "is_override": true,
+      "thumb_width": 150,
+      "all_Channels_Tab_Name": "",
+      "main": {
+        "id": 13,
+        "name": "Netherlands",
+        "sub_name": "channels",
+        "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/Country/Netherlands.png",
+        "sub": {
+          "sub_0": {
+            "id": 0,
+            "mode": "satellite",
+            "name": "100",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/100-nl",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/0-9/100-percent-nl.png"
+          },
+          "sub_1": {
+            "id": 1,
+            "mode": "satellite",
+            "name": "192",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/192-tv",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/0-9/192_tv_nl.png"
+          },
+          "sub_2": {
+            "id": 2,
+            "mode": "satellite",
+            "name": "24 Kitchen Nederland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/24-kitchen-nederland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/0-9/24_kitchen_us.png"
+          },
+          "sub_3": {
+            "id": 3,
+            "mode": "satellite",
+            "name": "Arrow Classic Rock",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/arrow-classic-rock-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/arrow_classic_rock.png"
+          },
+          "sub_4": {
+            "id": 4,
+            "mode": "satellite",
+            "name": "Bnr Nieuwsradio",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bnr-nieuwsradio",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bnr_nieuwsradio.png"
+          },
+          "sub_5": {
+            "id": 5,
+            "mode": "satellite",
+            "name": "Cartoon Network Nederland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/cartoon-network-nederland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/cartoon_network_global.png"
+          },
+          "sub_6": {
+            "id": 6,
+            "mode": "satellite",
+            "name": "Classic Netherlands",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/classic-fm-netherlands-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/classic_fm_nl.png"
+          },
+          "sub_7": {
+            "id": 7,
+            "mode": "satellite",
+            "name": "Comedy Central Nederland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/comedy-central-nederland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/comedy_central_us.png"
+          },
+          "sub_8": {
+            "id": 8,
+            "mode": "satellite",
+            "name": "Discovery Channel Nederland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/discovery-channel-nederland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/discovery_global_us.png"
+          },
+          "sub_9": {
+            "id": 9,
+            "mode": "satellite",
+            "name": "Disney Channel Nederland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/disney-channel-nederland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/disney_channel_global.png"
+          },
+          "sub_10": {
+            "id": 10,
+            "mode": "satellite",
+            "name": "Disney Nederland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/disney-xd-nederland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/disney_xd_us.png"
+          },
+          "sub_11": {
+            "id": 11,
+            "mode": "satellite",
+            "name": "Dorcel",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/dorcel-tv",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/dorcel_tv_fr.png"
+          },
+          "sub_12": {
+            "id": 12,
+            "mode": "satellite",
+            "name": "Dorcel",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/dorcel-tv-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/dorcel_tv_fr.png"
+          },
+          "sub_13": {
+            "id": 13,
+            "mode": "satellite",
+            "name": "Dorcel Xxx",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/dorcel-xxx",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/dorcel_tv_fr_xxx.png"
+          },
+          "sub_14": {
+            "id": 14,
+            "mode": "satellite",
+            "name": "Dorcel Xxx",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/dorcel-xxx-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/dorcel_tv_fr_xxx.png"
+          },
+          "sub_15": {
+            "id": 15,
+            "mode": "satellite",
+            "name": "Eurosport 1 Nederland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/eurosport-1-nederland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/eurosport_fr_1.png"
+          },
+          "sub_16": {
+            "id": 16,
+            "mode": "satellite",
+            "name": "Eurosport 2 Nederland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/eurosport-2-nederland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/eurosport_fr_2.png"
+          },
+          "sub_17": {
+            "id": 17,
+            "mode": "satellite",
+            "name": "Extreme Sports Channel",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/extreme-sports-channel",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/extreme_sports_nl.png"
+          },
+          "sub_18": {
+            "id": 18,
+            "mode": "satellite",
+            "name": "Extreme Sports Channel",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/extreme-sports-channel-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/extreme_sports_nl.png"
+          },
+          "sub_19": {
+            "id": 19,
+            "mode": "satellite",
+            "name": "Extreme Sports Channel France",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/extreme-sports-channel-france",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/extreme_sports_fr.png"
+          },
+          "sub_20": {
+            "id": 20,
+            "mode": "satellite",
+            "name": "Film 1 Action",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/film-1-action",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/film_1_nl_action.png"
+          },
+          "sub_21": {
+            "id": 21,
+            "mode": "satellite",
+            "name": "Film 1 Drama",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/film-1-drama",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/film-1-drama-nl.png"
+          },
+          "sub_22": {
+            "id": 22,
+            "mode": "satellite",
+            "name": "Film 1 Family",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/film-1-family",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/film_1_nl_family.png"
+          },
+          "sub_23": {
+            "id": 23,
+            "mode": "satellite",
+            "name": "Film 1 Premiere",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/film-1-premiere",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/film_1_nl_premiere.png"
+          },
+          "sub_24": {
+            "id": 24,
+            "mode": "satellite",
+            "name": "Fox",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/fox-nl",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/fox_global.png"
+          },
+          "sub_25": {
+            "id": 25,
+            "mode": "satellite",
+            "name": "Fox Sports 1 Nederland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/fox-sports-1-nederland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/fox-sports-1-nederland-us-nl.png"
+          },
+          "sub_26": {
+            "id": 26,
+            "mode": "satellite",
+            "name": "Fox Sports 2 Nederland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/fox-sports-2-nederland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/fox-sports-2-nederland-us-nl.png"
+          },
+          "sub_27": {
+            "id": 27,
+            "mode": "satellite",
+            "name": "Fox Sports 4 Nederland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/fox-sports-4-nederland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/fox-sports-4-nederland-us-nl.png"
+          },
+          "sub_28": {
+            "id": 28,
+            "mode": "satellite",
+            "name": "Insight",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/insight-hd-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/insight-hd-nl.png"
+          },
+          "sub_29": {
+            "id": 29,
+            "mode": "satellite",
+            "name": "Insight",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/insight-hd-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/insight-hd-nl.png"
+          },
+          "sub_30": {
+            "id": 30,
+            "mode": "satellite",
+            "name": "Insight Uhd",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/insight-uhd",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/insight-hd-nl.png"
+          },
+          "sub_31": {
+            "id": 31,
+            "mode": "satellite",
+            "name": "Insight Uhd",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/insight-uhd-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/insight-hd-nl.png"
+          },
+          "sub_32": {
+            "id": 32,
+            "mode": "satellite",
+            "name": "Investigation Discovery Nederland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/investigation-discovery-nederland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/investigation_discovery_us.png"
+          },
+          "sub_33": {
+            "id": 33,
+            "mode": "satellite",
+            "name": "Investigation Discovery Nederland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/investigation-discovery-nederland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/investigation_discovery_us.png"
+          },
+          "sub_34": {
+            "id": 34,
+            "mode": "satellite",
+            "name": "Radio",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/l1-radio",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/l1_radio.png"
+          },
+          "sub_35": {
+            "id": 35,
+            "mode": "satellite",
+            "name": "Mtv",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/mtv-nl",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/mtv_us.png"
+          },
+          "sub_36": {
+            "id": 36,
+            "mode": "satellite",
+            "name": "National Geographic Nederland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/national-geographic-nederland-hd",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/nat_geo_us_hd.png"
+          },
+          "sub_37": {
+            "id": 37,
+            "mode": "satellite",
+            "name": "Net 5",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/net-5",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/net_5_nl.png"
+          },
+          "sub_38": {
+            "id": 38,
+            "mode": "satellite",
+            "name": "Nickelodeon Nederland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/nickelodeon-nederland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/nickelodeon_us.png"
+          },
+          "sub_39": {
+            "id": 39,
+            "mode": "satellite",
+            "name": "Nickelodeon Nederland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/nickelodeon-nederland-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/nickelodeon_us.png"
+          },
+          "sub_40": {
+            "id": 40,
+            "mode": "satellite",
+            "name": "Npo 1",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/npo-1-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/npo_01_nl.png"
+          },
+          "sub_41": {
+            "id": 41,
+            "mode": "satellite",
+            "name": "Npo 2",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/npo-2",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/npo_02_nl.png"
+          },
+          "sub_42": {
+            "id": 42,
+            "mode": "satellite",
+            "name": "Npo 3",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/npo-3",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/npo_03_nl.png"
+          },
+          "sub_43": {
+            "id": 43,
+            "mode": "satellite",
+            "name": "Npo 3Fm",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/npo-3fm",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/npo_radio_3_fm_nl.png"
+          },
+          "sub_44": {
+            "id": 44,
+            "mode": "satellite",
+            "name": "Npo Funx",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/npo-funx-nl-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/npo_fun_x_nl.png"
+          },
+          "sub_45": {
+            "id": 45,
+            "mode": "satellite",
+            "name": "Npo Politiek",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/npo-politiek",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/npo_politiek.png"
+          },
+          "sub_46": {
+            "id": 46,
+            "mode": "satellite",
+            "name": "Npo Radio 1",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/npo-radio-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/npo_radio_1_nl.png"
+          },
+          "sub_47": {
+            "id": 47,
+            "mode": "satellite",
+            "name": "Npo Radio 2",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/npo-radio-2",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/npo_radio_2_nl.png"
+          },
+          "sub_48": {
+            "id": 48,
+            "mode": "satellite",
+            "name": "Npo Radio 4",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/npo-radio-4",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/npo_radio_4_nl.png"
+          },
+          "sub_49": {
+            "id": 49,
+            "mode": "satellite",
+            "name": "Npo Radio 5",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/npo-radio-5",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/npo_radio_5_nl.png"
+          },
+          "sub_50": {
+            "id": 50,
+            "mode": "satellite",
+            "name": "Omroep Brabant",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/omroep-brabant-tv",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/omroep_brabant_nl_tv.png"
+          },
+          "sub_51": {
+            "id": 51,
+            "mode": "satellite",
+            "name": "Omrop Fryslan",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/omrop-fryslan-tv",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/omroep_friesland_nl_tv.png"
+          },
+          "sub_52": {
+            "id": 52,
+            "mode": "satellite",
+            "name": "Ons",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/ons",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/ons_nl.png"
+          },
+          "sub_53": {
+            "id": 53,
+            "mode": "satellite",
+            "name": "Radio 10",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-10",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio10-nl.png"
+          },
+          "sub_54": {
+            "id": 54,
+            "mode": "satellite",
+            "name": "Radio 538",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-538",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio_538_nl.png"
+          },
+          "sub_55": {
+            "id": 55,
+            "mode": "satellite",
+            "name": "Radio Gelderland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-gelderland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rtv_gelderland_nl_radio.png"
+          },
+          "sub_56": {
+            "id": 56,
+            "mode": "satellite",
+            "name": "Radio Oost",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-oost",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rtv_oost_nl_radio.png"
+          },
+          "sub_57": {
+            "id": 57,
+            "mode": "satellite",
+            "name": "Redlight",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/redlight-hd",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/redlight_hd.png"
+          },
+          "sub_58": {
+            "id": 58,
+            "mode": "satellite",
+            "name": "Redlight",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/redlight-hd-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/redlight_hd.png"
+          },
+          "sub_59": {
+            "id": 59,
+            "mode": "satellite",
+            "name": "Rtl 4",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rtl-4",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rtl4_nl.png"
+          },
+          "sub_60": {
+            "id": 60,
+            "mode": "satellite",
+            "name": "Rtl 5",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rtl-5",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rtl5-nl.png"
+          },
+          "sub_61": {
+            "id": 61,
+            "mode": "satellite",
+            "name": "Rtl 7",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rtl-7",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rtl7-nl.png"
+          },
+          "sub_62": {
+            "id": 62,
+            "mode": "satellite",
+            "name": "Rtl 8",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rtl-8",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rtl8-nl.png"
+          },
+          "sub_63": {
+            "id": 63,
+            "mode": "satellite",
+            "name": "Rtl Lounge",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rtl-lounge-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rtl_lounge_nl_tv.png"
+          },
+          "sub_64": {
+            "id": 64,
+            "mode": "satellite",
+            "name": "Rtl",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rtl-z",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rtl_z_nl.png"
+          },
+          "sub_65": {
+            "id": 65,
+            "mode": "satellite",
+            "name": "Sbs 6",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sbs-6",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sbs-6-nl.png"
+          },
+          "sub_66": {
+            "id": 66,
+            "mode": "satellite",
+            "name": "Sbs 9",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sbs-9",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sbs-9-nl.png"
+          },
+          "sub_67": {
+            "id": 67,
+            "mode": "satellite",
+            "name": "Sky Radio",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-radio-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky_radio_nl.png"
+          },
+          "sub_68": {
+            "id": 68,
+            "mode": "satellite",
+            "name": "Slam",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/slam",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/slam_nl.png"
+          },
+          "sub_69": {
+            "id": 69,
+            "mode": "satellite",
+            "name": "Spike Nederland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/spike-nederland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/spike_tv_us.png"
+          },
+          "sub_70": {
+            "id": 70,
+            "mode": "satellite",
+            "name": "Stingray Brava",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/stingray-brava",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/stingray_ca_brava.png"
+          },
+          "sub_71": {
+            "id": 71,
+            "mode": "satellite",
+            "name": "Stingray Brava",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/stingray-brava-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/stingray_ca_brava.png"
+          },
+          "sub_72": {
+            "id": 72,
+            "mode": "satellite",
+            "name": "Stingray Djazz",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/stingray-djazz",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/stingray_ca_djazz.png"
+          },
+          "sub_73": {
+            "id": 73,
+            "mode": "satellite",
+            "name": "Tlc Nederland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tlc-nederland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tlc_uk.png"
+          },
+          "sub_74": {
+            "id": 74,
+            "mode": "satellite",
+            "name": "Drenthe",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-drenthe",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rtv_drenthe_nl_tv.png"
+          },
+          "sub_75": {
+            "id": 75,
+            "mode": "satellite",
+            "name": "Gelderland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-gelderland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rtv_gelderland_nl_tv.png"
+          },
+          "sub_76": {
+            "id": 76,
+            "mode": "satellite",
+            "name": "Noord",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-noord",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rtv_noord_nl_tv.png"
+          },
+          "sub_77": {
+            "id": 77,
+            "mode": "satellite",
+            "name": "Oost",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-oost",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rtv_oost_nl_tv.png"
+          },
+          "sub_78": {
+            "id": 78,
+            "mode": "satellite",
+            "name": "Oranje",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-oranje",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tv_oranje_nl.png"
+          },
+          "sub_79": {
+            "id": 79,
+            "mode": "satellite",
+            "name": "Veronica",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/veronica",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/veronica.png"
+          },
+          "sub_80": {
+            "id": 80,
+            "mode": "satellite",
+            "name": "Visitx",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/visit-x-tv",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/visit_x.png"
+          },
+          "sub_81": {
+            "id": 81,
+            "mode": "satellite",
+            "name": "Ziggo Sport Golf",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/ziggo-sport-golf",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/ziggo_sport_nl_golf.png"
+          },
+          "sub_82": {
+            "id": 82,
+            "mode": "satellite",
+            "name": "Ziggo Sport Select",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/ziggo-sport-select",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/ziggo_sport_nl_select.png"
+          },
+          "sub_83": {
+            "id": 83,
+            "mode": "satellite",
+            "name": "Ziggo Sport Voetbal",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/ziggo-sport-voetbal",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/ziggo_sport_nl_voetbal.png"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,394 @@
+{
+  "TV_Data": {
+    "Channel_List": {
+      "is_channel_list": true,
+      "is_override": true,
+      "thumb_width": 150,
+      "all_Channels_Tab_Name": "",
+      "main": {
+        "id": 63,
+        "name": "Pakistan",
+        "sub_name": "channels",
+        "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/Country/Pakistan.png",
+        "sub": {
+          "sub_0": {
+            "id": 0,
+            "mode": "satellite",
+            "name": "92 News",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/92-news",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/0-9/92_news_pk.png"
+          },
+          "sub_1": {
+            "id": 1,
+            "mode": "satellite",
+            "name": "Ary Family",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/ary-family-uk",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/ary-family-pk.png"
+          },
+          "sub_2": {
+            "id": 2,
+            "mode": "satellite",
+            "name": "Ary World",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/ary-world",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/ary_world_pk.png"
+          },
+          "sub_3": {
+            "id": 3,
+            "mode": "satellite",
+            "name": "Dunya News",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/dunya-news-uk",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/dunya_news_tv_pk.png"
+          },
+          "sub_4": {
+            "id": 4,
+            "mode": "satellite",
+            "name": "Geo Kahani",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/geo-kahani-uk",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/geo_kahani_pk.png"
+          },
+          "sub_5": {
+            "id": 5,
+            "mode": "satellite",
+            "name": "Geo News International",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/geo-news-international",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/geo_news_international.png"
+          },
+          "sub_6": {
+            "id": 6,
+            "mode": "satellite",
+            "name": "Geo",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/geo-uk",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/geo_tv_uk.png"
+          },
+          "sub_7": {
+            "id": 7,
+            "mode": "satellite",
+            "name": "Hum Masala",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/hum-masala-uk",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/hum-masala.png"
+          },
+          "sub_8": {
+            "id": 8,
+            "mode": "satellite",
+            "name": "Hum News",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/hum-news",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/hum-news-pk.png"
+          },
+          "sub_9": {
+            "id": 9,
+            "mode": "satellite",
+            "name": "Hum Europe",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/hum-tv-europe",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/hum_tv_europe.png"
+          },
+          "sub_10": {
+            "id": 10,
+            "mode": "satellite",
+            "name": "Madani Channel English",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/madani-channel-english",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/madani_channel_pk.png"
+          },
+          "sub_11": {
+            "id": 11,
+            "mode": "satellite",
+            "name": "Ptv Global",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/ptv-global",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/ptv_global_pk.png"
+          },
+          "sub_12": {
+            "id": 12,
+            "mode": "satellite",
+            "name": "Samaa",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/samaa-tv-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/samaa_tv_pk.png"
+          },
+          "sub_13": {
+            "id": 13,
+            "mode": "satellite",
+            "name": "44",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/uk-44-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/uk_44_uk.png"
+          },
+          "sub_217": {
+            "id": 217,
+            "mode": "satellite",
+            "name": "Ndr Info",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/ndr-info",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/ndr_info.png"
+          },
+          "sub_218": {
+            "id": 218,
+            "mode": "satellite",
+            "name": "Ndr Info Spezial",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/ndr-info-spezial",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/ndr_info_spezial.png"
+          },
+          "sub_219": {
+            "id": 219,
+            "mode": "satellite",
+            "name": "Ndr Kultur",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/ndr-kultur",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/ndr_kultur.png"
+          },
+          "sub_220": {
+            "id": 220,
+            "mode": "satellite",
+            "name": "Ndr Plus",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/ndr-plus",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/ndr_plus.png"
+          },
+          "sub_221": {
+            "id": 221,
+            "mode": "satellite",
+            "name": "Nicer Dicer",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/nicer-dicer-tv",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/nicer-dicer-tv-de.png"
+          },
+          "sub_222": {
+            "id": 222,
+            "mode": "satellite",
+            "name": "Nickelodeon Deutschland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/nickelodeon-deutschland-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/nick_us_de.png"
+          },
+          "sub_223": {
+            "id": 223,
+            "mode": "satellite",
+            "name": "Nicktoons Deutschland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/nicktoons-deutschland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/nick_toons_us.png"
+          },
+          "sub_224": {
+            "id": 224,
+            "mode": "satellite",
+            "name": "Nitro Austria",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/nitro-austria",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/nitro_de_austria.png"
+          },
+          "sub_225": {
+            "id": 225,
+            "mode": "satellite",
+            "name": "Nitro Deutschland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/nitro-deutschland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/nitro_de.png"
+          },
+          "sub_226": {
+            "id": 226,
+            "mode": "satellite",
+            "name": "Nitro Deutschland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/nitro-deutschland-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/nitro_de.png"
+          },
+          "sub_227": {
+            "id": 227,
+            "mode": "satellite",
+            "name": "Oberpfalz",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/oberpfalz-tv",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/oberpfalz_tv_de.png"
+          },
+          "sub_228": {
+            "id": 228,
+            "mode": "satellite",
+            "name": "One",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/one",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/ard_one.png"
+          },
+          "sub_229": {
+            "id": 229,
+            "mode": "satellite",
+            "name": "One",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/one-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/ard_one.png"
+          },
+          "sub_230": {
+            "id": 230,
+            "mode": "satellite",
+            "name": "Pearl",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/pearl-tv",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/pearl_tv_de.png"
+          },
+          "sub_231": {
+            "id": 231,
+            "mode": "satellite",
+            "name": "Pearl",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/pearl-tv-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/pearl_tv_de.png"
+          },
+          "sub_232": {
+            "id": 232,
+            "mode": "satellite",
+            "name": "Pearl",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/pearl-tv-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/pearl_tv_de.png"
+          },
+          "sub_233": {
+            "id": 233,
+            "mode": "satellite",
+            "name": "Phoenix",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/phoenix",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/phoenix_de.png"
+          },
+          "sub_234": {
+            "id": 234,
+            "mode": "satellite",
+            "name": "Phoenix",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/phoenix-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/phoenix_de.png"
+          },
+          "sub_235": {
+            "id": 235,
+            "mode": "satellite",
+            "name": "Planet",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/planet",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/planet_de.png"
+          },
+          "sub_236": {
+            "id": 236,
+            "mode": "satellite",
+            "name": "Planet Radio",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/planet-radio",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/planet-radio-de.png"
+          },
+          "sub_237": {
+            "id": 237,
+            "mode": "satellite",
+            "name": "Prosieben Austria",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/prosieben-austria",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/pro_sieben_at.png"
+          },
+          "sub_238": {
+            "id": 238,
+            "mode": "satellite",
+            "name": "Prosieben Austria",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/prosieben-austria-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/pro_sieben_at.png"
+          },
+          "sub_239": {
+            "id": 239,
+            "mode": "satellite",
+            "name": "Prosieben Deutschland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/prosieben-deutschland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/pro_sieben_de.png"
+          },
+          "sub_240": {
+            "id": 240,
+            "mode": "satellite",
+            "name": "Prosieben Deutschland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/prosieben-deutschland-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/pro_sieben_de.png"
+          },
+          "sub_241": {
+            "id": 241,
+            "mode": "satellite",
+            "name": "Prosieben Maxx Austria",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/prosieben-maxx-austria",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/pro_sieben_maxx_at.png"
+          },
+          "sub_242": {
+            "id": 242,
+            "mode": "satellite",
+            "name": "Prosieben Maxx Deutschland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/prosieben-maxx-deutschland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/pro_sieben_maxx_de.png"
+          },
+          "sub_243": {
+            "id": 243,
+            "mode": "satellite",
+            "name": "Prosieben Maxx Deutschland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/prosieben-maxx-deutschland-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/pro_sieben_maxx_de.png"
+          },
+          "sub_244": {
+            "id": 244,
+            "mode": "satellite",
+            "name": "Prosieben Maxx Deutschland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/prosieben-maxx-deutschland-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/pro_sieben_maxx_de.png"
+          },
+          "sub_245": {
+            "id": 245,
+            "mode": "satellite",
+            "name": "Prosieben Schweiz",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/prosieben-schweiz",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/pro_sieben_ch.png"
+          },
+          "sub_246": {
+            "id": 246,
+            "mode": "satellite",
+            "name": "Qvc 2 Deutschland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/qvc-2-deutschland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/qvc2-us-de.png"
+          },
+          "sub_247": {
+            "id": 247,
+            "mode": "satellite",
+            "name": "Qvc 2 Deutschland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/qvc-2-deutschland-hd",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/qvc2-us-de_hd.png"
+          },
+          "sub_248": {
+            "id": 248,
+            "mode": "satellite",
+            "name": "Qvc Deutschland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/qvc-deutschland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/qvc_fr.png"
+          },
+          "sub_249": {
+            "id": 249,
+            "mode": "satellite",
+            "name": "Qvc Deutschland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/qvc-deutschland-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/qvc_fr.png"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,578 @@
+{
+  "TV_Data": {
+    "Channel_List": {
+      "is_channel_list": true,
+      "is_override": true,
+      "thumb_width": 150,
+      "all_Channels_Tab_Name": "",
+      "main": {
+        "id": 6,
+        "name": "Latvia",
+        "sub_name": "channels",
+        "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/Country/Latvia.png",
+        "sub": {
+          "sub_0": {
+            "id": 0,
+            "mode": "satellite",
+            "name": "3 Latvija",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/3-latvija-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/0-9/3-plus-latvija-lv.png"
+          },
+          "sub_1": {
+            "id": 1,
+            "mode": "satellite",
+            "name": "Kanals 2",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/kanals-2-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/kanals2-lv.png"
+          },
+          "sub_2": {
+            "id": 2,
+            "mode": "satellite",
+            "name": "Lnt",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/lnt-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/lnt_lv.png"
+          },
+          "sub_3": {
+            "id": 3,
+            "mode": "satellite",
+            "name": "Ltv 1",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/ltv-1-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/latvia1.png"
+          },
+          "sub_4": {
+            "id": 4,
+            "mode": "satellite",
+            "name": "Ltv 7",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/ltv-7-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/latvia7.png"
+          },
+          "sub_5": {
+            "id": 5,
+            "mode": "satellite",
+            "name": "Radio Marija Latvija",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-marija-latvija",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio_maria_international.png"
+          },
+          "sub_6": {
+            "id": 6,
+            "mode": "satellite",
+            "name": "3 Latvija",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-3-latvija",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tv-3-latvija-lv.png"
+          },
+          "sub_7": {
+            "id": 7,
+            "mode": "satellite",
+            "name": "3 Latvija",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-3-latvija-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tv-3-latvija-lv.png"
+          },
+          "sub_8": {
+            "id": 8,
+            "mode": "satellite",
+            "name": "6 Latvija",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-6-latvija-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tv6-latvija-lv.png"
+          },
+          "sub_9": {
+            "id": 9,
+            "mode": "satellite",
+            "name": "Xxi",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-xxi",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tv21_lv.png"
+          },
+          "sub_10": {
+            "id": 10,
+            "mode": "satellite",
+            "name": "Tvplay Sports",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tvplay-sports-4",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tvplay-sports-se.png"
+          },
+          "sub_11": {
+            "id": 11,
+            "mode": "satellite",
+            "name": "Tvplay Sports",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tvplay-sports-5",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tvplay-sports-se.png"
+          },
+          "sub_12": {
+            "id": 12,
+            "mode": "satellite",
+            "name": "Tvplay Sports",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tvplay-sports-3",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tvplay-sports-plus-lv.png"
+          },
+          "sub_47": {
+            "id": 47,
+            "mode": "satellite",
+            "name": "Baby Europe",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/baby-tv-europe",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/baby_tv_eu.png"
+          },
+          "sub_48": {
+            "id": 48,
+            "mode": "satellite",
+            "name": "Baby Europe",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/baby-tv-europe-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/baby_tv_eu.png"
+          },
+          "sub_49": {
+            "id": 49,
+            "mode": "satellite",
+            "name": "Baby Europe",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/baby-tv-europe-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/baby_tv_eu.png"
+          },
+          "sub_50": {
+            "id": 50,
+            "mode": "satellite",
+            "name": "Bbc 1Xtra",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bbc-1xtra",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bbc_radio1_xtra.png"
+          },
+          "sub_51": {
+            "id": 51,
+            "mode": "satellite",
+            "name": "Bbc 6 Music",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bbc-6-music",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bbc_radio6_music.png"
+          },
+          "sub_52": {
+            "id": 52,
+            "mode": "satellite",
+            "name": "Bbc Alba",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bbc-alba",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bbc_alba.png"
+          },
+          "sub_53": {
+            "id": 53,
+            "mode": "satellite",
+            "name": "Bbc Alba",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bbc-alba-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bbc_alba.png"
+          },
+          "sub_54": {
+            "id": 54,
+            "mode": "satellite",
+            "name": "Bbc Asian Network",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bbc-asian-network",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bbc_radio_asian_network.png"
+          },
+          "sub_55": {
+            "id": 55,
+            "mode": "satellite",
+            "name": "Bbc Earth Romania",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bbc-earth-romania",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bbc_earth_uk.png"
+          },
+          "sub_56": {
+            "id": 56,
+            "mode": "satellite",
+            "name": "Bbc Asian Network",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bbc-asian-network",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bbc_radio_asian_network.png"
+          },
+          "sub_57": {
+            "id": 57,
+            "mode": "satellite",
+            "name": "Bbc Earth Romania",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bbc-earth-romania",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bbc_earth_uk.png"
+          },
+          "sub_58": {
+            "id": 58,
+            "mode": "satellite",
+            "name": "Bbc Earth Romania",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bbc-earth-romania-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bbc_earth_uk.png"
+          },
+          "sub_59": {
+            "id": 59,
+            "mode": "satellite",
+            "name": "Bbc Four",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bbc-four",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bbc_four_uk.png"
+          },
+          "sub_60": {
+            "id": 60,
+            "mode": "satellite",
+            "name": "Bbc Four",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bbc-four-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bbc_four_uk.png"
+          },
+          "sub_61": {
+            "id": 61,
+            "mode": "satellite",
+            "name": "Bbc News",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bbc-news",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bbc_news.png"
+          },
+          "sub_62": {
+            "id": 62,
+            "mode": "satellite",
+            "name": "Bbc News",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bbc-news-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bbc_news.png"
+          },
+          "sub_63": {
+            "id": 63,
+            "mode": "satellite",
+            "name": "Bbc One",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bbc-one",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bbc-one-uk.png"
+          },
+          "sub_64": {
+            "id": 64,
+            "mode": "satellite",
+            "name": "Bbc One Channel Islands",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bbc-one-channel-islands",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bbc-one-uk.png"
+          },
+          "sub_65": {
+            "id": 65,
+            "mode": "satellite",
+            "name": "Bbc One East East",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bbc-one-east-east",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bbc-one-uk.png"
+          },
+          "sub_66": {
+            "id": 66,
+            "mode": "satellite",
+            "name": "Bbc One East Midlands",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bbc-one-east-midlands",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bbc-one-uk.png"
+          },
+          "sub_67": {
+            "id": 67,
+            "mode": "satellite",
+            "name": "Bbc One East West",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bbc-one-east-west",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bbc-one-uk.png"
+          },
+          "sub_68": {
+            "id": 68,
+            "mode": "satellite",
+            "name": "Bbc One East Yorkshire Lincolnshire",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bbc-one-east-yorkshire-lincolnshire",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bbc-one-uk.png"
+          },
+          "sub_69": {
+            "id": 69,
+            "mode": "satellite",
+            "name": "Bbc One London",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bbc-one-london",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bbc-one-uk.png"
+          },
+          "sub_70": {
+            "id": 70,
+            "mode": "satellite",
+            "name": "Bbc One North East Cumbria",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bbc-one-north-east-cumbria",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bbc-one-uk.png"
+          },
+          "sub_71": {
+            "id": 71,
+            "mode": "satellite",
+            "name": "Bbc One North West",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bbc-one-north-west",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bbc-one-uk.png"
+          },
+          "sub_72": {
+            "id": 72,
+            "mode": "satellite",
+            "name": "Bbc One Northern Ireland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bbc-one-northern-ireland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bbc-one-uk.png"
+          },
+          "sub_73": {
+            "id": 73,
+            "mode": "satellite",
+            "name": "Bbc One Northern Ireland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bbc-one-northern-ireland-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bbc-one-uk.png"
+          },
+          "sub_74": {
+            "id": 74,
+            "mode": "satellite",
+            "name": "Bbc One Oxford",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bbc-one-oxford",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bbc-one-uk.png"
+          },
+          "sub_75": {
+            "id": 75,
+            "mode": "satellite",
+            "name": "Bbc One Scotland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bbc-one-scotland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bbc-one-uk.png"
+          },
+          "sub_76": {
+            "id": 76,
+            "mode": "satellite",
+            "name": "Bbc One Scotland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bbc-one-scotland-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bbc-one-uk.png"
+          },
+          "sub_77": {
+            "id": 77,
+            "mode": "satellite",
+            "name": "Bbc One South",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bbc-one-south",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bbc-one-uk.png"
+          },
+          "sub_78": {
+            "id": 78,
+            "mode": "satellite",
+            "name": "Bbc One South East",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bbc-one-south-east",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bbc-one-uk.png"
+          },
+          "sub_79": {
+            "id": 79,
+            "mode": "satellite",
+            "name": "Bbc One South West",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bbc-one-south-west",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bbc-one-uk.png"
+          },
+          "sub_80": {
+            "id": 80,
+            "mode": "satellite",
+            "name": "Bbc One Wales",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bbc-one-wales",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bbc-one-uk.png"
+          },
+          "sub_81": {
+            "id": 81,
+            "mode": "satellite",
+            "name": "Bbc One Wales",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bbc-one-wales-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bbc-one-uk.png"
+          },
+          "sub_82": {
+            "id": 82,
+            "mode": "satellite",
+            "name": "Bbc One West",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bbc-one-west",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bbc-one-uk.png"
+          },
+          "sub_83": {
+            "id": 83,
+            "mode": "satellite",
+            "name": "Bbc One West Midlands",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bbc-one-west-midlands",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bbc-one-uk.png"
+          },
+          "sub_84": {
+            "id": 84,
+            "mode": "satellite",
+            "name": "Bbc One Yorkshire North Midlands",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bbc-one-yorkshire-north-midlands",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bbc-one-uk.png"
+          },
+          "sub_85": {
+            "id": 85,
+            "mode": "satellite",
+            "name": "Bbc Parliament",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bbc-parliament",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bbc_parliament.png"
+          },
+          "sub_86": {
+            "id": 86,
+            "mode": "satellite",
+            "name": "Bbc Radio 3",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bbc-radio-3",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bbc_radio3.png"
+          },
+          "sub_87": {
+            "id": 87,
+            "mode": "satellite",
+            "name": "Bbc Radio 4 Dab",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bbc-radio-4-dab",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bbc_radio4.png"
+          },
+          "sub_88": {
+            "id": 88,
+            "mode": "satellite",
+            "name": "Bbc Radio 4 Extra",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bbc-radio-4-extra",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bbc_radio4_extra.png"
+          },
+          "sub_89": {
+            "id": 89,
+            "mode": "satellite",
+            "name": "Bbc Radio 4",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bbc-radio-4-lw",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bbc_radio4.png"
+          },
+          "sub_90": {
+            "id": 90,
+            "mode": "satellite",
+            "name": "Bbc Radio 5 Live",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bbc-radio-5-live",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bbc_radio5_live.png"
+          },
+          "sub_91": {
+            "id": 91,
+            "mode": "satellite",
+            "name": "Bbc Radio 5 Live Sports Extra",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bbc-radio-5-live-sports-extra",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bbc_radio5_live_sports_extra.png"
+          },
+          "sub_92": {
+            "id": 92,
+            "mode": "satellite",
+            "name": "Bbc Radio Cymru",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bbc-radio-cymru",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bbc_radio_uk_cymru.png"
+          },
+          "sub_93": {
+            "id": 93,
+            "mode": "satellite",
+            "name": "Bbc Radio Cymru 2",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bbc-radio-cymru-2",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bbc-radio-cymru2-uk.png"
+          },
+          "sub_94": {
+            "id": 94,
+            "mode": "satellite",
+            "name": "Bbc Radio Foyle",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bbc-radio-foyle",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bbc_radio_uk_foyle.png"
+          },
+          "sub_95": {
+            "id": 95,
+            "mode": "satellite",
+            "name": "Bbc Radio London",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bbc-radio-london",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bbc-radio-london-uk.png"
+          },
+          "sub_96": {
+            "id": 96,
+            "mode": "satellite",
+            "name": "Bbc Radio Nan Gaidheal",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bbc-radio-nan-gaidheal",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bbc_radio_uk_nan_gaidheal.png"
+          },
+          "sub_97": {
+            "id": 97,
+            "mode": "satellite",
+            "name": "Bbc Radio Scotland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bbc-radio-scotland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bbc_radio_uk_scotland.png"
+          },
+          "sub_98": {
+            "id": 98,
+            "mode": "satellite",
+            "name": "Bbc Radio Ulster",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bbc-radio-ulster",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bbc_radio_uk_ulster.png"
+          },
+          "sub_99": {
+            "id": 99,
+            "mode": "satellite",
+            "name": "Bbc Radio Wales",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bbc-radio-wales",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bbc_radio_uk_wales.png"
+          },
+          "sub_100": {
+            "id": 100,
+            "mode": "satellite",
+            "name": "Bbc Red Button 1",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bbc-red-button-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bbc_red_button_uk.png"
+          },
+          "sub_101": {
+            "id": 101,
+            "mode": "satellite",
+            "name": "Bbc Scotland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bbc-scotland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bbc-scotland-uk.png"
+          },
+          "sub_102": {
+            "id": 102,
+            "mode": "satellite",
+            "name": "Bbc Scotland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bbc-scotland-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bbc-scotland-uk.png"
+          },
+          "sub_103": {
+            "id": 103,
+            "mode": "satellite",
+            "name": "Bbc Two",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bbc-two",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bbc-two-uk.png"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,618 @@
+{
+  "TV_Data": {
+    "Channel_List": {
+      "is_channel_list": true,
+      "is_override": true,
+      "thumb_width": 150,
+      "all_Channels_Tab_Name": "",
+      "main": {
+        "id": 10,
+        "name": "Norway",
+        "sub_name": "channels",
+        "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/Country/Norway.png",
+        "sub": {
+          "sub_0": {
+            "id": 0,
+            "mode": "satellite",
+            "name": "Discovery Channel Norway",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/discovery-channel-norway",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/discovery_global_us.png"
+          },
+          "sub_1": {
+            "id": 1,
+            "mode": "satellite",
+            "name": "Disney Channel Norge",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/disney-channel-norge",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/disney_channel_global.png"
+          },
+          "sub_2": {
+            "id": 2,
+            "mode": "satellite",
+            "name": "Eurosport 1 Norge",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/eurosport-1-norge",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/eurosport_fr_1.png"
+          },
+          "sub_3": {
+            "id": 3,
+            "mode": "satellite",
+            "name": "Fem",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/fem",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/fem_no.png"
+          },
+          "sub_4": {
+            "id": 4,
+            "mode": "satellite",
+            "name": "Fox Norge",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/fox-norge",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/fox_global.png"
+          },
+          "sub_5": {
+            "id": 5,
+            "mode": "satellite",
+            "name": "Max",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/max",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/max_no.png"
+          },
+          "sub_6": {
+            "id": 6,
+            "mode": "satellite",
+            "name": "Max",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/max-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/max_no.png"
+          },
+          "sub_7": {
+            "id": 7,
+            "mode": "satellite",
+            "name": "National Geographic Norge",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/national-geographic-norge",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/nat_geo_us.png"
+          },
+          "sub_8": {
+            "id": 8,
+            "mode": "satellite",
+            "name": "Nickelodeon Norge",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/nickelodeon-norge",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/nickelodeon_us.png"
+          },
+          "sub_9": {
+            "id": 9,
+            "mode": "satellite",
+            "name": "Nrk 1",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/nrk-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/nrk1.png"
+          },
+          "sub_10": {
+            "id": 10,
+            "mode": "satellite",
+            "name": "Nrk 1 Midtnytt",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/nrk-1-midtnytt",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/nrk1.png"
+          },
+          "sub_11": {
+            "id": 11,
+            "mode": "satellite",
+            "name": "Nrk 1 More Romsdal",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/nrk-1-more-og-romsdal",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/nrk1.png"
+          },
+          "sub_12": {
+            "id": 12,
+            "mode": "satellite",
+            "name": "Nrk 1 Nordland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/nrk-1-nordland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/nrk1.png"
+          },
+          "sub_13": {
+            "id": 13,
+            "mode": "satellite",
+            "name": "Nrk 1 Nordnytt",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/nrk-1-nordnytt",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/nrk1.png"
+          },
+          "sub_14": {
+            "id": 14,
+            "mode": "satellite",
+            "name": "Nrk 1 Ostafjells",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/nrk-1-ostafjells",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/nrk1.png"
+          },
+          "sub_15": {
+            "id": 15,
+            "mode": "satellite",
+            "name": "Nrk 1 Ostfold",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/nrk-1-ostfold",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/nrk1.png"
+          },
+          "sub_16": {
+            "id": 16,
+            "mode": "satellite",
+            "name": "Nrk 1 Ostnytt",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/nrk-1-ostnytt",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/nrk1.png"
+          },
+          "sub_17": {
+            "id": 17,
+            "mode": "satellite",
+            "name": "Nrk 1 Rogaland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/nrk-1-rogaland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/nrk1.png"
+          },
+          "sub_18": {
+            "id": 18,
+            "mode": "satellite",
+            "name": "Nrk 1 Sorlandet",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/nrk-1-sorlandet",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/nrk1.png"
+          },
+          "sub_19": {
+            "id": 19,
+            "mode": "satellite",
+            "name": "Nrk 1 Vestlandsrevyen",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/nrk-1-vestlandsrevyen",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/nrk1.png"
+          },
+          "sub_20": {
+            "id": 20,
+            "mode": "satellite",
+            "name": "Nrk 2",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/nrk-2",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/nrk2.png"
+          },
+          "sub_21": {
+            "id": 21,
+            "mode": "satellite",
+            "name": "Nrk 3",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/nrk-3",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/nrk3.png"
+          },
+          "sub_22": {
+            "id": 22,
+            "mode": "satellite",
+            "name": "Nrk Alltid Nyheter",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/nrk-alltid-nyheter",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/nrk_alltid_nyheter_radio.png"
+          },
+          "sub_23": {
+            "id": 23,
+            "mode": "satellite",
+            "name": "Nrk Folkemusikk",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/nrk-folkemusikk",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/nrk_alltid_folkemusikk.png"
+          },
+          "sub_24": {
+            "id": 24,
+            "mode": "satellite",
+            "name": "Nrk Jazz",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/nrk-jazz",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/nrk_jazz.png"
+          },
+          "sub_25": {
+            "id": 25,
+            "mode": "satellite",
+            "name": "Nrk Klassisk",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/nrk-klassisk",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/nrk_alltid_klassisk_radio.png"
+          },
+          "sub_26": {
+            "id": 26,
+            "mode": "satellite",
+            "name": "Nrk Mp3",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/nrk-mp3",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/nrk_mp3_no.png"
+          },
+          "sub_27": {
+            "id": 27,
+            "mode": "satellite",
+            "name": "Nrk Buskerud",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/nrk-p1-buskerud",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/nrk_p1_no.png"
+          },
+          "sub_28": {
+            "id": 28,
+            "mode": "satellite",
+            "name": "Nrk Finnmark",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/nrk-p1-finnmark",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/nrk_p1_no.png"
+          },
+          "sub_29": {
+            "id": 29,
+            "mode": "satellite",
+            "name": "Nrk Hedmark Oppland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/nrk-p1-hedmark-og-oppland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/nrk_p1_no.png"
+          },
+          "sub_30": {
+            "id": 30,
+            "mode": "satellite",
+            "name": "Nrk Hordaland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/nrk-p1-hordaland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/nrk_p1_no.png"
+          },
+          "sub_31": {
+            "id": 31,
+            "mode": "satellite",
+            "name": "Nrk More Romsdal",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/nrk-p1-more-og-romsdal",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/nrk_p1_no.png"
+          },
+          "sub_32": {
+            "id": 32,
+            "mode": "satellite",
+            "name": "Nrk Nordland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/nrk-p1-nordland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/nrk_p1_no.png"
+          },
+          "sub_33": {
+            "id": 33,
+            "mode": "satellite",
+            "name": "Nrk Oslo Akershus",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/nrk-p1-oslo-og-akershus",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/nrk_p1_no.png"
+          },
+          "sub_34": {
+            "id": 34,
+            "mode": "satellite",
+            "name": "Nrk Ostfold",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/nrk-p1-ostfold",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/nrk_p1_no.png"
+          },
+          "sub_35": {
+            "id": 35,
+            "mode": "satellite",
+            "name": "Nrk Rogaland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/nrk-p1-rogaland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/nrk_p1_no.png"
+          },
+          "sub_36": {
+            "id": 36,
+            "mode": "satellite",
+            "name": "Nrk Sogn Fjordane",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/nrk-p1-sogn-og-fjordane",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/nrk_p1_no.png"
+          },
+          "sub_37": {
+            "id": 37,
+            "mode": "satellite",
+            "name": "Nrk Sorlandet",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/nrk-p1-sorlandet",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/nrk_p1_no.png"
+          },
+          "sub_38": {
+            "id": 38,
+            "mode": "satellite",
+            "name": "Nrk Telemark",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/nrk-p1-telemark",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/nrk_p1_no.png"
+          },
+          "sub_39": {
+            "id": 39,
+            "mode": "satellite",
+            "name": "Nrk Troms",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/nrk-p1-troms",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/nrk_p1_no.png"
+          },
+          "sub_40": {
+            "id": 40,
+            "mode": "satellite",
+            "name": "Nrk Trondelag",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/nrk-p1-trondelag",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/nrk_p1_no.png"
+          },
+          "sub_41": {
+            "id": 41,
+            "mode": "satellite",
+            "name": "Nrk Vestfold",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/nrk-p1-vestfold",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/nrk_p1_no.png"
+          },
+          "sub_42": {
+            "id": 42,
+            "mode": "satellite",
+            "name": "Nrk",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/nrk-p1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/nrk_p1_no_plus.png"
+          },
+          "sub_43": {
+            "id": 43,
+            "mode": "satellite",
+            "name": "Nrk P13",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/nrk-p13",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/nrk_p13_no.png"
+          },
+          "sub_44": {
+            "id": 44,
+            "mode": "satellite",
+            "name": "Nrk",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/nrk-p2",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/nrk_p2_no.png"
+          },
+          "sub_45": {
+            "id": 45,
+            "mode": "satellite",
+            "name": "Nrk",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/nrk-p3",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/nrk_p3_no.png"
+          },
+          "sub_46": {
+            "id": 46,
+            "mode": "satellite",
+            "name": "Nrk Radio Super",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/nrk-radio-super",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/nrk_super_radio.png"
+          },
+          "sub_47": {
+            "id": 47,
+            "mode": "satellite",
+            "name": "Nrk Sapmi",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/nrk-sapmi",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/nrk_sami_radio.png"
+          },
+          "sub_48": {
+            "id": 48,
+            "mode": "satellite",
+            "name": "Nrk Sport",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/nrk-sport",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/nrk_sport_no.png"
+          },
+          "sub_49": {
+            "id": 49,
+            "mode": "satellite",
+            "name": "Nrk Super",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/nrk-super-tv",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/nrk_super_tv.png"
+          },
+          "sub_50": {
+            "id": 50,
+            "mode": "satellite",
+            "name": "Nrk Tegnsprak",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/nrk-tegnsprak",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/nrk_tegnsprak.png"
+          },
+          "sub_51": {
+            "id": 51,
+            "mode": "satellite",
+            "name": "Nrk Vaeret Til Sjos",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/nrk-vaeret-til-sjos",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/nrk_vaeret_til_sjos.png"
+          },
+          "sub_52": {
+            "id": 52,
+            "mode": "satellite",
+            "name": "Lyden Norge",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/p4-lyden-av-norge",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/p4_no.png"
+          },
+          "sub_53": {
+            "id": 53,
+            "mode": "satellite",
+            "name": "2",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-2",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tv2_no.png"
+          },
+          "sub_54": {
+            "id": 54,
+            "mode": "satellite",
+            "name": "2 Humor",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-2-humor",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tv2_humor_no.png"
+          },
+          "sub_55": {
+            "id": 55,
+            "mode": "satellite",
+            "name": "2 Humor",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-2-humor-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tv2_humor_no.png"
+          },
+          "sub_56": {
+            "id": 56,
+            "mode": "satellite",
+            "name": "2 Livsstil",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-2-livsstil",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tv2_no_livsstil.png"
+          },
+          "sub_57": {
+            "id": 57,
+            "mode": "satellite",
+            "name": "2 Nyhetskanalen",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-2-nyhetskanalen",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tv2_nyhets_kanalen_no.png"
+          },
+          "sub_58": {
+            "id": 58,
+            "mode": "satellite",
+            "name": "2 Sport 1",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-2-sport-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tv-2-sport-1-no.png"
+          },
+          "sub_59": {
+            "id": 59,
+            "mode": "satellite",
+            "name": "2 Sport 2",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-2-sport-2",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tv-2-sport-2-no.png"
+          },
+          "sub_60": {
+            "id": 60,
+            "mode": "satellite",
+            "name": "2 Sport Premium",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-2-sport-premium",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tv2_sport_premium_no_1.png"
+          },
+          "sub_61": {
+            "id": 61,
+            "mode": "satellite",
+            "name": "2 Sport Premium 2",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-2-sport-premium-2",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tv2_sport_premium_no_2.png"
+          },
+          "sub_62": {
+            "id": 62,
+            "mode": "satellite",
+            "name": "2 Zebra",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-2-zebra",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tv2_zebra_no.png"
+          },
+          "sub_63": {
+            "id": 63,
+            "mode": "satellite",
+            "name": "3 Norge",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-3-norge",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_tv3_no.png"
+          },
+          "sub_64": {
+            "id": 64,
+            "mode": "satellite",
+            "name": "6 Norge",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-6-norge",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tv-6-norge-no.png"
+          },
+          "sub_65": {
+            "id": 65,
+            "mode": "satellite",
+            "name": "Norge",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-norge",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tv_norge.png"
+          },
+          "sub_66": {
+            "id": 66,
+            "mode": "satellite",
+            "name": "Vision Sverige",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-vision-sverige",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tv_vision_sverige_no.png"
+          },
+          "sub_67": {
+            "id": 67,
+            "mode": "satellite",
+            "name": "Visjon Norge",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-visjon-norge",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/visjon_norge_no.png"
+          },
+          "sub_68": {
+            "id": 68,
+            "mode": "satellite",
+            "name": "Viasat 4",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/viasat-4",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasat_tv4_no.png"
+          },
+          "sub_69": {
+            "id": 69,
+            "mode": "satellite",
+            "name": "Viasport",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/viasport",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasport-plus-se-no.png"
+          },
+          "sub_70": {
+            "id": 70,
+            "mode": "satellite",
+            "name": "Viasport 1",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/viasport-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasport-1-se-no.png"
+          },
+          "sub_71": {
+            "id": 71,
+            "mode": "satellite",
+            "name": "Viasport 2",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/viasport-2",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasport-2-se-no.png"
+          },
+          "sub_72": {
+            "id": 72,
+            "mode": "satellite",
+            "name": "Viasport 3",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/viasport-3",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/viasport-3-se-no.png"
+          },
+          "sub_73": {
+            "id": 73,
+            "mode": "satellite",
+            "name": "Vox",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/vox",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/vox_no.png"
+          },
+          "sub_74": {
+            "id": 74,
+            "mode": "satellite",
+            "name": "Vox",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/vox-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/vox_no.png"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,810 @@
+{
+  "TV_Data": {
+    "Channel_List": {
+      "is_channel_list": true,
+      "is_override": true,
+      "thumb_width": 150,
+      "all_Channels_Tab_Name": "",
+      "main": {
+        "id": 53,
+        "name": "Russia",
+        "sub_name": "channels",
+        "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/Country/Russia.png",
+        "sub": {
+          "sub_0": {
+            "id": 0,
+            "mode": "satellite",
+            "name": "5 Kanal International",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/5-kanal-international",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/0-9/5_kanal_ru.png"
+          },
+          "sub_1": {
+            "id": 1,
+            "mode": "satellite",
+            "name": "8 Kanal International",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/8-kanal-international",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/0-9/8_tv_ru.png"
+          },
+          "sub_2": {
+            "id": 2,
+            "mode": "satellite",
+            "name": "Premium",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/premium-hd",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/a_media_ru_premium_hd.png"
+          },
+          "sub_3": {
+            "id": 3,
+            "mode": "satellite",
+            "name": "",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/a1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/a_media_ru_1.png"
+          },
+          "sub_4": {
+            "id": 4,
+            "mode": "satellite",
+            "name": "",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/a2",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/a_media_ru_2.png"
+          },
+          "sub_5": {
+            "id": 5,
+            "mode": "satellite",
+            "name": "Amedia Hit",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/amedia-hit",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/a_media_ru_hit.png"
+          },
+          "sub_6": {
+            "id": 6,
+            "mode": "satellite",
+            "name": "Animal Planet Russia",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/animal-planet-russia",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/animal-planet-us.png"
+          },
+          "sub_7": {
+            "id": 7,
+            "mode": "satellite",
+            "name": "Avto 24",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/avto-24",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/avto24_ru.png"
+          },
+          "sub_8": {
+            "id": 8,
+            "mode": "satellite",
+            "name": "Bollywood",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/bollywood-hd",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/bollywood_ru_hd.png"
+          },
+          "sub_9": {
+            "id": 9,
+            "mode": "satellite",
+            "name": "Cartoon Network Russia South East Europe",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/cartoon-network-russia-south-east-europe",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/cartoon_network_global.png"
+          },
+          "sub_10": {
+            "id": 10,
+            "mode": "satellite",
+            "name": "Cartoon Network Russia South East Europe",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/cartoon-network-russia-south-east-europe-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/cartoon_network_global.png"
+          },
+          "sub_11": {
+            "id": 11,
+            "mode": "satellite",
+            "name": "Cinema",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/cinema",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/telekarta_ru_cinema.png"
+          },
+          "sub_12": {
+            "id": 12,
+            "mode": "satellite",
+            "name": "Discovery Channel Russia",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/discovery-channel-russia",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/discovery_global_us.png"
+          },
+          "sub_13": {
+            "id": 13,
+            "mode": "satellite",
+            "name": "Dom Kino",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/dom-kino",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/dom_kino_ru.png"
+          },
+          "sub_14": {
+            "id": 14,
+            "mode": "satellite",
+            "name": "Dom Kino Premium",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/dom-kino-premium",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/dom_kino_ru_premium.png"
+          },
+          "sub_15": {
+            "id": 15,
+            "mode": "satellite",
+            "name": "Domashniy International",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/domashniy-international",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/domashniy_ru_international.png"
+          },
+          "sub_16": {
+            "id": 16,
+            "mode": "satellite",
+            "name": "Dozhd",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/dozhd-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/dozhd_ru.png"
+          },
+          "sub_17": {
+            "id": 17,
+            "mode": "satellite",
+            "name": "Dtx Rossiya",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/dtx-rossiya",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/discovery_turbo_us_xtra.png"
+          },
+          "sub_18": {
+            "id": 18,
+            "mode": "satellite",
+            "name": "Eurosport 1 Rossiya",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/eurosport-1-rossiya",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/eurosport_fr_1.png"
+          },
+          "sub_19": {
+            "id": 19,
+            "mode": "satellite",
+            "name": "Eurosport 1 Rossiya",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/eurosport-1-rossiya-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/eurosport_fr_1.png"
+          },
+          "sub_20": {
+            "id": 20,
+            "mode": "satellite",
+            "name": "Eurosport 1 Rossiya",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/eurosport-1-rossiya-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/eurosport_fr_1.png"
+          },
+          "sub_21": {
+            "id": 21,
+            "mode": "satellite",
+            "name": "Eurosport 2 Rossiya",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/eurosport-2-rossiya",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/eurosport_fr_2.png"
+          },
+          "sub_22": {
+            "id": 22,
+            "mode": "satellite",
+            "name": "Eurosport 2 Rossiya",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/eurosport-2-rossiya-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/eurosport_fr_2.png"
+          },
+          "sub_23": {
+            "id": 23,
+            "mode": "satellite",
+            "name": "Eurosport 2 Rossiya",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/eurosport-2-rossiya-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/eurosport_fr_2.png"
+          },
+          "sub_24": {
+            "id": 24,
+            "mode": "satellite",
+            "name": "Evrokino",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/evrokino",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/eurokino.png"
+          },
+          "sub_25": {
+            "id": 25,
+            "mode": "satellite",
+            "name": "Evrokino",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/evrokino-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/eurokino.png"
+          },
+          "sub_26": {
+            "id": 26,
+            "mode": "satellite",
+            "name": "Filmbox Russia",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/filmbox-russia",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/filmbox_russia.png"
+          },
+          "sub_27": {
+            "id": 27,
+            "mode": "satellite",
+            "name": "Fox Russia",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/fox-russia-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/fox_global.png"
+          },
+          "sub_28": {
+            "id": 28,
+            "mode": "satellite",
+            "name": "Investigation Discovery Rossiya",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/investigation-discovery-rossiya",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/investigation_discovery_us.png"
+          },
+          "sub_29": {
+            "id": 29,
+            "mode": "satellite",
+            "name": "Investigation Discovery Rossiya",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/investigation-discovery-rossiya-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/investigation_discovery_us.png"
+          },
+          "sub_30": {
+            "id": 30,
+            "mode": "satellite",
+            "name": "Istoriya Telekanal",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/istoriya-telekanal",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/istoriya_telekanal_ru.png"
+          },
+          "sub_31": {
+            "id": 31,
+            "mode": "satellite",
+            "name": "Jimjam Rossiya",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/jimjam-rossiya",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/jim_jam_global.png"
+          },
+          "sub_32": {
+            "id": 32,
+            "mode": "satellite",
+            "name": "Kanal Disney",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/kanal-disney",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/disney_channel_ru.png"
+          },
+          "sub_33": {
+            "id": 33,
+            "mode": "satellite",
+            "name": "Karusel International",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/karusel-international",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/karusel_international.png"
+          },
+          "sub_34": {
+            "id": 34,
+            "mode": "satellite",
+            "name": "Global",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/m-1-global-tv",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/m-1-global-tv-ru.png"
+          },
+          "sub_35": {
+            "id": 35,
+            "mode": "satellite",
+            "name": "Mtv Russia",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/mtv-russia",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/mtv_us.png"
+          },
+          "sub_36": {
+            "id": 36,
+            "mode": "satellite",
+            "name": "Mult",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/mult",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/mult_ru.png"
+          },
+          "sub_37": {
+            "id": 37,
+            "mode": "satellite",
+            "name": "National Geographic Russia",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/national-geographic-russia-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/nat_geo_us.png"
+          },
+          "sub_38": {
+            "id": 38,
+            "mode": "satellite",
+            "name": "Nauka",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/nauka",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/nauka_ru.png"
+          },
+          "sub_39": {
+            "id": 39,
+            "mode": "satellite",
+            "name": "Nst",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/nst",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/nastoyashee_strashnoe_tv_ru.png"
+          },
+          "sub_40": {
+            "id": 40,
+            "mode": "satellite",
+            "name": "Ntv Mir",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/ntv-mir",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/ntv_world_ru.png"
+          },
+          "sub_41": {
+            "id": 41,
+            "mode": "satellite",
+            "name": "Ntv Mir",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/ntv-mir-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/ntv_world_ru.png"
+          },
+          "sub_42": {
+            "id": 42,
+            "mode": "satellite",
+            "name": "Ntv Mir Baltic",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/ntv-mir-baltic",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/ntv_world_baltic.png"
+          },
+          "sub_43": {
+            "id": 43,
+            "mode": "satellite",
+            "name": "Ntv Mir Baltic",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/ntv-mir-baltic-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/ntv_world_baltic.png"
+          },
+          "sub_44": {
+            "id": 44,
+            "mode": "satellite",
+            "name": "Okhota Rybalka",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/okhota-i-rybalka-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/okhota-i-rybalka-ru.png"
+          },
+          "sub_45": {
+            "id": 45,
+            "mode": "satellite",
+            "name": "Paramount Channel Russia",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/paramount-channel-russia",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/paramount_channel_us.png"
+          },
+          "sub_46": {
+            "id": 46,
+            "mode": "satellite",
+            "name": "Paramount Comedy Russia",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/paramount-comedy-russia",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/paramount_comedy_ru.png"
+          },
+          "sub_47": {
+            "id": 47,
+            "mode": "satellite",
+            "name": "Peretz International",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/peretz-international",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/peretz_tv_ru_international.png"
+          },
+          "sub_48": {
+            "id": 48,
+            "mode": "satellite",
+            "name": "Peretz International",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/peretz-international-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/peretz_tv_ru_international.png"
+          },
+          "sub_49": {
+            "id": 49,
+            "mode": "satellite",
+            "name": "Perviy Baltijskyi Kanal",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/perviy-baltijskyi-kanal",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/perviy_baltiysky_kanal_ru.png"
+          },
+          "sub_50": {
+            "id": 50,
+            "mode": "satellite",
+            "name": "Perviy Baltijskyi Kanal",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/perviy-baltijskyi-kanal-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/perviy_baltiysky_kanal_ru.png"
+          },
+          "sub_51": {
+            "id": 51,
+            "mode": "satellite",
+            "name": "Perviy Kanal Cis",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/perviy-kanal-cis",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/perviy_1_kanal.png"
+          },
+          "sub_52": {
+            "id": 52,
+            "mode": "satellite",
+            "name": "Planeta",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/planeta-hd",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/planeta_hd_ru.png"
+          },
+          "sub_53": {
+            "id": 53,
+            "mode": "satellite",
+            "name": "Pyatnitsa International",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/pyatnitsa-international",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/pyatnitsa-international-ru.png"
+          },
+          "sub_54": {
+            "id": 54,
+            "mode": "satellite",
+            "name": "Rbk",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rbk-tv",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rbk_tv_ru.png"
+          },
+          "sub_55": {
+            "id": 55,
+            "mode": "satellite",
+            "name": "Ren Baltic",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/ren-tv-baltic",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/ren_tv_ru_baltic.png"
+          },
+          "sub_56": {
+            "id": 56,
+            "mode": "satellite",
+            "name": "Ren Baltic",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/ren-tv-baltic-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/ren_tv_ru_baltic.png"
+          },
+          "sub_57": {
+            "id": 57,
+            "mode": "satellite",
+            "name": "Ren International",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/ren-tv-international",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/ren-tv-ru.png"
+          },
+          "sub_58": {
+            "id": 58,
+            "mode": "satellite",
+            "name": "Rossiya 24",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rossiya-24",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rossiya_24.png"
+          },
+          "sub_59": {
+            "id": 59,
+            "mode": "satellite",
+            "name": "Rossiya",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rossiya-k",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rossiya_kultura.png"
+          },
+          "sub_60": {
+            "id": 60,
+            "mode": "satellite",
+            "name": "Espanol",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rt-espanol",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rt_ru_espanol.png"
+          },
+          "sub_61": {
+            "id": 61,
+            "mode": "satellite",
+            "name": "Espanol",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rt-espanol-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rt_ru_espanol.png"
+          },
+          "sub_62": {
+            "id": 62,
+            "mode": "satellite",
+            "name": "France",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rt-france",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rt-france-ru-fr.png"
+          },
+          "sub_63": {
+            "id": 63,
+            "mode": "satellite",
+            "name": "News",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rt-news",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rt_ru_english.png"
+          },
+          "sub_64": {
+            "id": 64,
+            "mode": "satellite",
+            "name": "News",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rt-news-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rt_ru_english.png"
+          },
+          "sub_65": {
+            "id": 65,
+            "mode": "satellite",
+            "name": "News",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rt-news-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rt_ru_english.png"
+          },
+          "sub_66": {
+            "id": 66,
+            "mode": "satellite",
+            "name": "News",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rt-news-2",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rt_ru_english.png"
+          },
+          "sub_67": {
+            "id": 67,
+            "mode": "satellite",
+            "name": "News",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rt-news-3",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rt_ru_english.png"
+          },
+          "sub_68": {
+            "id": 68,
+            "mode": "satellite",
+            "name": "",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rt-uk",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rt_uk.png"
+          },
+          "sub_69": {
+            "id": 69,
+            "mode": "satellite",
+            "name": "",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rt-uk-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rt_uk.png"
+          },
+          "sub_70": {
+            "id": 70,
+            "mode": "satellite",
+            "name": "Rtr Moldova",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rtr-moldova",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rtr-moldova-ru-md.png"
+          },
+          "sub_71": {
+            "id": 71,
+            "mode": "satellite",
+            "name": "Rtr Planeta",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rtr-planeta",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rtr_planeta_ru.png"
+          },
+          "sub_72": {
+            "id": 72,
+            "mode": "satellite",
+            "name": "Rtr Planeta",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rtr-planeta-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rtr_planeta_ru.png"
+          },
+          "sub_73": {
+            "id": 73,
+            "mode": "satellite",
+            "name": "Rtr Planeta",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rtr-planeta-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rtr_planeta_ru.png"
+          },
+          "sub_74": {
+            "id": 74,
+            "mode": "satellite",
+            "name": "Rtr Planeta Baltia",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rtr-planeta-baltia",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rtr_planeta_ru.png"
+          },
+          "sub_75": {
+            "id": 75,
+            "mode": "satellite",
+            "name": "Rtvi Europe",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rtvi-europe",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rtvi_ru.png"
+          },
+          "sub_76": {
+            "id": 76,
+            "mode": "satellite",
+            "name": "Rtvi Europe",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rtvi-europe-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rtvi_ru.png"
+          },
+          "sub_77": {
+            "id": 77,
+            "mode": "satellite",
+            "name": "Russkiy Illusion",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/russkiy-illusion",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/russkiy_illusion_ru.png"
+          },
+          "sub_78": {
+            "id": 78,
+            "mode": "satellite",
+            "name": "Sarafan",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sarafan",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sarafan_ru.png"
+          },
+          "sub_79": {
+            "id": 79,
+            "mode": "satellite",
+            "name": "Shanson",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/shanson-tv-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/shanson_tv_ru.png"
+          },
+          "sub_80": {
+            "id": 80,
+            "mode": "satellite",
+            "name": "Sony Channel Russia",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sony-channel-russia",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sony_channel_in.png"
+          },
+          "sub_81": {
+            "id": 81,
+            "mode": "satellite",
+            "name": "Sony Channel Russia",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sony-channel-russia-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sony_channel_in.png"
+          },
+          "sub_82": {
+            "id": 82,
+            "mode": "satellite",
+            "name": "Sony Scifi Russia",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sony-sci-fi-russia",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sony_scifi_ru.png"
+          },
+          "sub_83": {
+            "id": 83,
+            "mode": "satellite",
+            "name": "Sony Turbo",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sony-turbo",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sony_turbo_ru.png"
+          },
+          "sub_84": {
+            "id": 84,
+            "mode": "satellite",
+            "name": "Sony Turbo",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sony-turbo-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sony_turbo_ru.png"
+          },
+          "sub_85": {
+            "id": 85,
+            "mode": "satellite",
+            "name": "Spike Rossiya",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/spike-rossiya",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/spike_tv_us.png"
+          },
+          "sub_86": {
+            "id": 86,
+            "mode": "satellite",
+            "name": "Sts Baltic",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sts-baltic-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sts-baltic-ru.png"
+          },
+          "sub_87": {
+            "id": 87,
+            "mode": "satellite",
+            "name": "Sts International",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sts-international",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sts-international-ru.png"
+          },
+          "sub_88": {
+            "id": 88,
+            "mode": "satellite",
+            "name": "Sts International",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sts-international-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sts-international-ru.png"
+          },
+          "sub_89": {
+            "id": 89,
+            "mode": "satellite",
+            "name": "Sts Kids",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sts-kids",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sts-kids-ru.png"
+          },
+          "sub_90": {
+            "id": 90,
+            "mode": "satellite",
+            "name": "Telekanal",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/telekanal-o",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/telekanal_o_ru.png"
+          },
+          "sub_91": {
+            "id": 91,
+            "mode": "satellite",
+            "name": "Tiji Russia",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tiji-russia",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tiji_fr_russia.png"
+          },
+          "sub_92": {
+            "id": 92,
+            "mode": "satellite",
+            "name": "Tlc Russia",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tlc-russia",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tlc_uk.png"
+          },
+          "sub_93": {
+            "id": 93,
+            "mode": "satellite",
+            "name": "Tlc Russia",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tlc-russia-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tlc_uk.png"
+          },
+          "sub_94": {
+            "id": 94,
+            "mode": "satellite",
+            "name": "Tnt 4",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tnt-4",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tnt4-ru.png"
+          },
+          "sub_95": {
+            "id": 95,
+            "mode": "satellite",
+            "name": "Tnt Music",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tnt-music",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tnt-music-ru.png"
+          },
+          "sub_96": {
+            "id": 96,
+            "mode": "satellite",
+            "name": "Centr International",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-centr-international",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tv_centr_ru_international.png"
+          },
+          "sub_97": {
+            "id": 97,
+            "mode": "satellite",
+            "name": "Centr International",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-centr-international-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tv_centr_ru_international.png"
+          },
+          "sub_98": {
+            "id": 98,
+            "mode": "satellite",
+            "name": "Zhivaya Planeta",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/zhivaya-planeta",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/zhivaya_planeta_ru.png"
+          }
+        }
+      }
+    }
+  }
+}

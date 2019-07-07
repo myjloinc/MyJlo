@@ -1,0 +1,514 @@
+{
+  "TV_Data": {
+    "Channel_List": {
+      "is_channel_list": true,
+      "is_override": true,
+      "thumb_width": 150,
+      "all_Channels_Tab_Name": "",
+      "main": {
+        "id": 17,
+        "name": "Switzerland",
+        "sub_name": "channels",
+        "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/Country/Switzerland.png",
+        "sub": {
+          "sub_0": {
+            "id": 0,
+            "mode": "satellite",
+            "name": "3",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/3",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/0-9/3_plus_ch.png"
+          },
+          "sub_1": {
+            "id": 1,
+            "mode": "satellite",
+            "name": "Die Neue Zeit",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/die-neue-zeit-tv",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/die_neue_zeit_ch.png"
+          },
+          "sub_2": {
+            "id": 2,
+            "mode": "satellite",
+            "name": "Kabel Eins Schweiz",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/kabel-eins-schweiz",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/kabel_eins_ch.png"
+          },
+          "sub_3": {
+            "id": 3,
+            "mode": "satellite",
+            "name": "Life Channel",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/life-channel",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/life_channel_ch.png"
+          },
+          "sub_4": {
+            "id": 4,
+            "mode": "satellite",
+            "name": "Prosieben Schweiz",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/prosieben-schweiz",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/pro_sieben_ch.png"
+          },
+          "sub_5": {
+            "id": 5,
+            "mode": "satellite",
+            "name": "Radio Freundesdienst",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-freundes-dienst",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio_freundes_dienst_ch.png"
+          },
+          "sub_6": {
+            "id": 6,
+            "mode": "satellite",
+            "name": "Radio Gloria",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-gloria",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio_gloria.png"
+          },
+          "sub_7": {
+            "id": 7,
+            "mode": "satellite",
+            "name": "Radio Lebensquelle",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-lebensquelle",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/channels-default.svg"
+          },
+          "sub_8": {
+            "id": 8,
+            "mode": "satellite",
+            "name": "Rtl 2 Schweiz",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rtl-2-schweiz",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rtl2_ch.png"
+          },
+          "sub_9": {
+            "id": 9,
+            "mode": "satellite",
+            "name": "Rtl Schweiz",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rtl-schweiz",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rtl_ch.png"
+          },
+          "sub_10": {
+            "id": 10,
+            "mode": "satellite",
+            "name": "Sat 1 Schweiz",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sat-1-schweiz",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sat1_ch.png"
+          },
+          "sub_11": {
+            "id": 11,
+            "mode": "satellite",
+            "name": "Schweiz 5",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/schweiz-5",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/schweiz_5_ch.png"
+          },
+          "sub_12": {
+            "id": 12,
+            "mode": "satellite",
+            "name": "5 Monde France Belgique Suisse",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-5-monde-france-belgique-suisse",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tv5_monde_fr_be_ch.png"
+          },
+          "sub_13": {
+            "id": 13,
+            "mode": "satellite",
+            "name": "Vox Schweiz",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/vox-schweiz",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/vox_ch.png"
+          },
+          "sub_447": {
+            "id": 447,
+            "mode": "satellite",
+            "name": "Tlc Germany",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tlc-germany-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tlc_de.png"
+          },
+          "sub_448": {
+            "id": 448,
+            "mode": "satellite",
+            "name": "Tnt Comedy",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tnt-comedy-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tnt_us_comedy.png"
+          },
+          "sub_449": {
+            "id": 449,
+            "mode": "satellite",
+            "name": "Tnt Film",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tnt-film-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tnt_us_film.png"
+          },
+          "sub_450": {
+            "id": 450,
+            "mode": "satellite",
+            "name": "Tnt Serie",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tnt-serie-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tnt_us_serie.png"
+          },
+          "sub_451": {
+            "id": 451,
+            "mode": "satellite",
+            "name": "Toggo Plus",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/toggo-plus",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/toggo_plus_de.png"
+          },
+          "sub_452": {
+            "id": 452,
+            "mode": "satellite",
+            "name": "Traumfrauen",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/traumfrauen-tv",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/channels-default.svg"
+          },
+          "sub_453": {
+            "id": 453,
+            "mode": "satellite",
+            "name": "Trp 1",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/trp-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tele_regional_passau_1.png"
+          },
+          "sub_454": {
+            "id": 454,
+            "mode": "satellite",
+            "name": "Bayern",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-bayern",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tv-bayern-de.png"
+          },
+          "sub_455": {
+            "id": 455,
+            "mode": "satellite",
+            "name": "Mainfranken Schweinfurt",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-mainfranken-schweinfurt",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tv-mainfranken-de.png"
+          },
+          "sub_456": {
+            "id": 456,
+            "mode": "satellite",
+            "name": "Mainfranken Wurzburg",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-mainfranken-wurzburg",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tv-mainfranken-de.png"
+          },
+          "sub_457": {
+            "id": 457,
+            "mode": "satellite",
+            "name": "Oberfranken",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-oberfranken",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tv_oberfranken.png"
+          },
+          "sub_458": {
+            "id": 458,
+            "mode": "satellite",
+            "name": "Rus",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-rus",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tv_rus_de.png"
+          },
+          "sub_459": {
+            "id": 459,
+            "mode": "satellite",
+            "name": "Tva Ostbayern",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tva-ostbayern",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tva_ostbayern_de.png"
+          },
+          "sub_460": {
+            "id": 460,
+            "mode": "satellite",
+            "name": "Universal Deutschland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/universal-tv-deutschland-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/universal-tv-deutschland-us-de.png"
+          },
+          "sub_461": {
+            "id": 461,
+            "mode": "satellite",
+            "name": "Vox Austria",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/vox-austria",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/vox_at.png"
+          },
+          "sub_462": {
+            "id": 462,
+            "mode": "satellite",
+            "name": "Vox Austria",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/vox-austria-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/vox_at.png"
+          },
+          "sub_463": {
+            "id": 463,
+            "mode": "satellite",
+            "name": "Vox Deutschland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/vox-deutschland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/vox_de.png"
+          },
+          "sub_464": {
+            "id": 464,
+            "mode": "satellite",
+            "name": "Vox Deutschland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/vox-deutschland-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/vox_de.png"
+          },
+          "sub_465": {
+            "id": 465,
+            "mode": "satellite",
+            "name": "Vox Schweiz",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/vox-schweiz",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/vox_ch.png"
+          },
+          "sub_466": {
+            "id": 466,
+            "mode": "satellite",
+            "name": "Wdr 1 Live",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/wdr-1-live",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/wdr_einslive_de.png"
+          },
+          "sub_467": {
+            "id": 467,
+            "mode": "satellite",
+            "name": "Wdr 1 Live Diggi",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/wdr-1-live-diggi",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/wdr_einslive_diggi.png"
+          },
+          "sub_468": {
+            "id": 468,
+            "mode": "satellite",
+            "name": "Wdr 2 Rheinland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/wdr-2-rheinland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/wdr_2.png"
+          },
+          "sub_469": {
+            "id": 469,
+            "mode": "satellite",
+            "name": "Wdr 3",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/wdr-3",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/wdr_3.png"
+          },
+          "sub_470": {
+            "id": 470,
+            "mode": "satellite",
+            "name": "Wdr 3",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/wdr-3-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/wdr_3.png"
+          },
+          "sub_471": {
+            "id": 471,
+            "mode": "satellite",
+            "name": "Wdr 4",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/wdr-4",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/wdr_4.png"
+          },
+          "sub_472": {
+            "id": 472,
+            "mode": "satellite",
+            "name": "Wdr 5",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/wdr-5",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/wdr_5.png"
+          },
+          "sub_473": {
+            "id": 473,
+            "mode": "satellite",
+            "name": "Wdr Event",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/wdr-event",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/wdr_event.png"
+          },
+          "sub_474": {
+            "id": 474,
+            "mode": "satellite",
+            "name": "Wdr Fernsehen Aachen",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/wdr-fernsehen-aachen",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/wdr_aachen.png"
+          },
+          "sub_475": {
+            "id": 475,
+            "mode": "satellite",
+            "name": "Wdr Fernsehen Dusseldorf",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/wdr-fernsehen-dusseldorf",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/wdr_dusseldorf.png"
+          },
+          "sub_476": {
+            "id": 476,
+            "mode": "satellite",
+            "name": "Wdr Fernsehen Koln",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/wdr-fernsehen-koln",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/wdr_koln.png"
+          },
+          "sub_477": {
+            "id": 477,
+            "mode": "satellite",
+            "name": "Wdr Fernsehen Koln",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/wdr-fernsehen-koln-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/wdr_koln.png"
+          },
+          "sub_478": {
+            "id": 478,
+            "mode": "satellite",
+            "name": "Wdr Fernsehen Koln",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/wdr-fernsehen-koln-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/wdr_koln.png"
+          },
+          "sub_479": {
+            "id": 479,
+            "mode": "satellite",
+            "name": "Wdr Studio Bielefeld",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/wdr-studio-bielefeld",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/wdr_bielefeld.png"
+          },
+          "sub_480": {
+            "id": 480,
+            "mode": "satellite",
+            "name": "Wdr Studio Bonn",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/wdr-studio-bonn",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/wdr_studio_bonn.png"
+          },
+          "sub_481": {
+            "id": 481,
+            "mode": "satellite",
+            "name": "Wdr Studio Dortmund",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/wdr-studio-dortmund",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/wdr_dortmund.png"
+          },
+          "sub_482": {
+            "id": 482,
+            "mode": "satellite",
+            "name": "Wdr Studio Duisburg",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/wdr-studio-duisburg",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/wdr_studio_duisburg.png"
+          },
+          "sub_483": {
+            "id": 483,
+            "mode": "satellite",
+            "name": "Wdr Studio Essen",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/wdr-studio-essen",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/wdr_essen.png"
+          },
+          "sub_484": {
+            "id": 484,
+            "mode": "satellite",
+            "name": "Wdr Studio Munster",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/wdr-studio-munster",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/wdr_munster.png"
+          },
+          "sub_485": {
+            "id": 485,
+            "mode": "satellite",
+            "name": "Wdr Studio Siegen",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/wdr-studio-siegen",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/wdr_siegen.png"
+          },
+          "sub_486": {
+            "id": 486,
+            "mode": "satellite",
+            "name": "Wdr Studio Wuppertal",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/wdr-studio-wuppertal",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/wdr_studio_wuppertal.png"
+          },
+          "sub_487": {
+            "id": 487,
+            "mode": "satellite",
+            "name": "Welt",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/welt",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/welt-de.png"
+          },
+          "sub_488": {
+            "id": 488,
+            "mode": "satellite",
+            "name": "Welt Der Wunder",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/welt-der-wunder-tv",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/welt_der_wunder_de.png"
+          },
+          "sub_489": {
+            "id": 489,
+            "mode": "satellite",
+            "name": "Welt",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/welt-hd",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/welt-de_hd.png"
+          },
+          "sub_490": {
+            "id": 490,
+            "mode": "satellite",
+            "name": "Welt",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/welt-hd-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/welt-de_hd.png"
+          },
+          "sub_491": {
+            "id": 491,
+            "mode": "satellite",
+            "name": "Yol",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/yol-tv",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/yol_tv_de.png"
+          },
+          "sub_492": {
+            "id": 492,
+            "mode": "satellite",
+            "name": "You",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/you-fm",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/you-fm-de.png"
+          },
+          "sub_493": {
+            "id": 493,
+            "mode": "satellite",
+            "name": "Zdf Info",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/zdf-info",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/zdf_info.png"
+          },
+          "sub_494": {
+            "id": 494,
+            "mode": "satellite",
+            "name": "Zdf Info",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/zdf-info-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/zdf_info.png"
+          }
+        }
+      }
+    }
+  }
+}

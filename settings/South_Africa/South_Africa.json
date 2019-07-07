@@ -1,0 +1,530 @@
+{
+  "TV_Data": {
+    "Channel_List": {
+      "is_channel_list": true,
+      "is_override": true,
+      "thumb_width": 150,
+      "all_Channels_Tab_Name": "",
+      "main": {
+        "id": 48,
+        "name": "South Africa",
+        "sub_name": "channels",
+        "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/Country/South-Africa.png",
+        "sub": {
+          "sub_0": {
+            "id": 0,
+            "mode": "satellite",
+            "name": "Faith",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/faith-uk",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/faith-uk-za.png"
+          },
+          "sub_1": {
+            "id": 1,
+            "mode": "satellite",
+            "name": "Racing International",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/racing-tv-international",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/racing-tv-international-uk-za.png"
+          },
+          "sub_2": {
+            "id": 2,
+            "mode": "satellite",
+            "name": "Tellytrack 2",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tellytrack-2",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tellytrack-za.png"
+          },
+          "sub_375": {
+            "id": 375,
+            "mode": "satellite",
+            "name": "Sky Sport 5",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sport-5-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky_de_sport.png"
+          },
+          "sub_376": {
+            "id": 376,
+            "mode": "satellite",
+            "name": "Sky Sport 6",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sport-6",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky_de_sport.png"
+          },
+          "sub_377": {
+            "id": 377,
+            "mode": "satellite",
+            "name": "Sky Sport 6",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sport-6-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky_de_sport.png"
+          },
+          "sub_378": {
+            "id": 378,
+            "mode": "satellite",
+            "name": "Sky Sport 7",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sport-7",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky_de_sport.png"
+          },
+          "sub_379": {
+            "id": 379,
+            "mode": "satellite",
+            "name": "Sky Sport 7",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sport-7-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky_de_sport.png"
+          },
+          "sub_380": {
+            "id": 380,
+            "mode": "satellite",
+            "name": "Sky Sport 8",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sport-8-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky_de_sport.png"
+          },
+          "sub_381": {
+            "id": 381,
+            "mode": "satellite",
+            "name": "Sky Sport 8",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sport-8-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky_de_sport.png"
+          },
+          "sub_382": {
+            "id": 382,
+            "mode": "satellite",
+            "name": "Sky Sport 9",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sport-9",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky_de_sport.png"
+          },
+          "sub_383": {
+            "id": 383,
+            "mode": "satellite",
+            "name": "Sky Sport 9",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sport-9-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky_de_sport.png"
+          },
+          "sub_384": {
+            "id": 384,
+            "mode": "satellite",
+            "name": "Sky Sport Austria",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sport-austria",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky_de_sport_austria.png"
+          },
+          "sub_385": {
+            "id": 385,
+            "mode": "satellite",
+            "name": "Sky Sport Austria",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sport-austria-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky_de_sport_austria.png"
+          },
+          "sub_386": {
+            "id": 386,
+            "mode": "satellite",
+            "name": "Sky Sport Bundesliga 1",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sport-bundesliga-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky_de_sport_bundesliga.png"
+          },
+          "sub_387": {
+            "id": 387,
+            "mode": "satellite",
+            "name": "Sky Sport Bundesliga 1",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sport-bundesliga-1-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky_de_sport_bundesliga.png"
+          },
+          "sub_388": {
+            "id": 388,
+            "mode": "satellite",
+            "name": "Sky Sport Bundesliga 10",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sport-bundesliga-10",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky_de_sport_bundesliga.png"
+          },
+          "sub_389": {
+            "id": 389,
+            "mode": "satellite",
+            "name": "Sky Sport Bundesliga 10",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sport-bundesliga-10-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky_de_sport_bundesliga.png"
+          },
+          "sub_390": {
+            "id": 390,
+            "mode": "satellite",
+            "name": "Sky Sport Bundesliga 2",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sport-bundesliga-2",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky_de_sport_bundesliga.png"
+          },
+          "sub_391": {
+            "id": 391,
+            "mode": "satellite",
+            "name": "Sky Sport Bundesliga 2",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sport-bundesliga-2-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky_de_sport_bundesliga.png"
+          },
+          "sub_392": {
+            "id": 392,
+            "mode": "satellite",
+            "name": "Sky Sport Bundesliga 3",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sport-bundesliga-3",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky_de_sport_bundesliga.png"
+          },
+          "sub_393": {
+            "id": 393,
+            "mode": "satellite",
+            "name": "Sky Sport Bundesliga 3",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sport-bundesliga-3-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky_de_sport_bundesliga.png"
+          },
+          "sub_394": {
+            "id": 394,
+            "mode": "satellite",
+            "name": "Sky Sport Bundesliga 4",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sport-bundesliga-4",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky_de_sport_bundesliga.png"
+          },
+          "sub_395": {
+            "id": 395,
+            "mode": "satellite",
+            "name": "Sky Sport Bundesliga 4",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sport-bundesliga-4-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky_de_sport_bundesliga.png"
+          },
+          "sub_396": {
+            "id": 396,
+            "mode": "satellite",
+            "name": "Sky Sport Bundesliga 5",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sport-bundesliga-5",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky_de_sport_bundesliga.png"
+          },
+          "sub_397": {
+            "id": 397,
+            "mode": "satellite",
+            "name": "Sky Sport Bundesliga 5",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sport-bundesliga-5-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky_de_sport_bundesliga.png"
+          },
+          "sub_398": {
+            "id": 398,
+            "mode": "satellite",
+            "name": "Sky Sport Bundesliga 6",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sport-bundesliga-6",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky_de_sport_bundesliga.png"
+          },
+          "sub_399": {
+            "id": 399,
+            "mode": "satellite",
+            "name": "Sky Sport Bundesliga 6",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sport-bundesliga-6-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky_de_sport_bundesliga.png"
+          },
+          "sub_400": {
+            "id": 400,
+            "mode": "satellite",
+            "name": "Sky Sport Bundesliga 7",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sport-bundesliga-7-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky_de_sport_bundesliga.png"
+          },
+          "sub_401": {
+            "id": 401,
+            "mode": "satellite",
+            "name": "Sky Sport Bundesliga 7",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sport-bundesliga-7-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky_de_sport_bundesliga.png"
+          },
+          "sub_402": {
+            "id": 402,
+            "mode": "satellite",
+            "name": "Sky Sport Bundesliga 8",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sport-bundesliga-8",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky_de_sport_bundesliga.png"
+          },
+          "sub_403": {
+            "id": 403,
+            "mode": "satellite",
+            "name": "Sky Sport Bundesliga 8",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sport-bundesliga-8-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky_de_sport_bundesliga.png"
+          },
+          "sub_404": {
+            "id": 404,
+            "mode": "satellite",
+            "name": "Sky Sport Bundesliga 9",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sport-bundesliga-9",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky_de_sport_bundesliga.png"
+          },
+          "sub_405": {
+            "id": 405,
+            "mode": "satellite",
+            "name": "Sky Sport Bundesliga 9",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sport-bundesliga-9-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky_de_sport_bundesliga.png"
+          },
+          "sub_406": {
+            "id": 406,
+            "mode": "satellite",
+            "name": "Sky Sport Bundesliga Uhd",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sport-bundesliga-uhd",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky_de_sport_bundesliga_uhd.png"
+          },
+          "sub_407": {
+            "id": 407,
+            "mode": "satellite",
+            "name": "Sky Sport News",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sport-news-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky_de_sport_news.png"
+          },
+          "sub_408": {
+            "id": 408,
+            "mode": "satellite",
+            "name": "Sky Sport News",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sport-news",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky_de_sport_news.png"
+          },
+          "sub_409": {
+            "id": 409,
+            "mode": "satellite",
+            "name": "Sky Sport Uhd",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sky-sport-uhd",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sky_de_sport_uhd.png"
+          },
+          "sub_410": {
+            "id": 410,
+            "mode": "satellite",
+            "name": "Sonnenklar",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sonnenklar-tv",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sonnenklar_tv.png"
+          },
+          "sub_411": {
+            "id": 411,
+            "mode": "satellite",
+            "name": "Sonnenklar",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sonnenklar-tv-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sonnenklar_tv.png"
+          },
+          "sub_412": {
+            "id": 412,
+            "mode": "satellite",
+            "name": "Sophia Deutsch",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sophia-tv-deutsch",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sophia_tv_de.png"
+          },
+          "sub_413": {
+            "id": 413,
+            "mode": "satellite",
+            "name": "Spiegel Geschichte",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/spiegel-geschichte-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/spiegel_tv_de_geschichte.png"
+          },
+          "sub_414": {
+            "id": 414,
+            "mode": "satellite",
+            "name": "Spiegel Wissen",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/spiegel-tv-wissen-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/spiegel_tv_de_wissen.png"
+          },
+          "sub_415": {
+            "id": 415,
+            "mode": "satellite",
+            "name": "Sport 1",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sport-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sport1_de.png"
+          },
+          "sub_416": {
+            "id": 416,
+            "mode": "satellite",
+            "name": "Sport 1",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sport-1-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sport1_de.png"
+          },
+          "sub_417": {
+            "id": 417,
+            "mode": "satellite",
+            "name": "Sportdigital",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sportdigital-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sport_digital_tv_de.png"
+          },
+          "sub_418": {
+            "id": 418,
+            "mode": "satellite",
+            "name": "1 Europawelle",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sr-1-europawelle",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sr_1_europawelle.png"
+          },
+          "sub_419": {
+            "id": 419,
+            "mode": "satellite",
+            "name": "2 Kulturradio",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sr-2-kulturradio",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sr_2_kulturradio.png"
+          },
+          "sub_420": {
+            "id": 420,
+            "mode": "satellite",
+            "name": "3 Saarlandwelle",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sr-3-saarlandwelle",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sr_3_saarlandwelle.png"
+          },
+          "sub_421": {
+            "id": 421,
+            "mode": "satellite",
+            "name": "Fernsehen",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sr-fernsehen",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sr_fernsehen.png"
+          },
+          "sub_422": {
+            "id": 422,
+            "mode": "satellite",
+            "name": "Fernsehen",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sr-fernsehen-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sr_fernsehen.png"
+          },
+          "sub_423": {
+            "id": 423,
+            "mode": "satellite",
+            "name": "Sunshine Live",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/sunshine-live",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sunshine_live_de.png"
+          },
+          "sub_424": {
+            "id": 424,
+            "mode": "satellite",
+            "name": "Super Rtl Austria",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/super-rtl-austria",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/super-rtl-de.png"
+          },
+          "sub_425": {
+            "id": 425,
+            "mode": "satellite",
+            "name": "Super Rtl Deutschland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/super-rtl-deutschland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/super-rtl-de.png"
+          },
+          "sub_426": {
+            "id": 426,
+            "mode": "satellite",
+            "name": "Super Rtl Deutschland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/super-rtl-deutschland-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/super-rtl-de.png"
+          },
+          "sub_427": {
+            "id": 427,
+            "mode": "satellite",
+            "name": "Swr 1 Badenwurttemberg",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/swr-1-baden-wurttemberg",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/swr_de_1_bw.png"
+          },
+          "sub_428": {
+            "id": 428,
+            "mode": "satellite",
+            "name": "Swr 1 Rheinlandpfalz",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/swr-1-rheinland-pfalz",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/swr_de_1_rp.png"
+          },
+          "sub_429": {
+            "id": 429,
+            "mode": "satellite",
+            "name": "Swr 2 Badenwurttemberg",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/swr-2-baden-wurttemberg",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/swr_de_2.png"
+          },
+          "sub_430": {
+            "id": 430,
+            "mode": "satellite",
+            "name": "Swr 2 Badenwurttemberg",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/swr-2-baden-wurttemberg-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/swr_de_2.png"
+          },
+          "sub_431": {
+            "id": 431,
+            "mode": "satellite",
+            "name": "Swr 3 Rheinlandpfalz",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/swr-3-rheinland-pfalz",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/swr_de_3.png"
+          },
+          "sub_432": {
+            "id": 432,
+            "mode": "satellite",
+            "name": "Swr 4 Badenwurttemberg Stuttgart",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/swr-4-baden-wurttemberg-stuttgart",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/swr_de_4.png"
+          },
+          "sub_433": {
+            "id": 433,
+            "mode": "satellite",
+            "name": "Swr 4 Rheinlandpfalz Mainz",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/swr-4-rheinland-pfalz-mainz",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/swr_de_4.png"
+          },
+          "sub_434": {
+            "id": 434,
+            "mode": "satellite",
+            "name": "Swr Aktuell",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/swr-aktuell",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/swr_de_aktuell.png"
+          },
+          "sub_435": {
+            "id": 435,
+            "mode": "satellite",
+            "name": "Swr Fernsehen Badenwurttemberg",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/swr-fernsehen-baden-wurttemberg",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/swr_de_fernsehen_bw.png"
+          }
+        }
+      }
+    }
+  }
+}

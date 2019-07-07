@@ -1,0 +1,922 @@
+{
+  "TV_Data": {
+    "Channel_List": {
+      "is_channel_list": true,
+      "is_override": true,
+      "thumb_width": 150,
+      "all_Channels_Tab_Name": "",
+      "main": {
+        "id": 15,
+        "name": "Poland",
+        "sub_name": "channels",
+        "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/Country/Poland.png",
+        "sub": {
+          "sub_0": {
+            "id": 0,
+            "mode": "satellite",
+            "name": "Adventure Czechia",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/adventure-czechia",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/adventure_pl_hd.png"
+          },
+          "sub_1": {
+            "id": 1,
+            "mode": "satellite",
+            "name": "Animal Planet Polska",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/animal-planet-polska",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/animal-planet-us.png"
+          },
+          "sub_2": {
+            "id": 2,
+            "mode": "satellite",
+            "name": "Belsat",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/belsat-tv",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/belsat_tv.png"
+          },
+          "sub_3": {
+            "id": 3,
+            "mode": "satellite",
+            "name": "Discovery Channel Polska",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/discovery-channel-polska",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/discovery_global_us.png"
+          },
+          "sub_4": {
+            "id": 4,
+            "mode": "satellite",
+            "name": "Discovery Life Polska",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/discovery-life-polska",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/discovery_life_pl.png"
+          },
+          "sub_5": {
+            "id": 5,
+            "mode": "satellite",
+            "name": "Discovery Science Polska",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/discovery-science-polska",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/discovery-science-france-us-fr.png"
+          },
+          "sub_6": {
+            "id": 6,
+            "mode": "satellite",
+            "name": "Disney Channel Polska",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/disney-channel-polska",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/disney_channel_global.png"
+          },
+          "sub_7": {
+            "id": 7,
+            "mode": "satellite",
+            "name": "Dtx Polska",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/dtx-polska",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/discovery_turbo_us_xtra.png"
+          },
+          "sub_8": {
+            "id": 8,
+            "mode": "satellite",
+            "name": "Polska",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/h2-polska",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/history_us_2.png"
+          },
+          "sub_9": {
+            "id": 9,
+            "mode": "satellite",
+            "name": "Investigation Discovery Polska",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/investigation-discovery-polska",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/investigation_discovery_us.png"
+          },
+          "sub_10": {
+            "id": 10,
+            "mode": "satellite",
+            "name": "Power Czechia",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/power-tv-czechia",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/power_tv_pl.png"
+          },
+          "sub_11": {
+            "id": 11,
+            "mode": "satellite",
+            "name": "Radio Eska",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-eska",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio_eska_pl.png"
+          },
+          "sub_12": {
+            "id": 12,
+            "mode": "satellite",
+            "name": "Radio Eska Belchatow",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-eska-belchatow",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio_eska_pl.png"
+          },
+          "sub_13": {
+            "id": 13,
+            "mode": "satellite",
+            "name": "Radio Eska Beskidy",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-eska-beskidy",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio_eska_pl.png"
+          },
+          "sub_14": {
+            "id": 14,
+            "mode": "satellite",
+            "name": "Radio Eska Bialystok",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-eska-bialystok",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio_eska_pl.png"
+          },
+          "sub_15": {
+            "id": 15,
+            "mode": "satellite",
+            "name": "Radio Eska Bydgoszcz",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-eska-bydgoszcz",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio_eska_pl.png"
+          },
+          "sub_16": {
+            "id": 16,
+            "mode": "satellite",
+            "name": "Radio Eska Elblag",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-eska-elblag",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio_eska_pl.png"
+          },
+          "sub_17": {
+            "id": 17,
+            "mode": "satellite",
+            "name": "Radio Eska Gorzow",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-eska-gorzow",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio_eska_pl.png"
+          },
+          "sub_18": {
+            "id": 18,
+            "mode": "satellite",
+            "name": "Radio Eska Grudziadz",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-eska-grudziadz",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio_eska_pl.png"
+          },
+          "sub_19": {
+            "id": 19,
+            "mode": "satellite",
+            "name": "Radio Eska Ilawa",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-eska-ilawa",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio_eska_pl.png"
+          },
+          "sub_20": {
+            "id": 20,
+            "mode": "satellite",
+            "name": "Radio Eska Kalisz Ostrow",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-eska-kaliszostrow",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio_eska_pl.png"
+          },
+          "sub_21": {
+            "id": 21,
+            "mode": "satellite",
+            "name": "Radio Eska Kielce",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-eska-kielce",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio_eska_pl.png"
+          },
+          "sub_22": {
+            "id": 22,
+            "mode": "satellite",
+            "name": "Radio Eska Koszalin",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-eska-koszalin",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio_eska_pl.png"
+          },
+          "sub_23": {
+            "id": 23,
+            "mode": "satellite",
+            "name": "Radio Eska Krakow",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-eska-krakow",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio_eska_pl.png"
+          },
+          "sub_24": {
+            "id": 24,
+            "mode": "satellite",
+            "name": "Radio Eska Krasnik",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-eska-krasnik",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio_eska_pl.png"
+          },
+          "sub_25": {
+            "id": 25,
+            "mode": "satellite",
+            "name": "Radio Eska Leszno",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-eska-leszno",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio_eska_pl.png"
+          },
+          "sub_26": {
+            "id": 26,
+            "mode": "satellite",
+            "name": "Radio Eska Lomza",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-eska-lomza-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio_eska_pl.png"
+          },
+          "sub_27": {
+            "id": 27,
+            "mode": "satellite",
+            "name": "Radio Eska Lublin",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-eska-lublin",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio_eska_pl.png"
+          },
+          "sub_28": {
+            "id": 28,
+            "mode": "satellite",
+            "name": "Radio Eska Malopolska Zakopane",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-eska-malopolskazakopane",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio_eska_pl.png"
+          },
+          "sub_29": {
+            "id": 29,
+            "mode": "satellite",
+            "name": "Radio Eska Olsztyn",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-eska-olsztyn",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio_eska_pl.png"
+          },
+          "sub_30": {
+            "id": 30,
+            "mode": "satellite",
+            "name": "Radio Eska Opole",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-eska-opole",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio_eska_pl.png"
+          },
+          "sub_31": {
+            "id": 31,
+            "mode": "satellite",
+            "name": "Radio Eska Ostrzeszow",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-eska-ostrzeszow",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio_eska_pl.png"
+          },
+          "sub_32": {
+            "id": 32,
+            "mode": "satellite",
+            "name": "Radio Eska Pila",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-eska-pila",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio_eska_pl.png"
+          },
+          "sub_33": {
+            "id": 33,
+            "mode": "satellite",
+            "name": "Radio Eska Plock",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-eska-plock",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio_eska_pl.png"
+          },
+          "sub_34": {
+            "id": 34,
+            "mode": "satellite",
+            "name": "Radio Eska Przemysl",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-eska-przemysl",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio_eska_pl.png"
+          },
+          "sub_35": {
+            "id": 35,
+            "mode": "satellite",
+            "name": "Radio Eska Radom",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-eska-radom",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio_eska_pl.png"
+          },
+          "sub_36": {
+            "id": 36,
+            "mode": "satellite",
+            "name": "Radio Eska Rzeszow",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-eska-rzeszow",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio_eska_pl.png"
+          },
+          "sub_37": {
+            "id": 37,
+            "mode": "satellite",
+            "name": "Radio Eska Siedlce",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-eska-siedlce",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio_eska_pl.png"
+          },
+          "sub_38": {
+            "id": 38,
+            "mode": "satellite",
+            "name": "Radio Eska Slask",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-eska-slask",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio_eska_pl.png"
+          },
+          "sub_39": {
+            "id": 39,
+            "mode": "satellite",
+            "name": "Radio Eska Starachowice",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-eska-starachowice",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio_eska_pl.png"
+          },
+          "sub_40": {
+            "id": 40,
+            "mode": "satellite",
+            "name": "Radio Eska Szczecin",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-eska-szczecin",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio_eska_pl.png"
+          },
+          "sub_41": {
+            "id": 41,
+            "mode": "satellite",
+            "name": "Radio Eska Szczecinek",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-eska-szczecinek",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio_eska_pl.png"
+          },
+          "sub_42": {
+            "id": 42,
+            "mode": "satellite",
+            "name": "Radio Eska Tarnow",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-eska-tarnow",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio_eska_pl.png"
+          },
+          "sub_43": {
+            "id": 43,
+            "mode": "satellite",
+            "name": "Radio Eska Torun",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-eska-torun",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio_eska_pl.png"
+          },
+          "sub_44": {
+            "id": 44,
+            "mode": "satellite",
+            "name": "Radio Eska Trojmiasto",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-eska-trojmiasto",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio_eska_pl.png"
+          },
+          "sub_45": {
+            "id": 45,
+            "mode": "satellite",
+            "name": "Radio Eska Wroclaw",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-eska-wroclaw",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio_eska_pl.png"
+          },
+          "sub_46": {
+            "id": 46,
+            "mode": "satellite",
+            "name": "Radio Eska Wroclaw",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-eska-wroclaw-jg",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio_eska_pl.png"
+          },
+          "sub_47": {
+            "id": 47,
+            "mode": "satellite",
+            "name": "Radio Eska Zamosc",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-eska-zamosc",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio_eska_pl.png"
+          },
+          "sub_48": {
+            "id": 48,
+            "mode": "satellite",
+            "name": "Radio Eska Zary",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-eska-zary",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio_eska_pl.png"
+          },
+          "sub_49": {
+            "id": 49,
+            "mode": "satellite",
+            "name": "Radio Eska Zielona Gora",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-eska-zielona-gora",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio_eska_pl.png"
+          },
+          "sub_50": {
+            "id": 50,
+            "mode": "satellite",
+            "name": "Radio Gra Torun",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-gra-torun",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio-gra-torun-pl.png"
+          },
+          "sub_51": {
+            "id": 51,
+            "mode": "satellite",
+            "name": "Radio Gra Wroclaw",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-gra-wroclaw-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio_gra_pl_wroclaw.png"
+          },
+          "sub_52": {
+            "id": 52,
+            "mode": "satellite",
+            "name": "Radio Gra Wroclaw",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-gra-wroclaw-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio_gra_pl_wroclaw.png"
+          },
+          "sub_53": {
+            "id": 53,
+            "mode": "satellite",
+            "name": "Radio Maryja",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-maryja",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio_maryja_pl.png"
+          },
+          "sub_54": {
+            "id": 54,
+            "mode": "satellite",
+            "name": "Radio Plus",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-plus-fm",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio_plus_pl.png"
+          },
+          "sub_55": {
+            "id": 55,
+            "mode": "satellite",
+            "name": "Radio Plus Lublin",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-plus-lublin",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio_plus_pl.png"
+          },
+          "sub_56": {
+            "id": 56,
+            "mode": "satellite",
+            "name": "Radio Plus Olsztyn",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-plus-olsztyn",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio_plus_pl.png"
+          },
+          "sub_57": {
+            "id": 57,
+            "mode": "satellite",
+            "name": "Radio Plus Podhale",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-plus-podhale",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio_plus_pl.png"
+          },
+          "sub_58": {
+            "id": 58,
+            "mode": "satellite",
+            "name": "Radio Plus Szczecin",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-plus-szczecin",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio_plus_pl.png"
+          },
+          "sub_59": {
+            "id": 59,
+            "mode": "satellite",
+            "name": "Radio Pogoda",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-pogoda",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio-pogoda.png"
+          },
+          "sub_60": {
+            "id": 60,
+            "mode": "satellite",
+            "name": "Radio Pogoda",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-pogoda-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio-pogoda.png"
+          },
+          "sub_61": {
+            "id": 61,
+            "mode": "satellite",
+            "name": "Radio Rodzina",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-rodzina",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio_rodzina_pl.png"
+          },
+          "sub_62": {
+            "id": 62,
+            "mode": "satellite",
+            "name": "Radio Vox",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-vox-fm",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio_vox_pl.png"
+          },
+          "sub_63": {
+            "id": 63,
+            "mode": "satellite",
+            "name": "Radio Vox Gorzow",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-vox-gorzow",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio_vox_pl.png"
+          },
+          "sub_64": {
+            "id": 64,
+            "mode": "satellite",
+            "name": "Radio Vox Radom",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-vox-radom",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio_vox_pl.png"
+          },
+          "sub_65": {
+            "id": 65,
+            "mode": "satellite",
+            "name": "Radio Wawa Gdansk",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-wawa-gdansk",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio-wawa-pl.png"
+          },
+          "sub_66": {
+            "id": 66,
+            "mode": "satellite",
+            "name": "Radio Wawa Jelenia Gora",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-wawa-jelenia-gora",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio-wawa-pl.png"
+          },
+          "sub_67": {
+            "id": 67,
+            "mode": "satellite",
+            "name": "Radio Wawa Kielce",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-wawa-kielce",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio-wawa-pl.png"
+          },
+          "sub_68": {
+            "id": 68,
+            "mode": "satellite",
+            "name": "Radio Wawa Krakow",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-wawa-krakow",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio-wawa-pl.png"
+          },
+          "sub_69": {
+            "id": 69,
+            "mode": "satellite",
+            "name": "Radio Wawa Lodz",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-wawa-lodz",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio-wawa-pl.png"
+          },
+          "sub_70": {
+            "id": 70,
+            "mode": "satellite",
+            "name": "Radio Wawa Nowy Sacz",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-wawa-nowy-sacz",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio-wawa-pl.png"
+          },
+          "sub_71": {
+            "id": 71,
+            "mode": "satellite",
+            "name": "Radio Wawa Opole",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-wawa-opole",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio-wawa-pl.png"
+          },
+          "sub_72": {
+            "id": 72,
+            "mode": "satellite",
+            "name": "Radio Wawa Rzeszow",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-wawa-rzeszow",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio-wawa-pl.png"
+          },
+          "sub_73": {
+            "id": 73,
+            "mode": "satellite",
+            "name": "Radio Wawa Szczecin",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-wawa-szczecin",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio-wawa-pl.png"
+          },
+          "sub_74": {
+            "id": 74,
+            "mode": "satellite",
+            "name": "Radio Wawa Torun",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-wawa-torun",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio-wawa-pl.png"
+          },
+          "sub_75": {
+            "id": 75,
+            "mode": "satellite",
+            "name": "Radio Wawa Trzebnica",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-wawa-trzebnica",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio-wawa-pl.png"
+          },
+          "sub_76": {
+            "id": 76,
+            "mode": "satellite",
+            "name": "Radio Wawa Warszawa",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-wawa-warszawa",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio-wawa-pl.png"
+          },
+          "sub_77": {
+            "id": 77,
+            "mode": "satellite",
+            "name": "Radio Wawa Wroclaw",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-wawa-wroclaw",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio-wawa-pl.png"
+          },
+          "sub_78": {
+            "id": 78,
+            "mode": "satellite",
+            "name": "Radio Zlote Przeboje",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-zlote-przeboje",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio_zlote_przeboje.png"
+          },
+          "sub_79": {
+            "id": 79,
+            "mode": "satellite",
+            "name": "Radio Zlote Przeboje",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-zlote-przeboje-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio_zlote_przeboje.png"
+          },
+          "sub_80": {
+            "id": 80,
+            "mode": "satellite",
+            "name": "Radio Zlote Przeboje",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-zlote-przeboje-2",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio_zlote_przeboje.png"
+          },
+          "sub_81": {
+            "id": 81,
+            "mode": "satellite",
+            "name": "Radio Zlote Przeboje",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-zlote-przeboje-3",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio_zlote_przeboje.png"
+          },
+          "sub_82": {
+            "id": 82,
+            "mode": "satellite",
+            "name": "Radio Zlote Przeboje Jedrzejow",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-zlote-przeboje-jedrzejow",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/channels-default.svg"
+          },
+          "sub_83": {
+            "id": 83,
+            "mode": "satellite",
+            "name": "Rmf Classic",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rmf-classic",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rmf_classic.png"
+          },
+          "sub_84": {
+            "id": 84,
+            "mode": "satellite",
+            "name": "Rmf Classic",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rmf-classic-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rmf_classic.png"
+          },
+          "sub_85": {
+            "id": 85,
+            "mode": "satellite",
+            "name": "Rmf",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rmf-fm",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rmf_fm.png"
+          },
+          "sub_86": {
+            "id": 86,
+            "mode": "satellite",
+            "name": "Rmf Maxxx",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rmf-maxxx",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rmf_maxxx.png"
+          },
+          "sub_87": {
+            "id": 87,
+            "mode": "satellite",
+            "name": "Rmf Maxxx",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rmf-maxxx-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rmf_maxxx.png"
+          },
+          "sub_88": {
+            "id": 88,
+            "mode": "satellite",
+            "name": "Rmf Maxxx",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rmf-maxxx-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rmf_maxxx.png"
+          },
+          "sub_89": {
+            "id": 89,
+            "mode": "satellite",
+            "name": "Rmf Maxxx",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rmf-maxxx-2",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rmf_maxxx.png"
+          },
+          "sub_90": {
+            "id": 90,
+            "mode": "satellite",
+            "name": "Rmf Maxxx",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rmf-maxxx-3",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rmf_maxxx.png"
+          },
+          "sub_91": {
+            "id": 91,
+            "mode": "satellite",
+            "name": "Rmf Maxxx",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rmf-maxxx-5",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rmf_maxxx.png"
+          },
+          "sub_92": {
+            "id": 92,
+            "mode": "satellite",
+            "name": "Rmf Maxxx",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rmf-maxxx-6",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rmf_maxxx.png"
+          },
+          "sub_93": {
+            "id": 93,
+            "mode": "satellite",
+            "name": "Rmf Maxxx",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rmf-maxxx-7",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rmf_maxxx.png"
+          },
+          "sub_94": {
+            "id": 94,
+            "mode": "satellite",
+            "name": "Rmf Maxxx",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rmf-maxxx-8",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rmf_maxxx.png"
+          },
+          "sub_95": {
+            "id": 95,
+            "mode": "satellite",
+            "name": "Rmf Maxxx",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rmf-maxxx-9",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rmf_maxxx.png"
+          },
+          "sub_96": {
+            "id": 96,
+            "mode": "satellite",
+            "name": "Rmf Maxxx",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rmf-maxxx-10",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rmf_maxxx.png"
+          },
+          "sub_97": {
+            "id": 97,
+            "mode": "satellite",
+            "name": "Rmf Maxxx",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rmf-maxxx-11",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rmf_maxxx.png"
+          },
+          "sub_98": {
+            "id": 98,
+            "mode": "satellite",
+            "name": "Rmf Maxxx",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rmf-maxxx-12",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rmf_maxxx.png"
+          },
+          "sub_99": {
+            "id": 99,
+            "mode": "satellite",
+            "name": "Rmf Maxxx",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rmf-maxxx-13",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rmf_maxxx.png"
+          },
+          "sub_100": {
+            "id": 100,
+            "mode": "satellite",
+            "name": "Rmf Maxxx",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rmf-maxxx-14",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rmf_maxxx.png"
+          },
+          "sub_101": {
+            "id": 101,
+            "mode": "satellite",
+            "name": "Rmf Maxxx",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rmf-maxxx-21",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rmf_maxxx.png"
+          },
+          "sub_102": {
+            "id": 102,
+            "mode": "satellite",
+            "name": "Rmf Maxxx",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rmf-maxxx-22",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rmf_maxxx.png"
+          },
+          "sub_103": {
+            "id": 103,
+            "mode": "satellite",
+            "name": "Rmf Maxxx",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rmf-maxxx-23",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rmf_maxxx.png"
+          },
+          "sub_104": {
+            "id": 104,
+            "mode": "satellite",
+            "name": "Rmf Maxxx",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rmf-maxxx-24",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rmf_maxxx.png"
+          },
+          "sub_105": {
+            "id": 105,
+            "mode": "satellite",
+            "name": "Rmf Maxxx",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rmf-maxxx-25",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rmf_maxxx.png"
+          },
+          "sub_106": {
+            "id": 106,
+            "mode": "satellite",
+            "name": "Rmf Maxxx",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rmf-maxxx-26",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rmf_maxxx.png"
+          },
+          "sub_107": {
+            "id": 107,
+            "mode": "satellite",
+            "name": "Rmf Maxxx",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rmf-maxxx-27",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rmf_maxxx.png"
+          },
+          "sub_108": {
+            "id": 108,
+            "mode": "satellite",
+            "name": "Rmf Maxxx",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rmf-maxxx-28",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rmf_maxxx.png"
+          },
+          "sub_109": {
+            "id": 109,
+            "mode": "satellite",
+            "name": "Rock Radio",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rock-radio",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rock_radio_pl.png"
+          },
+          "sub_110": {
+            "id": 110,
+            "mode": "satellite",
+            "name": "Tlc Polska",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tlc-polska",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tlc_uk.png"
+          },
+          "sub_111": {
+            "id": 111,
+            "mode": "satellite",
+            "name": "Tok",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tok-fm",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio_tok_fm_pl.png"
+          },
+          "sub_112": {
+            "id": 112,
+            "mode": "satellite",
+            "name": "Trwam",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/tv-trwam",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/tv_trwam.png"
+          }
+        }
+      }
+    }
+  }
+}
