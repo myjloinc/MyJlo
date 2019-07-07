@@ -1,0 +1,418 @@
+{
+  "TV_Data": {
+    "Channel_List": {
+      "is_channel_list": true,
+      "is_override": true,
+      "thumb_width": 80,
+      "all_Channels_Tab_Name": "",
+      "main": {
+        "id": 64,
+        "name": "Italy",
+        "sub_name": "channels",
+        "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/Country/Italy.png",
+        "sub": {
+          "sub_0": {
+            "id": 0,
+            "mode": "satellite",
+            "name": "Boing Espana",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/boing-espana",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/boing_es.png"
+          },
+          "sub_1": {
+            "id": 1,
+            "mode": "satellite",
+            "name": "Boing France",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/boing-france-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/boing_fr.png"
+          },
+          "sub_2": {
+            "id": 2,
+            "mode": "satellite",
+            "name": "Nautical Channel",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/nautical-channel-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/nautical_channel_it.png"
+          },
+          "sub_3": {
+            "id": 3,
+            "mode": "satellite",
+            "name": "Radio Maria Osterreich",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-maria-osterreich",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio_maria_international.png"
+          },
+          "sub_4": {
+            "id": 4,
+            "mode": "satellite",
+            "name": "Radio Marija Latvija",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/radio-marija-latvija",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio_maria_international.png"
+          },
+          "sub_5": {
+            "id": 5,
+            "mode": "satellite",
+            "name": "Rai News 24",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/rai-news-24",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/rai_news_24.png"
+          },
+          "sub_6": {
+            "id": 6,
+            "mode": "satellite",
+            "name": "Unire",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/unire-tv",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/unire-tv-it.png"
+          },
+          "sub_73": {
+            "id": 73,
+            "mode": "satellite",
+            "name": "Euronews Russkiy",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/euronews-russkiy",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/euronews_fr.png"
+          },
+          "sub_74": {
+            "id": 74,
+            "mode": "satellite",
+            "name": "Europe 1",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/europe-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/europe1.png"
+          },
+          "sub_75": {
+            "id": 75,
+            "mode": "satellite",
+            "name": "Eurosport 1",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/eurosport-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/eurosport_fr_1.png"
+          },
+          "sub_76": {
+            "id": 76,
+            "mode": "satellite",
+            "name": "Eurosport 1",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/eurosport-1-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/eurosport_fr_1.png"
+          },
+          "sub_77": {
+            "id": 77,
+            "mode": "satellite",
+            "name": "Eurosport 1",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/eurosport-1-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/eurosport_fr_1.png"
+          },
+          "sub_78": {
+            "id": 78,
+            "mode": "satellite",
+            "name": "Eurosport 1",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/eurosport-1-2",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/eurosport_fr_1.png"
+          },
+          "sub_79": {
+            "id": 79,
+            "mode": "satellite",
+            "name": "Eurosport 1",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/eurosport-1-3",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/eurosport_fr_1.png"
+          },
+          "sub_80": {
+            "id": 80,
+            "mode": "satellite",
+            "name": "Eurosport 1 Belgie",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/eurosport-1-belgie-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/eurosport_fr_1.png"
+          },
+          "sub_81": {
+            "id": 81,
+            "mode": "satellite",
+            "name": "Eurosport 1 France",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/eurosport-1-france",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/eurosport_fr_1.png"
+          },
+          "sub_82": {
+            "id": 82,
+            "mode": "satellite",
+            "name": "Eurosport 1 Germany",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/eurosport-1-germany",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/eurosport_fr_1.png"
+          },
+          "sub_83": {
+            "id": 83,
+            "mode": "satellite",
+            "name": "Eurosport 1 Germany",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/eurosport-1-germany-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/eurosport_fr_1.png"
+          },
+          "sub_84": {
+            "id": 84,
+            "mode": "satellite",
+            "name": "Eurosport 1 Germany",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/eurosport-1-germany-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/eurosport_fr_1.png"
+          },
+          "sub_85": {
+            "id": 85,
+            "mode": "satellite",
+            "name": "Eurosport 1 Germany",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/eurosport-1-germany-2",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/eurosport_fr_1.png"
+          },
+          "sub_86": {
+            "id": 86,
+            "mode": "satellite",
+            "name": "Eurosport 1 Nederland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/eurosport-1-nederland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/eurosport_fr_1.png"
+          },
+          "sub_87": {
+            "id": 87,
+            "mode": "satellite",
+            "name": "Eurosport 1 Nordic",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/eurosport-1-nordic",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/eurosport_fr_1.png"
+          },
+          "sub_88": {
+            "id": 88,
+            "mode": "satellite",
+            "name": "Eurosport 1 Norge",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/eurosport-1-norge",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/eurosport_fr_1.png"
+          },
+          "sub_89": {
+            "id": 89,
+            "mode": "satellite",
+            "name": "Eurosport 1 Rossiya",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/eurosport-1-rossiya",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/eurosport_fr_1.png"
+          },
+          "sub_90": {
+            "id": 90,
+            "mode": "satellite",
+            "name": "Eurosport 1 Rossiya",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/eurosport-1-rossiya-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/eurosport_fr_1.png"
+          },
+          "sub_91": {
+            "id": 91,
+            "mode": "satellite",
+            "name": "Eurosport 1 Rossiya",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/eurosport-1-rossiya-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/eurosport_fr_1.png"
+          },
+          "sub_92": {
+            "id": 92,
+            "mode": "satellite",
+            "name": "Eurosport 2",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/eurosport-2",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/eurosport_fr_2.png"
+          },
+          "sub_93": {
+            "id": 93,
+            "mode": "satellite",
+            "name": "Eurosport 2",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/eurosport-2-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/eurosport_fr_2.png"
+          },
+          "sub_94": {
+            "id": 94,
+            "mode": "satellite",
+            "name": "Eurosport 2",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/eurosport-2-2",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/eurosport_fr_2.png"
+          },
+          "sub_95": {
+            "id": 95,
+            "mode": "satellite",
+            "name": "Eurosport 2",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/eurosport-2-3",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/eurosport_fr_2.png"
+          },
+          "sub_96": {
+            "id": 96,
+            "mode": "satellite",
+            "name": "Eurosport 2",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/eurosport-2-4",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/eurosport_fr_2.png"
+          },
+          "sub_97": {
+            "id": 97,
+            "mode": "satellite",
+            "name": "Eurosport 2",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/eurosport-2-5",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/eurosport_fr_2.png"
+          },
+          "sub_98": {
+            "id": 98,
+            "mode": "satellite",
+            "name": "Eurosport 2",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/eurosport-2-6",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/eurosport_fr_2.png"
+          },
+          "sub_99": {
+            "id": 99,
+            "mode": "satellite",
+            "name": "Eurosport 2",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/eurosport-2-7",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/eurosport_fr_2.png"
+          },
+          "sub_100": {
+            "id": 100,
+            "mode": "satellite",
+            "name": "Eurosport 2 Belgie",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/eurosport-2-belgie-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/eurosport_fr_2.png"
+          },
+          "sub_101": {
+            "id": 101,
+            "mode": "satellite",
+            "name": "Eurosport 2 Belgie",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/eurosport-2-belgie-2",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/eurosport_fr_2.png"
+          },
+          "sub_102": {
+            "id": 102,
+            "mode": "satellite",
+            "name": "Eurosport 2 Danmark",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/eurosport-2-danmark",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/eurosport_fr_2.png"
+          },
+          "sub_103": {
+            "id": 103,
+            "mode": "satellite",
+            "name": "Eurosport 2 Nederland",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/eurosport-2-nederland",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/eurosport_fr_2.png"
+          },
+          "sub_104": {
+            "id": 104,
+            "mode": "satellite",
+            "name": "Eurosport 2 Northeast",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/eurosport-2-north-east",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/eurosport_fr_2.png"
+          },
+          "sub_105": {
+            "id": 105,
+            "mode": "satellite",
+            "name": "Eurosport 2 Rossiya",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/eurosport-2-rossiya",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/eurosport_fr_2.png"
+          },
+          "sub_106": {
+            "id": 106,
+            "mode": "satellite",
+            "name": "Eurosport 2 Rossiya",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/eurosport-2-rossiya-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/eurosport_fr_2.png"
+          },
+          "sub_107": {
+            "id": 107,
+            "mode": "satellite",
+            "name": "Eurosport 2 Rossiya",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/eurosport-2-rossiya-1",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/eurosport_fr_2.png"
+          },
+          "sub_108": {
+            "id": 108,
+            "mode": "satellite",
+            "name": "Eurosport 2 Xtra",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/eurosport-2-xtra",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/eurosport-2-xtra-fr-de.png"
+          },
+          "sub_109": {
+            "id": 109,
+            "mode": "satellite",
+            "name": "Eurosport 2 Xtra",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/eurosport-2-xtra-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/eurosport-2-xtra-fr-de.png"
+          },
+          "sub_110": {
+            "id": 110,
+            "mode": "satellite",
+            "name": "Extreme Sports Channel France",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/extreme-sports-channel-france",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/extreme_sports_fr.png"
+          },
+          "sub_111": {
+            "id": 111,
+            "mode": "satellite",
+            "name": "Fashion Europe",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/fashion-tv-europe",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/fashion_tv_fr.png"
+          },
+          "sub_112": {
+            "id": 112,
+            "mode": "satellite",
+            "name": "Fashion Europe",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/fashion-tv-europe-0",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/fashion_tv_fr.png"
+          },
+          "sub_113": {
+            "id": 113,
+            "mode": "satellite",
+            "name": "",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/fg",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/radio_fg_fr.png"
+          },
+          "sub_114": {
+            "id": 114,
+            "mode": "satellite",
+            "name": "Fip",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/fip",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/france_fip.png"
+          },
+          "sub_115": {
+            "id": 115,
+            "mode": "satellite",
+            "name": "Foot",
+            "sub_name": "",
+            "satellite_url": "https://astra.ses/channels/foot",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/canalsat_fr_foot_plus.png"
+          }
+        }
+      }
+    }
+  }
+}
