@@ -1,4 +1,4 @@
-{
+﻿{
   "TV_Data": {
     "Settings": {
       "Admob_Settings": {
@@ -81,11 +81,11 @@
           "visibility_percentage": 0
         },
         "google_ads": {
-          "ads_app_id": "ca-app-pub-2809733118839896~7073576670",
+          "ads_app_id": "ca-app-pub-2809733118839896~7647052040",
           "banner_ad_unit_id_test": "ca-app-pub-3940256099942544/6300978111",
-          "banner_ad_unit_id": "ca-app-pub-2809733118839896/1405730295",
+          "banner_ad_unit_id": "ca-app-pub-2809733118839896/3324663658",
           "interstitial_ad_unit_id_test": "ca-app-pub-3940256099942544/1033173712",
-          "interstitial_ad_unit_id": "ca-app-pub-2809733118839896/6373726764",
+          "interstitial_ad_unit_id": "ca-app-pub-2809733118839896/5475775154",
           "ads_banner_clicks_per_duration_day" : -1,
           "ads_interstitial_clicks_per_duration_day" : -1,
           "ads_clicks_duration_day" : 1,
@@ -98,15 +98,15 @@
           "is_interstitial_ads": true,
           "is_stream_player_banner_ads": true,
           "is_initially_ads_container_visible":true,
-          "native_ad_unit_id": "ca-app-pub-2809733118839896/1405730295",
-          "rewarded_video_ad_unit_id": "ca-app-pub-2809733118839896/1405730295",
+          "native_ad_unit_id": "ca-app-pub-2809733118839896/5475775154",
+          "rewarded_video_ad_unit_id": "ca-app-pub-2809733118839896/5475775154",
 
           "is_illegal_interstitial_ads": false,
           "is_legal_interstitial_ads": true,
           "is_illegal_banner_ads": false,
           "is_legal_banner_ads": true,
 
-          "visibility_percentage": 50
+          "visibility_percentage": 100
         },
         "unity_ads": {
           "is_debug_mode": false,
@@ -133,7 +133,7 @@
           "is_illegal_banner_ads": true,
           "is_legal_banner_ads": true,
 
-          "visibility_percentage": 50
+          "visibility_percentage": 5
         },
         "custom_ads" :
         {
@@ -168,13 +168,13 @@
             }
           }
         },
-        "is_banner_ads": false,
-        "is_interstitial_ads": false,
-        "is_stream_player_banner_ads": false,
-        "is_illegal_interstitial_ads": false,
-        "is_legal_interstitial_ads": false,
-        "is_illegal_banner_ads": false,
-        "is_legal_banner_ads": false,
+        "is_banner_ads": true,
+        "is_interstitial_ads": true,
+        "is_stream_player_banner_ads": true,
+        "is_illegal_interstitial_ads": true,
+        "is_legal_interstitial_ads": true,
+        "is_illegal_banner_ads": true,
+        "is_legal_banner_ads": true,
         "amazon_ads": {
           "ads_app_id": "ab2af0042c144a81a7edf1ffc14293a8",
           "ads_banner_clicks_per_duration_day" : 1,
@@ -212,7 +212,7 @@
           "is_illegal_banner_ads": true,
           "is_legal_banner_ads": true,
 
-          "visibility_percentage": 100
+          "visibility_percentage": 5
         }
       },
       "App_Guide_Data":
@@ -351,7 +351,7 @@
         "is_system_browser":true,
         "downloading_message": "App Downloading",
         "installing_message": "App Install",
-        "inapp_base64EncodedPublicKey" : "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAijf9lmcJ2fp2Rqe46TWxLOZV4vQH6enRNjTGgyvmzngtBmNDdFKAc+cS8gCSZ+emIVHXIhUvos4CmLNPFyfez11ERehoj7RIrskkafp1HM+1R1Jit9VeSPJPJDS9n/befwpe6QTbi1z7DMUEcJ7PYA7nfJ9NhV5Y12Hxe3khQ6lng61bsQq3P7cbQPtHPwntg6M474wuFmHoj8CjQ84birVqmPYWvIkZ6uWVw13A1Owb8Gsp4w2pVvhjnYBMHffHP8Tl6Qe9duCqKp2DEoFxv6F/PjbyqmI7z0hL+8ijnkiEXavFnQ3OAOZUSkpYMxNdZT4/5J9MHs/o87KaO9Pa7wIDAQAB",
+        "inapp_base64EncodedPublicKey" : "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnTUAx7OSXBs6iitX2enJuh+0EBfaY6pxuOS/i26Ouwjbph7P6Qz+OPcglN256NSQPQ39jiK5gHwSKOApUnrSbC38QIcSyBd8ClY43603J19w/lhqtdgF3YFuIVeDMBJD85dS83neY3+S2mWxOJTJsNHE8ht5x57fkzw4B69Vro7Trbvb/hGIp/PALJP/EViXgON8bJgIrfALDnCsq/rtrww4dDpzam+fylyHJX7HrY5YnDOZAKl85NDiijSOO/hyKZC7Ku/9CZ9SBKNqsDmBGAVxkWG7jLGokYx5IQ9pJY+7ZS2SLyOBGp2NpgnxlMADPIy59eWtSemoqi8pWgaXnQIDAQAB",
         "inapp_base64EncodedPublicKey_core" : "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhbxbwByaAeBtBOWnxKoYqIMcmgopIpgLi5G8bL62J1rKNntpV5ildIO0rZo8umb8KQHtxDg58Hevlb1gvPYVKRjTQTQCMJ99vzx7kkqwX1RUxVWuL5/Iixyrp3GgHdEb8YtVGDTN5hhLqgkCQ/iE52gMFC7UhU8dN7e+GWhsQsHfqhA9K6Xrh/jEv4pAjxN10kYXYDNvyxq7KA+j4d1qEbaJjUzKXbIeUTfNhueL+/IlMUKnTL1Z6h6ZzkUh3jsvzSbeWeWBoaEDh+xz7QdqsxUz+2JAwffYeLZMyFmfLciWdk8zZ7hVO47wDare3FGmC/lV2Xjv4bhQpc6Zzyv+vQIDAQAB",
         "inapp_base64EncodedPublicKey_all" : "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApLE+5061d1CMY+2i9gmWOfp/2frJ8am0gZcck7l7VxwUKLsHmWfapCKj2hKxJWb2SS9O9WAAKLLav/xqCz3KjaHpPT/h1aMiBV7UbhiXU0upDxndPjRWqIn2gsAkxiRoOcAxh0d365YL5qatzGqBOWw2tGwnEc5f1bgmZuCs+wgXXwjiEUY1eHLwjc0wsLT/8H9zpARUhsTh3eefHDesg6Yakfi9F+l8B/Y6tuWheWdB1WFwrDFJuiXv2Kq6Dcb80MiPPNIhO2wIf+1CsVDvgsRQGBDKJFPBpKznNdibDiYL0qS7R1Xu3Bh63Mvt9ns3yKQTR0yQ4x9xRvpRIk7o+QIDAQAB"
       },
