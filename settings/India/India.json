@@ -235,38 +235,6 @@
             "satellite_url": "https://astra.ses/channels/travelxp-hd-europe-1",
             "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/travel_xp_in_hd.png"
           },
-          "sub_38": {
-            "id": 38,
-            "mode": "satellite",
-            "name": "Zee Cinema",
-            "sub_name": "",
-            "satellite_url": "https://astra.ses/channels/zee-cinema-uk-0",
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/zee-cinema-in.png"
-          },
-          "sub_39": {
-            "id": 39,
-            "mode": "satellite",
-            "name": "Zee One",
-            "sub_name": "",
-            "satellite_url": "https://astra.ses/channels/zee-one",
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/zee-one-in-de.png"
-          },
-          "sub_40": {
-            "id": 40,
-            "mode": "satellite",
-            "name": "Zee One",
-            "sub_name": "",
-            "satellite_url": "https://astra.ses/channels/zee-one-0",
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/zee-one-in-de.png"
-          },
-          "sub_41": {
-            "id": 41,
-            "mode": "satellite",
-            "name": "Zee",
-            "sub_name": "",
-            "satellite_url": "https://astra.ses/channels/zee-tv-uk-0",
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/zee-tv-in.png"
-          }
         }
       }
     }
