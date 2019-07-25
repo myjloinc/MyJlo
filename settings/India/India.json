@@ -54,7 +54,7 @@
           "sub_9": {
             "id": 9,
             "mode": "satellite",
-            "name": "Colors",
+            "name": "Clrs",
             "sub_name": "",
             "satellite_url": "https://astra.ses/channels/colors",
             "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/colors_in.png"
@@ -62,7 +62,7 @@
           "sub_10": {
             "id": 10,
             "mode": "satellite",
-            "name": "Colors",
+            "name": "Clrs",
             "sub_name": "",
             "satellite_url": "https://astra.ses/channels/colors-0",
             "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/colors_in.png"
@@ -70,7 +70,7 @@
           "sub_13": {
             "id": 13,
             "mode": "satellite",
-            "name": "Colors Cineplex",
+            "name": "Clrs Cineplex",
             "sub_name": "",
             "satellite_url": "https://astra.ses/channels/colors-cineplex",
             "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/colors-cineplex-in.png"
@@ -78,7 +78,7 @@
           "sub_14": {
             "id": 14,
             "mode": "satellite",
-            "name": "Colors Rishtey Europe",
+            "name": "Clrs Reestey Europe",
             "sub_name": "",
             "satellite_url": "https://astra.ses/channels/colors-rishtey-europe",
             "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/a-h/colors-rishtey-in.png"
@@ -86,7 +86,7 @@
           "sub_17": {
             "id": 17,
             "mode": "satellite",
-            "name": "Ndtv 24X7",
+            "name": "Ndtv 24*7",
             "sub_name": "",
             "satellite_url": "https://astra.ses/channels/ndtv-24x7",
             "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/i-p/ndtv_24x7.png"
@@ -110,7 +110,7 @@
           "sub_21": {
             "id": 21,
             "mode": "satellite",
-            "name": "Set Asia",
+            "name": "Sat Asia 2",
             "sub_name": "",
             "satellite_url": "https://astra.ses/channels/set-asia",
             "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/set_asia.png"
@@ -118,7 +118,7 @@
           "sub_22": {
             "id": 22,
             "mode": "satellite",
-            "name": "Set Asia",
+            "name": "Sat Asia",
             "sub_name": "",
             "satellite_url": "https://astra.ses/channels/set-asia-0",
             "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/set_asia.png"
@@ -126,7 +126,7 @@
           "sub_24": {
             "id": 24,
             "mode": "satellite",
-            "name": "Sony Channel Russia",
+            "name": "Sonee Russia 1",
             "sub_name": "",
             "satellite_url": "https://astra.ses/channels/sony-channel-russia",
             "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sony_channel_in.png"
@@ -134,7 +134,7 @@
           "sub_25": {
             "id": 25,
             "mode": "satellite",
-            "name": "Sony Channel Russia",
+            "name": "Sonee Russia 2",
             "sub_name": "",
             "satellite_url": "https://astra.ses/channels/sony-channel-russia-0",
             "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sony_channel_in.png"
@@ -142,7 +142,7 @@
           "sub_26": {
             "id": 26,
             "mode": "satellite",
-            "name": "Sony Crime Channel",
+            "name": "Sonee Crime Channel",
             "sub_name": "",
             "satellite_url": "https://astra.ses/channels/sony-crime-channel",
             "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sony-crime-channel-in-uk.png"
@@ -150,7 +150,7 @@
           "sub_27": {
             "id": 27,
             "mode": "satellite",
-            "name": "Sony Crime Channel 1",
+            "name": "Sonee Crime Channel 1",
             "sub_name": "",
             "satellite_url": "https://astra.ses/channels/sony-crime-channel-1",
             "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sony-crime-channel-in-uk.png"
@@ -158,7 +158,7 @@
           "sub_28": {
             "id": 28,
             "mode": "satellite",
-            "name": "Sony Max 2",
+            "name": "Soni Mas 2",
             "sub_name": "",
             "satellite_url": "https://astra.ses/channels/sony-max-2",
             "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sony_max_in_2.png"
@@ -166,7 +166,7 @@
           "sub_29": {
             "id": 29,
             "mode": "satellite",
-            "name": "Sony Max",
+            "name": "Soni Mas 1",
             "sub_name": "",
             "satellite_url": "https://astra.ses/channels/sony-max-uk",
             "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sony_max_in.png"
@@ -174,7 +174,7 @@
           "sub_30": {
             "id": 30,
             "mode": "satellite",
-            "name": "Sony Max",
+            "name": "Soni Mas 2",
             "sub_name": "",
             "satellite_url": "https://astra.ses/channels/sony-max-uk-0",
             "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sony_max_in.png"
@@ -182,7 +182,7 @@
           "sub_31": {
             "id": 31,
             "mode": "satellite",
-            "name": "Sony Max",
+            "name": "Soni Mas 3",
             "sub_name": "",
             "satellite_url": "https://astra.ses/channels/sony-max-uk-1",
             "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sony_max_in.png"
@@ -190,7 +190,7 @@
           "sub_32": {
             "id": 32,
             "mode": "satellite",
-            "name": "Sony Max",
+            "name": "Soni Mas 4",
             "sub_name": "",
             "satellite_url": "https://astra.ses/channels/sony-max-uk-2",
             "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sony_max_in.png"
@@ -198,7 +198,7 @@
           "sub_33": {
             "id": 33,
             "mode": "satellite",
-            "name": "Sony Sab Asia",
+            "name": "Soni Sb Asia",
             "sub_name": "",
             "satellite_url": "https://astra.ses/channels/sony-sab-tv-asia",
             "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sony-sab-tv-in.png"
@@ -206,7 +206,7 @@
           "sub_34": {
             "id": 34,
             "mode": "satellite",
-            "name": "Sony Turbo",
+            "name": "Sonee Turbo",
             "sub_name": "",
             "satellite_url": "https://astra.ses/channels/sony-turbo",
             "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/All-Satellite-Images/q-z/sony_turbo_ru.png"
