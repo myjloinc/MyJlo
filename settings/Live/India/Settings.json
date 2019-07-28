@@ -1,4 +1,4 @@
-{
+﻿{
   "TV_Data": {
     "Settings": {
       "Admob_Settings": {
@@ -392,7 +392,7 @@
 
         "is_purchase_restore_support":true,
 
-        "is_original_thumb_icon":true
+        "is_original_thumb_icon":false
       },
 
       "Other_Player_Support":
