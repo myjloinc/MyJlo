@@ -1,0 +1,425 @@
+{
+  "TV_Data": {
+    "Channel_List": {
+      "is_channel_list": true,
+      "is_override": true,
+      "thumb_width": 150,
+      "all_Channels_Tab_Name": "",
+      "main": {
+        "id": 2,
+        "name": "INDIAN TV",
+        "sub_name": "Channels",
+        "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/India-TV.jpeg?alt=media&token=6fbae05b-73b0-4298-a67a-35d74d74a2fb",
+        "sub": {
+          "sub_1": {
+            "id": 1,
+            "name": "AAJ TAKK",
+            "mode": "video",
+            "sub_name": "",
+            "planet_category_id": 64,
+            "planet_channel_id": 336,
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/83493_aajtak.jpg"
+          },
+          "sub_2": {
+            "id": 2,
+            "name": "ABP NEWS",
+            "mode": "video",
+            "sub_name": "",
+            "planet_category_id": 64,
+            "planet_channel_id": 341,
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/73346_ABPLive.jpg"
+          },
+          "sub_3": {
+            "id": 3,
+            "name": "9XM",
+            "mode": "video",
+            "sub_name": "",
+            "planet_category_id": 64,
+            "planet_channel_id": 24,
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/62972_9xm.jpg"
+          },
+          "sub_7": {
+            "id": 7,
+            "name": "B4U MOVIES",
+            "mode": "video",
+            "sub_name": "",
+            "planet_category_id": 64,
+            "planet_channel_id": 353,
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/80888_B4Umovies.jpg"
+          },
+          "sub_8": {
+            "id": 8,
+            "name": "B4U MUSIC",
+            "mode": "video",
+            "sub_name": "",
+            "planet_category_id": 64,
+            "planet_channel_id": 355,
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/71614_B4Umusic.jpg"
+          },
+          "sub_9": {
+            "id": 9,
+            "name": "BIG MAGIC",
+            "mode": "video",
+            "sub_name": "",
+            "planet_category_id": 64,
+            "planet_channel_id": 359,
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/3320_bigmagicnew.jpg"
+          },
+          "sub_10": {
+            "id": 10,
+            "name": "CINEMA TV",
+            "mode": "video",
+            "sub_name": "",
+            "planet_category_id": 64,
+            "planet_channel_id": 363,
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/92809_cinematv.jpg"
+          },
+          "sub_11": {
+            "id": 11,
+            "name": "DABANG TV",
+            "mode": "video",
+            "sub_name": "",
+            "planet_category_id": 64,
+            "planet_channel_id": 380,
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/26202_dabangtvnew.jpg"
+          },
+          "sub_12": {
+            "id": 12,
+            "name": "DANGAL TV",
+            "mode": "video",
+            "sub_name": "",
+            "planet_category_id": 64,
+            "planet_channel_id": 383,
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/99662_dangalnew.jpg"
+          },
+          "sub_13": {
+            "id": 13,
+            "name": "DD NATIONAL",
+            "mode": "video",
+            "sub_name": "",
+            "planet_category_id": 64,
+            "planet_channel_id": 386,
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/67779_ddnationalnew.jpg"
+          },
+          "sub_14": {
+            "id": 14,
+            "name": "DD NEWS",
+            "mode": "video",
+            "sub_name": "",
+            "planet_category_id": 64,
+            "planet_channel_id": 389,
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg"
+          },
+          "sub_15": {
+            "id": 15,
+            "name": "DELHI AAJTAK",
+            "mode": "video",
+            "sub_name": "",
+            "planet_category_id": 64,
+            "planet_channel_id": 390,
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/74201_delhiaajtak.jpg"
+          },
+          "sub_16": {
+            "id": 16,
+            "name": "DHAMAAL TV",
+            "mode": "video",
+            "sub_name": "",
+            "planet_category_id": 64,
+            "planet_channel_id": 392,
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/4500_dhammaltvnew.jpg"
+          },
+          "sub_17": {
+            "id": 17,
+            "name": "DILLAGI",
+            "mode": "video",
+            "sub_name": "",
+            "planet_category_id": 64,
+            "planet_channel_id": 393,
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/77794_dillaginew.jpg"
+          },
+          "sub_18": {
+            "id": 18,
+            "name": "E24",
+            "mode": "video",
+            "sub_name": "",
+            "planet_category_id": 64,
+            "planet_channel_id": 398,
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/77169_e24.jpg"
+          },
+          "sub_19": {
+            "id": 19,
+            "name": "Enter 10",
+            "mode": "video",
+            "sub_name": "",
+            "planet_category_id": 64,
+            "planet_channel_id": 402,
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/93736_Enter10.jpg"
+          },
+          "sub_20": {
+            "id": 20,
+            "name": "ET NOW",
+            "mode": "video",
+            "sub_name": "",
+            "planet_category_id": 64,
+            "planet_channel_id": 404,
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/15320_ETNow.jpg"
+          },
+          "sub_21": {
+            "id": 21,
+            "name": "INDIA TODAY",
+            "mode": "video",
+            "sub_name": "",
+            "planet_category_id": 64,
+            "planet_channel_id": 406,
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/67581_IndiaToday.jpg"
+          },
+          "sub_22": {
+            "id": 22,
+            "name": "INDIA TV",
+            "mode": "video",
+            "sub_name": "",
+            "planet_category_id": 64,
+            "planet_channel_id": 409,
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/68523_IndiaTV.jpg"
+          },
+          "sub_23": {
+            "id": 23,
+            "name": "MAHA MOVIES",
+            "mode": "video",
+            "sub_name": "",
+            "planet_category_id": 64,
+            "planet_channel_id": 410,
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/98855_mahamovies.jpg"
+          },
+          "sub_24": {
+            "id": 24,
+            "name": "MANORANJAN MOVIES",
+            "mode": "video",
+            "sub_name": "",
+            "planet_category_id": 64,
+            "planet_channel_id": 413,
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/87162_manoranjanmovies.jpg"
+          },
+          "sub_25": {
+            "id": 25,
+            "name": "MANORANJAN TV",
+            "mode": "video",
+            "sub_name": "",
+            "planet_category_id": 64,
+            "planet_channel_id": 414,
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/23804_manoranjan.jpg"
+          },
+          "sub_26": {
+            "id": 26,
+            "name": "MASTII",
+            "mode": "video",
+            "sub_name": "",
+            "planet_category_id": 64,
+            "planet_channel_id": 415,
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/93328_mastiitv.jpg"
+          },
+          "sub_27": {
+            "id": 27,
+            "name": "MOVIE OK",
+            "mode": "video",
+            "sub_name": "",
+            "planet_category_id": 64,
+            "planet_channel_id": 417,
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/56897_movieok.jpg"
+          },
+          "sub_28": {
+            "id": 28,
+            "name": "MTV BEATS",
+            "mode": "video",
+            "sub_name": "",
+            "planet_category_id": 64,
+            "planet_channel_id": 418,
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/98476_mtvbeats.jpg"
+          },
+          "sub_29": {
+            "id": 29,
+            "name": "MTV INDIA",
+            "mode": "video",
+            "sub_name": "",
+            "planet_category_id": 64,
+            "planet_channel_id": 419,
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/78702_MTVIndia.jpg"
+          },
+          "sub_30": {
+            "id": 30,
+            "name": "MUSIC INDIA",
+            "mode": "video",
+            "sub_name": "",
+            "planet_category_id": 64,
+            "planet_channel_id": 420,
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/65305_MusicIndia.jpg"
+          },
+          "sub_31": {
+            "id": 31,
+            "name": "NDTV",
+            "mode": "video",
+            "sub_name": "",
+            "planet_category_id": 64,
+            "planet_channel_id": 422,
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/43217_ndtvindia.jpg"
+          },
+          "sub_32": {
+            "id": 32,
+            "name": "NDTV 24X7",
+            "mode": "video",
+            "sub_name": "",
+            "planet_category_id": 64,
+            "planet_channel_id": 423,
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/50926_NDtv24x7.jpg"
+          },
+          "sub_33": {
+            "id": 33,
+            "name": "NDTV PROFIT",
+            "mode": "video",
+            "sub_name": "",
+            "planet_category_id": 64,
+            "planet_channel_id": 424,
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/38733_NDTVProfit.jpg"
+          },
+          "sub_34": {
+            "id": 34,
+            "name": "REPUBLIC TV",
+            "mode": "video",
+            "sub_name": "",
+            "planet_category_id": 64,
+            "planet_channel_id": 425,
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/9905_republictv.jpg"
+          },
+          "sub_35": {
+            "id": 35,
+            "name": "RISHTEY",
+            "mode": "video",
+            "sub_name": "",
+            "planet_category_id": 64,
+            "planet_channel_id": 431,
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/58406_RishteyUK.jpg"
+          },
+          "sub_36": {
+            "id": 36,
+            "name": "RISHTEY ASIA",
+            "mode": "video",
+            "sub_name": "",
+            "planet_category_id": 64,
+            "planet_channel_id": 435,
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/73659_RishteyAsia.jpg"
+          },
+          "sub_37": {
+            "id": 37,
+            "name": "RISHTEY EU",
+            "mode": "video",
+            "sub_name": "",
+            "planet_category_id": 64,
+            "planet_channel_id": 433,
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/69424_RishteyUK.jpg"
+          },
+          "sub_38": {
+            "id": 38,
+            "name": "RISHTHEY CINEPLEX UK",
+            "mode": "video",
+            "sub_name": "",
+            "planet_category_id": 64,
+            "planet_channel_id": 438,
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/67527_rishteycineUK1.jpg"
+          },
+          "sub_39": {
+            "id": 39,
+            "name": "RISHTY CINEPLEX",
+            "mode": "video",
+            "sub_name": "",
+            "planet_category_id": 64,
+            "planet_channel_id": 429,
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/26319_rishteycine1.jpg"
+          },
+
+          "sub_62": {
+            "id": 62,
+            "name": "TEZ NEWS",
+            "mode": "video",
+            "sub_name": "",
+            "planet_category_id": 64,
+            "planet_channel_id": 500,
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/96199_calcuttanews.jpg"
+          },
+          "sub_63": {
+            "id": 63,
+            "name": "TIMES NOW",
+            "mode": "video",
+            "sub_name": "",
+            "planet_category_id": 64,
+            "planet_channel_id": 503,
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/33043_timesnow.jpg"
+          },
+          "sub_64": {
+            "id": 64,
+            "name": "TRAVEL XPHD",
+            "mode": "video",
+            "sub_name": "",
+            "planet_category_id": 64,
+            "planet_channel_id": 505,
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/44362_travelxphindi.jpg"
+          },
+          "sub_65": {
+            "id": 65,
+            "name": "UTV BINDASS",
+            "mode": "video",
+            "sub_name": "",
+            "planet_category_id": 64,
+            "planet_channel_id": 506,
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/10065_UTVbindass.jpg"
+          },
+          "sub_66": {
+            "id": 66,
+            "name": "UTV MOVIES",
+            "mode": "video",
+            "sub_name": "",
+            "planet_category_id": 64,
+            "planet_channel_id": 507,
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/10520_utvminternational.jpg"
+          },
+          "sub_67": {
+            "id": 67,
+            "name": "WOW CINEMA",
+            "mode": "video",
+            "sub_name": "",
+            "planet_category_id": 64,
+            "planet_channel_id": 508,
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/59224_wowcinema.jpg"
+          },
+
+          "sub_83": {
+            "id": 83,
+            "name": "ZING TV",
+            "mode": "video",
+            "sub_name": "",
+            "planet_category_id": 64,
+            "planet_channel_id": 554,
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/52267_ZINGIN.jpg"
+          },
+          "sub_84": {
+            "id": 84,
+            "name": "ZING UK",
+            "mode": "video",
+            "sub_name": "",
+            "planet_category_id": 64,
+            "planet_channel_id": 557,
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/52267_ZINGIN.jpg"
+          },
+          "sub_85": {
+            "id": 85,
+            "name": "ZOOM TV",
+            "mode": "video",
+            "sub_name": "",
+            "planet_category_id": 64,
+            "planet_channel_id": 559,
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/43003_Zoom.jpg"
+          }
+        }
+      }
+    }
+  }
+}
