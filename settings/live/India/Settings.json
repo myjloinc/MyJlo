@@ -465,7 +465,7 @@
         "is_disclaimer_app" : true,
         "is_force_approved": true,
         "disclaimer_title": "Disclaimer",
-        "disclaimer_message": "India Live TV doesn't contain any built-in channels.\n\nWe just provide Live TV guide by which you can watch Live TV to your smart streaming device."
+        "disclaimer_message": "This app does not own or host any content. We do not provide streaming content ourselves.\nThis application is designed to facilitate users to easily find and access media content over the Internet (publicly available).\nIf you make use of this application you agree to respect the rights of the content owners. If not you should not download and use this application."
       },
 
       "Playlist_Detail":
