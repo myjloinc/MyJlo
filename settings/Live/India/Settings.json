@@ -1,4 +1,4 @@
-﻿{
+{
   "TV_Data": {
     "Settings": {
       "Admob_Settings": {
@@ -81,11 +81,11 @@
           "visibility_percentage": 0
         },
         "google_ads": {
-          "ads_app_id": "ca-app-pub-2809733118839896~7073576670",
+          "ads_app_id": "ca-app-pub-2809733118839896~7049000251",
           "banner_ad_unit_id_test": "ca-app-pub-3940256099942544/6300978111",
-          "banner_ad_unit_id": "ca-app-pub-2809733118839896/1405730295",
+          "banner_ad_unit_id": "ca-app-pub-2809733118839896/8170510239",
           "interstitial_ad_unit_id_test": "ca-app-pub-3940256099942544/1033173712",
-          "interstitial_ad_unit_id": "ca-app-pub-2809733118839896/6373726764",
+          "interstitial_ad_unit_id": "ca-app-pub-2809733118839896/3659639334",
           "ads_banner_clicks_per_duration_day" : -1,
           "ads_interstitial_clicks_per_duration_day" : -1,
           "ads_clicks_duration_day" : 1,
@@ -98,15 +98,15 @@
           "is_interstitial_ads": true,
           "is_stream_player_banner_ads": true,
           "is_initially_ads_container_visible":true,
-          "native_ad_unit_id": "ca-app-pub-2809733118839896/1405730295",
-          "rewarded_video_ad_unit_id": "ca-app-pub-2809733118839896/1405730295",
+          "native_ad_unit_id": "ca-app-pub-2809733118839896/3659639334",
+          "rewarded_video_ad_unit_id": "ca-app-pub-2809733118839896/3659639334",
 
           "is_illegal_interstitial_ads": false,
           "is_legal_interstitial_ads": true,
           "is_illegal_banner_ads": false,
           "is_legal_banner_ads": true,
 
-          "visibility_percentage": 50
+          "visibility_percentage": 100
         },
         "unity_ads": {
           "is_debug_mode": false,
@@ -133,7 +133,7 @@
           "is_illegal_banner_ads": true,
           "is_legal_banner_ads": true,
 
-          "visibility_percentage": 50
+          "visibility_percentage": 5
         },
         "custom_ads" :
         {
@@ -168,13 +168,13 @@
             }
           }
         },
-        "is_banner_ads": false,
-        "is_interstitial_ads": false,
-        "is_stream_player_banner_ads": false,
-        "is_illegal_interstitial_ads": false,
-        "is_legal_interstitial_ads": false,
-        "is_illegal_banner_ads": false,
-        "is_legal_banner_ads": false,
+        "is_banner_ads": true,
+        "is_interstitial_ads": true,
+        "is_stream_player_banner_ads": true,
+        "is_illegal_interstitial_ads": true,
+        "is_legal_interstitial_ads": true,
+        "is_illegal_banner_ads": true,
+        "is_legal_banner_ads": true,
         "amazon_ads": {
           "ads_app_id": "ab2af0042c144a81a7edf1ffc14293a8",
           "ads_banner_clicks_per_duration_day" : 1,
@@ -212,7 +212,7 @@
           "is_illegal_banner_ads": true,
           "is_legal_banner_ads": true,
 
-          "visibility_percentage": 100
+          "visibility_percentage": 5
         }
       },
       "App_Guide_Data":
@@ -327,10 +327,10 @@
 
         "updated_version_code":1,
 
-        "filename":"India_TV.apk",
+        "filename":"India_Live_TV.apk",
         "title":"App Update",
         "default_message":"Your App is Up to date.",
-        "log_message":"- Now become more powerfull IPTV Player",
+        "log_message":"- Now become more powerfull Live TV APP",
         "downloading_message":"App Downloading",
         "installing_message":"App Install"
       },
@@ -351,7 +351,7 @@
         "is_system_browser":true,
         "downloading_message": "App Downloading",
         "installing_message": "App Install",
-        "inapp_base64EncodedPublicKey" : "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAijf9lmcJ2fp2Rqe46TWxLOZV4vQH6enRNjTGgyvmzngtBmNDdFKAc+cS8gCSZ+emIVHXIhUvos4CmLNPFyfez11ERehoj7RIrskkafp1HM+1R1Jit9VeSPJPJDS9n/befwpe6QTbi1z7DMUEcJ7PYA7nfJ9NhV5Y12Hxe3khQ6lng61bsQq3P7cbQPtHPwntg6M474wuFmHoj8CjQ84birVqmPYWvIkZ6uWVw13A1Owb8Gsp4w2pVvhjnYBMHffHP8Tl6Qe9duCqKp2DEoFxv6F/PjbyqmI7z0hL+8ijnkiEXavFnQ3OAOZUSkpYMxNdZT4/5J9MHs/o87KaO9Pa7wIDAQAB",
+        "inapp_base64EncodedPublicKey" : "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAr4L1gyUE7ssrl27xxfQ7umxXdDuIucx9KS8fxjOdXA7AewgtZGHXWDmYf62aiW/YCE7AreNDK9JHQRbX308u5na7mAqrrvBkG0rwUZHExjQI84n1E24HL4F97QupaUigcRD/f++wXEog77r1tVMyUa/rh0ToZuQ09k2CQiuSkz5vpbyKrkz3anvZNmrnC7EHP6ZCPXpVZUZ5QFOVpudrPTROLPwanPyMuyOFU8cCt5utOp+OD79NHlXihupo4clsbC8J576Ng6OqTSpGCn+/tZm0+byIOHEo4VqNKQpDXhYU2DrR+//efWDj9w05kBr0UoVU64hq31eNOppAXxgsdQIDAQAB",
         "inapp_base64EncodedPublicKey_core" : "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhbxbwByaAeBtBOWnxKoYqIMcmgopIpgLi5G8bL62J1rKNntpV5ildIO0rZo8umb8KQHtxDg58Hevlb1gvPYVKRjTQTQCMJ99vzx7kkqwX1RUxVWuL5/Iixyrp3GgHdEb8YtVGDTN5hhLqgkCQ/iE52gMFC7UhU8dN7e+GWhsQsHfqhA9K6Xrh/jEv4pAjxN10kYXYDNvyxq7KA+j4d1qEbaJjUzKXbIeUTfNhueL+/IlMUKnTL1Z6h6ZzkUh3jsvzSbeWeWBoaEDh+xz7QdqsxUz+2JAwffYeLZMyFmfLciWdk8zZ7hVO47wDare3FGmC/lV2Xjv4bhQpc6Zzyv+vQIDAQAB",
         "inapp_base64EncodedPublicKey_all" : "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApLE+5061d1CMY+2i9gmWOfp/2frJ8am0gZcck7l7VxwUKLsHmWfapCKj2hKxJWb2SS9O9WAAKLLav/xqCz3KjaHpPT/h1aMiBV7UbhiXU0upDxndPjRWqIn2gsAkxiRoOcAxh0d365YL5qatzGqBOWw2tGwnEc5f1bgmZuCs+wgXXwjiEUY1eHLwjc0wsLT/8H9zpARUhsTh3eefHDesg6Yakfi9F+l8B/Y6tuWheWdB1WFwrDFJuiXv2Kq6Dcb80MiPPNIhO2wIf+1CsVDvgsRQGBDKJFPBpKznNdibDiYL0qS7R1Xu3Bh63Mvt9ns3yKQTR0yQ4x9xRvpRIk7o+QIDAQAB"
       },
@@ -443,7 +443,8 @@
 
         "inapp_remove_ads_sku_all" : "com.pockettv.removeads",
         "inapp_remove_ads_sku" : "com.myjlo.removeads",
-        "inapp_remove_ads_message": "If you want to remove ads permanently then \"PAYMENT\".\n\nIf you want to remove ads for this session only then press \"SESSION FREE\" and share app to your friends.",
+        "inapp_remove_ads_message_free": "If you want to remove ads permanently then \"PAYMENT\".\n\nIf you want to remove ads for this session only then press \"SESSION FREE\" and share app to your friends.",
+        "inapp_remove_ads_message": "do you want to remove ads permanently?\n\n\"PAYMENT\" and enjoy Ads free version.",
 
         "remove_ads_banner_url": "https://ads-blocker.com/wp-content/uploads/2015/02/ads-blocker-logo.png",
 
@@ -465,7 +466,7 @@
         "is_disclaimer_app" : true,
         "is_force_approved": true,
         "disclaimer_title": "Disclaimer",
-        "disclaimer_message": "India Live TV doesn't contain any built-in channels.\n\nWe just provide Live TV guide by which you can watch Live TV to your smart streaming device."
+        "disclaimer_message": "This app does not own or host any content. We do not provide streaming content ourselves.\nThis application is designed to facilitate users to easily find and access media content over the Internet (publicly available).\nIf you make use of this application you agree to respect the rights of the content owners. If not you should not download and use this application."
       },
 
       "Playlist_Detail":
@@ -532,7 +533,7 @@
         "is_override" : false,
         "is_privacy_policy" : true,
         "is_system_browser": true,
-        "privacy_policy": "https://s3.ap-south-1.amazonaws.com/www.jloprivacypolicy.com/india-tv.html"
+        "privacy_policy": "https://s3.ap-south-1.amazonaws.com/www.jloprivacypolicy.com/Live/india-live-tv.html"
       },
 
       "Splash_Screen":
