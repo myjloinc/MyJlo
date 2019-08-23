@@ -55,7 +55,7 @@
 
           "visibility_percentage": 0
         },
-        "default_ads": "google_ads",
+        "default_ads": "facebook_ads",
         "final_default_ads":"startapp_ads",
         "facebook_ads": {
           "ads_app_id": "371431930198457",
