@@ -270,7 +270,7 @@
         "website_url":"https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Master/APKS/app-release-v7.apk",
         "is_system_browser":true,
 
-        "updated_version_code":7,
+        "updated_version_code":3,
 
         "filename":"Pocket_TV.apk",
         "title":"App Update",
@@ -475,7 +475,7 @@
         "is_override" : false,
         "registration_detail1": "",
         "registration_detail": "Algeria TV® 2017",
-        "version_detail": "version : 7.0.0"
+        "version_detail": "version : 3.0.0"
       },
 
       "Live_Support":
