@@ -1,14 +1,12 @@
-﻿{
+{
   "TV_Data": {
     "Settings": {
       "Admob_Settings": {
         "is_override" : false,
-        "legal_ads_delay": 2,
-        "illegal_ads_delay": 1,
-        "legal_ads_on_cancel_delay": 2,
-        "illegal_ads_on_cancel_delay": 1,
-        "banner_ads_reload_count": 1,
-        "interstitial_ads_reload_count": 1,
+        "ads_delay": 1,
+        "ads_on_cancel_delay": 0,
+        "banner_ads_reload_count": 3,
+        "interstitial_ads_reload_count": 2,
         "ads_loading_text": "Ads will loading...",
         "applovin_ads": {
           "ads_app_id": "WELTwtWXafsts82Q1HIQ2v7OeEHUtGHOUcsPTMx21owuxzIzEbNGUVf8kycbCu-hVr5zB10Dpx5luOh7-4NSZ2",
@@ -23,12 +21,6 @@
           "is_interstitial_ads": true,
           "is_stream_player_banner_ads": true,
           "is_initially_ads_container_visible":false,
-
-          "is_illegal_interstitial_ads": false,
-          "is_legal_interstitial_ads": true,
-          "is_illegal_banner_ads": false,
-          "is_legal_banner_ads": true,
-
           "visibility_percentage": 0
         },
         "appnext_ads": {
@@ -47,93 +39,68 @@
           "is_stream_player_banner_ads": true,
           "is_initially_ads_container_visible":false,
           "rewarded_video_ad_unit_id": "8c9e6a25-14b7-4184-89a5-f1e14be59b1b",
-
-          "is_illegal_interstitial_ads": false,
-          "is_legal_interstitial_ads": true,
-          "is_illegal_banner_ads": false,
-          "is_legal_banner_ads": true,
-
           "visibility_percentage": 0
         },
-        "default_ads": "facebook_ads",
+        "default_ads": "unity_ads",
         "final_default_ads":"startapp_ads",
         "facebook_ads": {
-          "ads_app_id": "394649147922390",
-          "banner_ad_unit_id": "394649147922390_394649921255646",
-          "interstitial_ad_unit_id": "394649147922390_394651067922198",
-          "ads_banner_clicks_per_duration_day" : -1,
-          "ads_interstitial_clicks_per_duration_day" : -1,
+          "ads_app_id": "353151288785830",
+          "banner_ad_unit_id": "353151288785830_353151742119118",
+          "interstitial_ad_unit_id": "353151288785830_353152322119060",
+          "ads_banner_clicks_per_duration_day" : 8,
+          "ads_interstitial_clicks_per_duration_day" : 4,
           "ads_clicks_duration_day" : 1,
           "is_banner_safety_layer_one_click_remove":true,
           "is_interstitial_safety_layer_one_click_remove":true,
           "is_permanent_safety_layer": false,
-          "is_ads": true,
-          "is_banner_ads": true,
-          "is_interstitial_ads": true,
-          "is_stream_player_banner_ads": true,
+          "is_ads": false,
+          "is_banner_ads": false,
+          "is_interstitial_ads": false,
+          "is_stream_player_banner_ads": false,
           "is_initially_ads_container_visible":true,
-
-          "is_illegal_interstitial_ads": false,
-          "is_legal_interstitial_ads": true,
-          "is_illegal_banner_ads": false,
-          "is_legal_banner_ads": true,
-
-          "visibility_percentage": 50
+          "visibility_percentage": 0
         },
         "google_ads": {
-          "ads_app_id": "ca-app-pub-2809733118839896~9558899513",
-          "banner_ad_unit_id_test": "ca-app-pub-3940256099942544/6300978111",
-          "banner_ad_unit_id": "ca-app-pub-2809733118839896/1488837809",
-          "interstitial_ad_unit_id_test": "ca-app-pub-3940256099942544/1033173712",
-          "interstitial_ad_unit_id": "ca-app-pub-2809733118839896/7842918197",
-          "ads_banner_clicks_per_duration_day" : -1,
+          "ads_app_id": "ca-app-pub-5004393487171509~6685526148",
+          "banner_ad_unit_id": "ca-app-pub-5004393487171509/9283769324",
+          "banner_ad_unit_id1": "ca-app-pub-3940256099942544/6300978111",
+          "interstitial_ad_unit_id": "ca-app-pub-5004393487171509/1417598032",
+          "interstitial_ad_unit_id1": "ca-app-pub-3940256099942544/1033173712",
+          "ads_banner_clicks_per_duration_day" : 2,
           "ads_interstitial_clicks_per_duration_day" : -1,
           "ads_clicks_duration_day" : 1,
           "safety_layer_delay_millisecond" : 100,
-          "is_banner_safety_layer_one_click_remove":true,
-          "is_interstitial_safety_layer_one_click_remove":true,
+          "is_banner_safety_layer_one_click_remove":false,
+          "is_interstitial_safety_layer_one_click_remove":false,
           "is_permanent_safety_layer": false,
-          "is_ads": true,
-          "is_banner_ads": true,
-          "is_interstitial_ads": true,
-          "is_stream_player_banner_ads": true,
+          "is_ads": false,
+          "is_banner_ads": false,
+          "is_interstitial_ads": false,
+          "is_stream_player_banner_ads": false,
           "is_initially_ads_container_visible":true,
-          "native_ad_unit_id": "ca-app-pub-2809733118839896/7842918197",
-          "rewarded_video_ad_unit_id": "ca-app-pub-2809733118839896/7842918197",
-
-          "is_illegal_interstitial_ads": false,
-          "is_legal_interstitial_ads": true,
-          "is_illegal_banner_ads": false,
-          "is_legal_banner_ads": true,
-
-          "visibility_percentage": 50
+          "native_ad_unit_id": "ca-app-pub-5004393487171509/4187942046",
+          "rewarded_video_ad_unit_id": "ca-app-pub-5004393487171509/4187942046",
+          "visibility_percentage": 0
         },
         "unity_ads": {
           "is_debug_mode": false,
           "is_test_mode": false,
-          "ads_app_id": "3203177",
-          "ads_app_id1": "2994298",
+          "ads_app_id": "3073039",
           "banner_ad_unit_id": "banner",
           "interstitial_ad_unit_id": "interstitial",
           "ads_banner_clicks_per_duration_day" : 10,
           "ads_interstitial_clicks_per_duration_day" : 10,
           "ads_clicks_duration_day" : 1,
           "safety_layer_delay_millisecond" : 100,
-          "is_banner_safety_layer_one_click_remove":false,
-          "is_interstitial_safety_layer_one_click_remove":false,
+          "is_banner_safety_layer_one_click_remove":true,
+          "is_interstitial_safety_layer_one_click_remove":true,
           "is_permanent_safety_layer": false,
           "is_ads": true,
-          "is_banner_ads": false,
+          "is_banner_ads": true,
           "is_interstitial_ads": true,
           "is_stream_player_banner_ads": true,
           "is_initially_ads_container_visible":true,
-
-          "is_illegal_interstitial_ads": true,
-          "is_legal_interstitial_ads": true,
-          "is_illegal_banner_ads": true,
-          "is_legal_banner_ads": true,
-
-          "visibility_percentage": 5
+          "visibility_percentage": 100
         },
         "custom_ads" :
         {
@@ -142,12 +109,6 @@
           "is_interstitial_ads": true,
           "is_stream_player_banner_ads": true,
           "is_initially_ads_container_visible":false,
-
-          "is_illegal_interstitial_ads": true,
-          "is_legal_interstitial_ads": false,
-          "is_illegal_banner_ads": true,
-          "is_legal_banner_ads": false,
-
           "visibility_percentage": 0,
           "ads_list" :
           {
@@ -171,10 +132,6 @@
         "is_banner_ads": true,
         "is_interstitial_ads": true,
         "is_stream_player_banner_ads": true,
-        "is_illegal_interstitial_ads": true,
-        "is_legal_interstitial_ads": true,
-        "is_illegal_banner_ads": true,
-        "is_legal_banner_ads": true,
         "amazon_ads": {
           "ads_app_id": "ab2af0042c144a81a7edf1ffc14293a8",
           "ads_banner_clicks_per_duration_day" : 1,
@@ -190,28 +147,16 @@
           "is_interstitial_ads": true,
           "is_stream_player_banner_ads": false,
           "is_initially_ads_container_visible":true,
-
-          "is_illegal_interstitial_ads": false,
-          "is_legal_interstitial_ads": true,
-          "is_illegal_banner_ads": false,
-          "is_legal_banner_ads": true,
-
           "visibility_percentage": 0
         },
         "startapp_ads": {
           "ads_app_id1": "201571398",
-          "ads_app_id": "205575843",
+          "ads_app_id": "211764508",
           "is_ads": true,
           "is_banner_ads": true,
           "is_interstitial_ads": true,
           "is_stream_player_banner_ads": true,
           "is_initially_ads_container_visible":true,
-
-          "is_illegal_interstitial_ads": true,
-          "is_legal_interstitial_ads": true,
-          "is_illegal_banner_ads": true,
-          "is_legal_banner_ads": true,
-
           "visibility_percentage": 5
         }
       },
@@ -234,7 +179,7 @@
         {
           "is_guide":true,
           "guide_title":"Main Menu",
-          "guide_description":"You can get Canada TV supports and features here."
+          "guide_description":"You can get Pocket IPTV supports and features here."
         },
         "guide_add_playlist":
         {
@@ -321,16 +266,16 @@
         "is_update_require":true,
 
         "package_id":"com.myjlo.canadatv",
-        "download_url":"",
-        "website_url":"https://play.google.com/store/apps/details?id=com.myjlo.canadatv",
+        "download_url":"https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Master/APKS/app-release-v7.apk",
+        "website_url":"https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Master/APKS/app-release-v7.apk",
         "is_system_browser":true,
 
-        "updated_version_code":1,
+        "updated_version_code":7,
 
-        "filename":"Canada_TV.apk",
+        "filename":"Pocket_TV.apk",
         "title":"App Update",
         "default_message":"Your App is Up to date.",
-        "log_message":"- Now become more powerfull IPTV Player",
+        "log_message":"- Now become more powerfull TV Player",
         "downloading_message":"App Downloading",
         "installing_message":"App Install"
       },
@@ -338,22 +283,20 @@
       "Inapp_Purchase_Settings" :
       {
         "is_override": false,
-        "class_name_all" : "com.allinone.purchase.MainActivity",
-        "class_name" : "com.purchase.core.MainActivity",
-        "purchase_package_id_all" : "com.allinone.purchase",
-        "purchase_package_id_core" : "com.purchase.core",
-        "purchase_package_id" : "com.myjlo.canadatv",
-        "download_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/All-In-One_Purcahse/APK/All%20In%20One%20Purchase.apk",
-        "filename" : "Purchase_Core.apk",
-        "purchase_title": "Purchase Core",
+        "class_name" : "com.allinone.purchase.MainActivity",
+        "purchase_package_id" : "com.allinone.purchase",
+        "purchase_package_id1" : "com.myjlo.canadatv",
+        "download_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/PockeTV-Master/APKS/All%20In%20One%20Purchase.apk",
+        "filename" : "All_In_One_Purchase.apk",
+        "purchase_title": "All In One Purchase",
         "purchase_message": "If you want to purchase then you have to install Purchase App.\nand then try again to purchase from here once again.",
-        "website_url" : "",
+        "website_url1" : "https://drive.google.com/uc?authuser=0&id=1WSfXT0SLzllfqgEYeFmfDd65YrNgYKQq&export=download",
+        "website_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/PockeTV-Master/APKS/All%20In%20One%20Purchase.apk",
         "is_system_browser":true,
         "downloading_message": "App Downloading",
         "installing_message": "App Install",
-        "inapp_base64EncodedPublicKey" : "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgZw4xELtSTCZiNUGDLG8NtyAczP4hvU2Hq+0ui9CbxmVVyKAd9dlKVFmCiubhK8l57yvlpW8m4BXDU/FcVKmxLmLFTcZmChBsCD/uJo51Kp5h6oREjhM50Wsj+mLK51+7ISzZ60KGexnD2Y5Pg2SUY1TqK8xwaT4UXFj8X7aKKsxsnNYMYCwR3ZdTbNG39BU7w++mIlQyQ+QeeIhWvMjhXYFaixBkuwufomi/bqF7+lX+p3r5JMJ7K5NmQ/hMpX/WgrlkQ9hZ3rSJiLwmmqK9OJ1KVozW4rm5wBihvLPRi7SpajN6+xVSgmmuf2D4afRb3LavegT+fWh/W8Ik3dwvwIDAQAB",
-        "inapp_base64EncodedPublicKey_core" : "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhbxbwByaAeBtBOWnxKoYqIMcmgopIpgLi5G8bL62J1rKNntpV5ildIO0rZo8umb8KQHtxDg58Hevlb1gvPYVKRjTQTQCMJ99vzx7kkqwX1RUxVWuL5/Iixyrp3GgHdEb8YtVGDTN5hhLqgkCQ/iE52gMFC7UhU8dN7e+GWhsQsHfqhA9K6Xrh/jEv4pAjxN10kYXYDNvyxq7KA+j4d1qEbaJjUzKXbIeUTfNhueL+/IlMUKnTL1Z6h6ZzkUh3jsvzSbeWeWBoaEDh+xz7QdqsxUz+2JAwffYeLZMyFmfLciWdk8zZ7hVO47wDare3FGmC/lV2Xjv4bhQpc6Zzyv+vQIDAQAB",
-        "inapp_base64EncodedPublicKey_all" : "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApLE+5061d1CMY+2i9gmWOfp/2frJ8am0gZcck7l7VxwUKLsHmWfapCKj2hKxJWb2SS9O9WAAKLLav/xqCz3KjaHpPT/h1aMiBV7UbhiXU0upDxndPjRWqIn2gsAkxiRoOcAxh0d365YL5qatzGqBOWw2tGwnEc5f1bgmZuCs+wgXXwjiEUY1eHLwjc0wsLT/8H9zpARUhsTh3eefHDesg6Yakfi9F+l8B/Y6tuWheWdB1WFwrDFJuiXv2Kq6Dcb80MiPPNIhO2wIf+1CsVDvgsRQGBDKJFPBpKznNdibDiYL0qS7R1Xu3Bh63Mvt9ns3yKQTR0yQ4x9xRvpRIk7o+QIDAQAB"
+        "inapp_base64EncodedPublicKey" : "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApLE+5061d1CMY+2i9gmWOfp/2frJ8am0gZcck7l7VxwUKLsHmWfapCKj2hKxJWb2SS9O9WAAKLLav/xqCz3KjaHpPT/h1aMiBV7UbhiXU0upDxndPjRWqIn2gsAkxiRoOcAxh0d365YL5qatzGqBOWw2tGwnEc5f1bgmZuCs+wgXXwjiEUY1eHLwjc0wsLT/8H9zpARUhsTh3eefHDesg6Yakfi9F+l8B/Y6tuWheWdB1WFwrDFJuiXv2Kq6Dcb80MiPPNIhO2wIf+1CsVDvgsRQGBDKJFPBpKznNdibDiYL0qS7R1Xu3Bh63Mvt9ns3yKQTR0yQ4x9xRvpRIk7o+QIDAQAB",
+        "inapp_base64EncodedPublicKey_core" : "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhbxbwByaAeBtBOWnxKoYqIMcmgopIpgLi5G8bL62J1rKNntpV5ildIO0rZo8umb8KQHtxDg58Hevlb1gvPYVKRjTQTQCMJ99vzx7kkqwX1RUxVWuL5/Iixyrp3GgHdEb8YtVGDTN5hhLqgkCQ/iE52gMFC7UhU8dN7e+GWhsQsHfqhA9K6Xrh/jEv4pAjxN10kYXYDNvyxq7KA+j4d1qEbaJjUzKXbIeUTfNhueL+/IlMUKnTL1Z6h6ZzkUh3jsvzSbeWeWBoaEDh+xz7QdqsxUz+2JAwffYeLZMyFmfLciWdk8zZ7hVO47wDare3FGmC/lV2Xjv4bhQpc6Zzyv+vQIDAQAB"
       },
 
       "Start_Up_Popup":
@@ -373,26 +316,21 @@
       "Supports_Availability":
       {
         "is_override" : false,
-        "is_smart_player_support": false,
-        "is_android_player_support": false,
-        "is_webview_player_support": false,
-        "is_other_player_support":false,
-        "is_inapp_other_player_support":false,
+        "is_smart_player_support": true,
+        "is_android_player_support": true,
+        "is_webview_player_support": true,
+        "is_other_player_support":true,
+        "is_inapp_other_player_support":true,
         "is_other_player_session_free_support":false,
 
-        "is_playlist_support":false,
-        "is_barcode_support":false,
-
-        "is_cast_support":false,
-        "is_inapp_cast_support":false,
+        "is_cast_support":true,
+        "is_inapp_cast_support":true,
         "is_cast_session_free_support":false,
 
         "is_remove_ads_support":true,
         "is_remove_ads_session_free_support":false,
 
-        "is_purchase_restore_support":true,
-
-        "is_original_thumb_icon":true
+        "is_purchase_restore_support":true
       },
 
       "Other_Player_Support":
@@ -400,8 +338,7 @@
         "is_override" : false,
         "other_player_title": "Other Player Support",
 
-        "inapp_other_player_sku_all" : "com.pocketiptv.otherplayeroption",
-        "inapp_other_player_sku" : "com.myjlo.otherplayeroption",
+        "inapp_other_player_sku" : "com.pockettv.otherplayeroption",
         "inapp_other_player_message": "If you want to play video on you favorite video player.\n\nThen you should purchase this service.\n\nYou will get player chooser while you try to play any video or channel from Canada TV.",
 
         "other_player_banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Player-select.jpg?alt=media&token=42a59563-69ca-4048-81de-96d82fb952b0",
@@ -418,8 +355,7 @@
         "cast_referer": "https://www.metube.id",
         "cast_package_name": "com.instantbits.cast.webvideo",
 
-        "inapp_cast_sku_all" : "com.pocketiptv.chromecast",
-        "inapp_cast_sku" : "com.myjlo.chromecast",
+        "inapp_cast_sku" : "com.pockettv.chromecast",
         "inapp_cast_message": "If you want to play video on you TV.\n\nThen you should purchase this service.\n\nYou will get chromecast support from Canada TV.",
 
         "cast_banner_url": "https://www.hyperlinkinfosystem.com/assets/uploads/banner/1479248554.png",
@@ -441,9 +377,7 @@
         "is_override" : false,
         "remove_ads_title": "Remove Ads Support",
 
-        "inapp_remove_ads_sku_all" : "com.pockettv.removeads",
-        "inapp_remove_ads_sku" : "com.myjlo.removeads",
-        "inapp_remove_ads_message_1": "If you want to remove ads permanently then \"PAYMENT\".",
+        "inapp_remove_ads_sku" : "com.pockettv.removeads",
         "inapp_remove_ads_message": "If you want to remove ads permanently then \"PAYMENT\".",
 
         "remove_ads_banner_url": "https://ads-blocker.com/wp-content/uploads/2015/02/ads-blocker-logo.png",
@@ -466,17 +400,17 @@
         "is_disclaimer_app" : true,
         "is_force_approved": true,
         "disclaimer_title": "Disclaimer",
-        "disclaimer_message": "Canada TV doesn't contain any built-in channels.\n\nWe just provide Live TV guide by which you can watch Live TV to your smart streaming device."
+        "disclaimer_message": "Canada TV doesn't contain any built-in channels. you need to have playlist with TV channels in order to this app. it just IPTV player which manage all channels and playlist in well manner."
       },
 
       "Playlist_Detail":
       {
         "is_override" : false,
-        "playlist_message": "Please contact your IPTV provider to get M3U, M3U8, PLS, RUTU or XSPF playlist with TV Channels",
+        "playlist_message": "Please contact your TV provider to get M3U, M3U8, PLS, RUTU or XSPF playlist with TV Channels",
         "is_system_browser": false,
         "playlist_web_search": "",
-        "default_playlist_url": "https://raw.githubusercontent.com/myjloinc/MyJlo/master/settings/Canada/Canada.json",
-        "default_playlist_url1": "https://raw.githubusercontent.com/theantiqa/PocketIPTV/master/IPTV%20List/Pocket_TV.m3u"
+        "default_playlist_url1": "",
+        "default_playlist_url": "https://raw.githubusercontent.com/theantiqa/PocketIPTV/master/IPTV%20List/Pocket_TV.m3u"
       },
 
       "About_App":
@@ -484,7 +418,7 @@
         "is_override" : false,
         "is_about_app" : true,
         "about_title": "About",
-        "about_message": "Canada TV does not warrant the completeness, timeliness or accuracy of any of the data contained in this app and may make changes thereto at any time in its sole discretion without notice. Further, all information conveyed hereby is provided to users “AS IS”. In no event shall Canada TV be liable for any damages of any kind related to the use or misuse of Information provided hereby.\nWe do not host any link or streams, we only provide information which help to watch Live TV. If you found any copyrighted channel, please write us in feedback with appropriate link host for its removal."
+        "about_message": "Canada TV does not warrant the completeness, timeliness or accuracy of any of the data contained in this app and may make changes thereto at any time in its sole discretion without notice. Further, all information conveyed hereby is provided to users “AS IS”. In no event shall Canada TV be liable for any damages of any kind related to the use or misuse of Information provided hereby.\nWe do not host any link or streams. If you found any copyrighted channel, please write us in feedback with appropriate link host for its removal."
       },
 
       "Exit_Dialog":
@@ -497,7 +431,7 @@
       "Rate_App":
       {
         "is_override" : false,
-        "is_rate_app" : true,
+        "is_rate_app" : false,
         "package_id" : "com.myjlo.canadatv",
         "rate_app_url" : "https://play.google.com/store/apps/details?id=com.myjlo.canadatv",
         "rate_message" : "Please Rate us and promote us."
@@ -507,15 +441,15 @@
       {
         "is_override" : false,
         "is_more_app" : false,
-        "developer_id" : "Myjlo+™+Inc.",
-        "more_app_url" : "https://play.google.com/store/apps/developer?id=Myjlo+%E2%84%A2+Inc."
+        "developer_id" : "Pocket+TV+™",
+        "more_app_url" : "https://play.google.com/store/apps/developer?id=Pocket+IPTV+%E2%84%A2"
       },
 
       "Share_App":
       {
         "is_override" : false,
         "is_share_app" : true,
-        "share_message_app": "Are you looking to watch Live TV in HD on your smart streaming device then this app gives you advice to watch Live TV in HD : https://play.google.com/store/apps/details?id=com.myjlo.canadatv",
+        "share_message_app": "Are you looking to Watch 2000+ Global Live TV Channels? Like Live Sports, News, Wild Life/Science, Religious, Kidz Channels in Full HD, Also you can see Popular TV Shows, Movies(Bollywood, Hollywood, Tollywood etc...), Video Songs Episodes (All Languages) then you should download : https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/PockeTV-Master/APKS/app-release-v7.apk",
         "share_message_iptv": "Share iptv url : ",
         "share_message_link": "Share link url : "
       },
@@ -531,23 +465,23 @@
       "Privacy_Policy":
       {
         "is_override" : false,
-        "is_privacy_policy" : true,
+        "is_privacy_policy" : false,
         "is_system_browser": true,
-        "privacy_policy": "https://s3.ap-south-1.amazonaws.com/www.jloprivacypolicy.com/canada-tv.html"
+        "privacy_policy": "http://www.pocketiptv.com/privacy-policy"
       },
 
       "Splash_Screen":
       {
         "is_override" : false,
         "registration_detail1": "",
-        "registration_detail": "MyJlo ® 2019",
-        "version_detail": "version : 1.0.0"
+        "registration_detail": "Canada TV® 2017",
+        "version_detail": "version : 7.0.0"
       },
 
       "Live_Support":
       {
         "is_override" : false,
-        "is_live_support" : false,
+        "is_live_support" : true,
         "fb_messenger_uri": "fb-messenger://user/",
         "fb_messenger_id": "822625707789265",
         "is_system_browser": true,
@@ -563,33 +497,14 @@
         "thumbnail_url": "https://getfblite.com/wp-content/uploads/2017/08/messenger-lite-2.png"
       },
 
-      "User_Community_Support":
-      {
-        "is_override" : false,
-        "is_User_Community_Support" : false,
-        "tg_messenger_uri": "https://t.me/joinchat/",
-        "tg_messenger_id": "JOQ_XRbkuW3hZbj1N-YLmQ",
-        "is_system_browser": true,
-        "live_support_url": "",
-        "banner_url": "http://www.sixboxes.com/_customelements/uploadedResources/085624_community.jpg",
-        "website_url": "",
-        "progress_downloading_message": "Downloading",
-        "progress_install_message": "Installing",
-        "application_package_id": "org.telegram.messenger",
-        "full_title": "USer Community",
-        "application_download_url": "",
-        "description": "For User Community,\n\nYou have to install this app after that you will be touch with user group",
-        "thumbnail_url": "http://www.arenawp.com/wp-content/uploads/mo/thumb-monochrome-round-user-group-icon-vector.jpg"
-      },
-
       "Feedback_Support":
       {
         "is_override" : false,
         "is_feedback" : true,
 
         "cc_email_id": "",
-        "email_id": "myjlo.inc@gmail.com",
-        "email_message": "Hi,\n\n\nYour Feedback to Canada TV\n\nI would like to give you some feedback: ",
+        "email_id": "rutu.inc@gmail.com",
+        "email_message": "Hi,\n\n\nYour Feedback Canada TV Rocks! I would like to give you some feedback: ",
         "email_subject": "Feedback on Canada TV",
 
         "feedback_title": "Send Feedback",
@@ -602,7 +517,7 @@
         "is_channel_report" : true,
 
         "cc_email_id": "",
-        "email_id": "myjlo.inc@gmail.com",
+        "email_id": "rutu.inc@gmail.com",
 
         "channel_report_title": "Channel Report"
       },
@@ -613,30 +528,30 @@
         "is_error_report" : true,
 
         "cc_email_id": "",
-        "email_id": "myjlo.inc@gmail.com"
+        "email_id": "rutu.inc@gmail.com"
       },
 
       "Social_Support":
       {
         "is_override" : false,
-        "is_social" : false,
+        "is_social" : true,
         "social_title" : "Social",
         "social_message" : "Like and share post in social media.",
         "facebook_page_url": "fb://page/822625707789265",
         "facebook_url": "https://www.facebook.com/822625707789265",
-        "instagram_url": "https://www.instagram.com/",
-        "twitter_url": "https://www.twitter.com/",
-        "youtube_url": "https://www.youtube.com/",
-        "google_plus_url": "https://plus.google.com/",
-        "linkedin_url": "https://www.linkedin.com/",
-        "linkedin_page_url": "linkedin://id"
+        "instagram_url": "",
+        "twitter_url": "https://www.twitter.com/pockettv",
+        "youtube_url": "https://www.youtube.com/channel/UCUJZ5ViT8Pf554apqwwjFEg",
+        "google_plus_url": "",
+        "linkedin_url": "",
+        "linkedin_page_url": ""
       },
 
       "Live_Stream_Settings":
       {
         "is_override" : false,
 
-        "planet_url": "http://app.liveplanettv.com/beta/",
+        "planet_url": "http://app.liveplanettv.com/",
 
         "diltv_pak_url": "https://www.diltv.org/apps/output.php/playlist?type=xml&deviceSn=pakentnews&token=",
         "diltv_dhamaka_url": "https://www.diltv.org/apps/output.php/playlist?type=xml&deviceSn=dhamkatv1&token=",
